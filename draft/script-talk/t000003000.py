@@ -987,11 +987,11 @@ def t000003000_x2227():
             assert t000003000_x2224(text2=10004500)
 
         elif((GetEventFlag(1054539205)*16 + GetEventFlag(1054539201)*8 + GetEventFlag(35009360)*4 + GetEventFlag(4681)*2 + GetEventFlag(4680)*1) == 9):
-            # 100120000	…… (白金废案,约定)
+            # 100120000	…… (仿身泪滴废案,约定)
             assert t000003000_x2224(text2=10012000)
 
         elif((GetEventFlag(1054539205)*16 + GetEventFlag(1054539201)*8 + GetEventFlag(35009360)*4 + GetEventFlag(4681)*2 + GetEventFlag(4680)*1) == 10):
-            # 100121000	…… (白金废案,旅行)
+            # 100121000	…… (仿身泪滴废案,旅行)
             assert t000003000_x2224(text2=10012100)
 
         elif((GetEventFlag(1054539205)*16 + GetEventFlag(1054539201)*8 + GetEventFlag(35009360)*4 + GetEventFlag(4681)*2 + GetEventFlag(4680)*1) == 11):

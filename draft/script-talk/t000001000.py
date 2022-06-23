@@ -1485,10 +1485,10 @@ def t000001000_x2224():
     # AwardItemLot(lot1)
     #PlayerEquipmentQuantityChange
 
-    # 100121000	…… (白金废案,旅行)
+    # 100121000	…… (仿身泪滴废案,旅行)
     AddTalkListDataIf((ComparePlayerInventoryNumber(3, 8159, 4, 1, 0) == 1 and GetEventFlag(11009251)==1), 10, 70000110, -1)
 
-    # 100120000	…… (白金废案,约定,改为检测骨灰？)
+    # 100120000	…… (仿身泪滴废案,约定,改为检测骨灰？)
     AddTalkListDataIf(( ComparePlayerInventoryNumber(3, 8159, 4, 1, 0) == 1 and GetEventFlag(11009251)==0), 9, 70000109, -1)
 
     # 100045000	……我直接复诵玛莉卡的箴言：
