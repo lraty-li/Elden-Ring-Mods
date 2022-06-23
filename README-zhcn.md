@@ -8,7 +8,7 @@
 
 ## 安装
 
-推荐使用 [modEngine2]("https://github.com/soulsmods/ModEngine2") 安装
+推荐使用 [modEngine2](https://github.com/soulsmods/ModEngine2) 安装
 
 ## 能够聊天的进度
 
@@ -17,7 +17,7 @@
 
 ## 聊天条目
 
-条目(例如箴言)需要被 "与梅琳娜交谈" 触发过才能在聊天界面选择
+条目(例如箴言)需要被 "与梅琳娜交谈" 触发过才能在聊天界面选择,目前一共有17句对话(实际在游戏中最多能看到16句)。
 
 ## 修改的对话脚本
 
@@ -30,7 +30,7 @@ t000003000.py
 
 ## 新增的文本ID (EventTextForTalk)
 
-除了中文简体、中文繁体，其他语言版本的聊天选项都设置为英文翻译。如果你想新增翻译,请看```intl``` 文件夹
+除了中文简体、中文繁体，其他语言版本的聊天选项都设置为英文翻译。如果你想新增翻译,请看```intl``` 文件夹, 只需要翻译70000000 到 70000000 70000002 即可，剩余文本来自游戏对话。
 
 ```xml
 msg\zhocn\menu-msgbnd-dcx\GR\data\INTERROOT_win64\msg\zhoCN\EventTextForTalk.fmg.xml
@@ -63,6 +63,7 @@ msg\zhocn\menu-msgbnd-dcx\GR\data\INTERROOT_win64\msg\zhoCN\EventTextForTalk.fmg
 
 ## TODO
 
+- 处理其他语言的具体对话选项(由talkMsg获得)
 - 只检查是否通过梅琳娜烧树，即使癫火仍然允许聊天？
 - 因为不知道如何检查玩家持有的骨灰，目前的仿身泪滴废案对话 ```<text id="70000109">"……"</text>``` 和 ```<text id="70000110">"……"</text>``` 主要通过检查是否持有猎杀指头刀触发，然而随着流程推进，玩家会失去该物品。
 
@@ -91,13 +92,13 @@ TBC
 
 ### 不同称呼
 
-根据是否持有洛德符节，梅琳娜会将与玩家一同前进区分称呼为"约定(前往黄金树根脚)"或者"旅行(前往火焰大锅)"，仿身泪滴废案也如此。
+根据是否持有洛德符节，梅琳娜会将与玩家一同前进区分称呼为"约定(前往黄金树根脚)"或者"旅行(前往火焰大锅)"，仿身泪滴废案也如此，这也是为什么最多只能看到16句对话。
 
 ## 鸣谢
 
 - FromSoftware
-- ?ServerName? discord
-- UXM
-- Yabber
-- Mod engine2
-- edstools
+- the [?ServerName? discord](https://discord.gg/97qU4236)
+- [JKAnderson's UXM](https://github.com/JKAnderson/UXM) and [Nordgaren's selective UXM](https://github.com/Nordgaren/UXM-Selective-Unpack) and elden ring's version form ?ServerName? discord
+- [Yabber](https://github.com/JKAnderson/Yabber)
+- [souls Mod engine2](https://github.com/soulsmods/ModEngine2)
+- [edstools](https://github.com/thefifthmatt/ESDLang)
