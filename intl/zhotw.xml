@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+    <compression>None</compression>
+    <version>DarkSouls3</version>
+    <bigendian>False</bigendian>
+    <entries>
+
+        <text id="70000000">召喚梅琳娜</text>
+        <text id="70000001">遣返梅琳娜</text>
+        <text id="70000002">和梅琳娜聊天</text>
+        
+        <text id="70000100">%null%</text>
+        <text id="70000101">"……關於我嗎？"</text>
+        <text id="70000102">"…我直接復誦瑪莉卡的箴言"</text>
+        <text id="70000103">"…我直接復誦瑪莉卡的箴言"</text>
+        <text id="70000104">"…我直接復誦瑪莉卡的箴言"</text>
+        <text id="70000105">"…我直接復誦瑪莉卡的箴言"</text>
+        <text id="70000106">"…我直接復誦瑪莉卡的箴言"</text>
+        <text id="70000107">"…我直接復誦瑪莉卡的箴言"</text>
+        <text id="70000108">"…我直接復誦瑪莉卡的箴言"</text>
+        <text id="70000109">"……"</text>
+        <text id="70000110">"……"</text>
+        <text id="70000111">"…你不用擔心火種"</text>
+        <text id="70000112">"…這簇小巧的金光…"</text>
+        <text id="70000113">"…我想告訴你一件事"</text>
+        <text id="70000114">"…如果你的心向著癲火"</text>
+        <text id="70000115">"…我會準備火種…"</text>
+        <text id="70000116">"…我再說一次──"</text>
+        <text id="70000117">"拜托你了，能不能懸崖勒馬？"</text>
+    </entries>
+</fmg>

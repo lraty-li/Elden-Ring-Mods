@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+    <compression>None</compression>
+    <version>DarkSouls3</version>
+    <bigendian>False</bigendian>
+    <entries>
+
+        <text id="70000000">Summon Melina</text>
+        <text id="70000001">Let Melina Leave</text>
+        <text id="70000002">Chat With Melina</text>
+
+        <text id="70000100">%null%</text>
+        <text id="70000101">"Me?"</text>
+        <text id="70000102">"In Marika's own words."</text>
+        <text id="70000103">"In Marika's own words."</text>
+        <text id="70000104">"In Marika's own words."</text>
+        <text id="70000105">"In Marika's own words."</text>
+        <text id="70000106">"In Marika's own words."</text>
+        <text id="70000107">"In Marika's own words."</text>
+        <text id="70000108">"In Marika's own words."</text>
+        <text id="70000109">"...another person inside of you?"</text>
+        <text id="70000110">"...another person inside of you?"</text>
+        <text id="70000111">"Think not, of the kindling"</text>
+        <text id="70000112">"This tiny golden aura..."</text>
+        <text id="70000113">"There is something I'd like to say."</text>
+        <text id="70000114">"If you intend to claim the frenzied flame..."</text>
+        <text id="70000115">"I shall see to the kindling"</text>
+        <text id="70000116">"I ask you, one more time"</text>
+        <text id="70000117">"Please, put a stop to this madness"</text>
+    </entries>
+</fmg>
