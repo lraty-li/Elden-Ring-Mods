@@ -2,6 +2,14 @@
 
 让玩家能够在赐福与梅琳娜聊天的mod
 
+[NEXUS MOD](https://www.nexusmods.com/eldenring/mods/1587)
+
+[Video preview(Youtube)](https://youtu.be/PjGv6Fyrx1Y)
+
+[Video preview(Bilibili)](https://www.bilibili.com/video/BV1vB4y1s7AY)
+
+![Preview-zh](preview/Preview-zh.webp)
+
 ## 警告
 
 跟梅琳娜聊天的时候**不要突然关闭游戏**，因为在聊天时mod通过修改(进入对话后能够确定值的)某些事件标志位来达成分辨选项的目的，如果在对话未结束，未复原标志位，理论上会导致游戏存档进度不正确。(在未来摸清更多even flag 比如未使用的后会改进)

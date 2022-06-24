@@ -1,8 +1,16 @@
 # EldenRingMod-chat-with-Melina
 
+English | [中文](README-zhcn.md)
+
 an elden ring mod allow player summon and chat with melina at site of grace
 
-English | [中文](README-zhcn.md)
+[NEXUS MOD](https://www.nexusmods.com/eldenring/mods/1587)
+
+[Video preview(Youtube)](https://youtu.be/PjGv6Fyrx1Y)
+
+[Video preview(Bilibili)](https://www.bilibili.com/video/BV1vB4y1s7AY)
+
+![Preview-eng](preview/Preview-eng.webp)
 
 ## Alert
 
