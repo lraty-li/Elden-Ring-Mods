@@ -73,9 +73,7 @@ msg\engus\menu-msgbnd-dcx\GR\data\INTERROOT_win64\msg\engUS\EventTextForTalk.fmg
 
 ## TODO
 
-- Handle specific dialogue options for other languages (provided by talkMsg)
 - Only check if the erdtree is burned through Melina, allow chatting even player accept the frenzy frame?
-- Because of not knowing how to check the spirit ashes held by the player, the current mimic tear quest Abolition dialog ```<text id="70000109">"…"</text>``` and ```<text id ="70000110">"…"</text>``` is mainly triggered by checking if the finger slayer blade is in possession, however as the process progresses, the player will lose the item.
 
 ## Mod implement
 

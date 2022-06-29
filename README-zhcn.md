@@ -70,9 +70,7 @@ msg\zhocn\menu-msgbnd-dcx\GR\data\INTERROOT_win64\msg\zhoCN\EventTextForTalk.fmg
 
 ## TODO
 
-- 处理其他语言的具体对话选项(由talkMsg获得)
 - 只检查是否通过梅琳娜烧树，即使癫火仍然允许聊天？
-- 因为不知道如何检查玩家持有的骨灰，目前的仿身泪滴废案对话 ```<text id="70000109">"……"</text>``` 和 ```<text id="70000110">"……"</text>``` 主要通过检查是否持有猎杀指头刀触发，然而随着流程推进，玩家会失去该物品。
 
 ## mod 实现
 
