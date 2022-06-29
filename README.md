@@ -84,7 +84,27 @@ to be complete
 
 ## Correspondence between chat options and specific texts
 
-to be complete
+``` xml
+event Text for talk id |  talk msg id
+70000100 | leave empty
+70000101 | <text id="100031000">"Me?"</text>
+70000102 | <text id="100030000">"This tiny golden aura is the grace of the Erdtree."</text>
+70000103 | <text id="100102010">"O Radagon, leal hound of the Golden Order."</text>
+70000104 | <text id="100103010">"I declare mine intent, to search the depths of the Golden Order."</text>
+70000105 | <text id="100104010">"Hark, brave warriors. Hark, my lord Godfrey. We commend your deeds."</text>
+70000106 | <text id="100041010">"My Lord, and thy warriors. I divest each of thee of thy grace."</text>
+70000107 | <text id="100044010">"Then, after thy death, I will give back what I once claimed."</text>
+70000108 | <text id="100045010">"The Erdtree governs all. The choice is thine."</text>
+70000109 | <text id="100120010">"Is there...another person inside of you?"</text>
+70000110 | <text id="100121010">"Is there...another person inside of you?"</text>
+70000111 | <text id="100150000">"Think not, of the kindling."</text>
+70000112 | <text id="100101010">"Hear me, Demigods. My children beloved."</text>
+70000113 | <text id="100160000">"There is something I'd like to say."</text>
+70000114 | <text id="100180000">"If you intend to claim the frenzied flame,"</text>
+70000115 | <text id="100181000">"I shall see to the kindling."</text>
+70000116 | <text id="100185010">"Please, seek not the frenzied flame."</text>
+70000117 | <text id="100186000">"Please, put a stop to this madness."</text>
+```
 
 ## Other (not related to mod)
 

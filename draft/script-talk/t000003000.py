@@ -954,40 +954,48 @@ def t000003000_x2227():
             assert t000003000_x31(text2=10611300, z1=4651, mode6=1)
 
         elif((GetEventFlag(1054539205)*16 + GetEventFlag(1054539201)*8 + GetEventFlag(35009360)*4 + GetEventFlag(4681)*2 + GetEventFlag(4680)*1) == 1):
+            #<text id="100031000">……关于我吗？</text>
             assert t000003000_x2224(text2=10003100)
-            return 0
+            # return 0
 
         elif((GetEventFlag(1054539205)*16 + GetEventFlag(1054539201)*8 + GetEventFlag(35009360)*4 + GetEventFlag(4681)*2 + GetEventFlag(4680)*1) == 12):
             # <text id="100101000">……我直接复诵玛莉卡的箴言：</text>
+            # <text id="100101010">“半神啊，我可爱的孩子啊。”</text>
             assert t000003000_x2224(text2=10010100)
 
         elif((GetEventFlag(1054539205)*16 + GetEventFlag(1054539201)*8 + GetEventFlag(35009360)*4 + GetEventFlag(4681)*2 + GetEventFlag(4680)*1) == 3):
             # <text id="100102000">……我直接复诵玛莉卡的箴言：</text>
+            #<text id="100102010">“噢，拉达冈啊，黄金律法的忠犬啊。”</text>
             assert t000003000_x2224(text2=10010200)
 
         elif((GetEventFlag(1054539205)*16 + GetEventFlag(1054539201)*8 + GetEventFlag(35009360)*4 + GetEventFlag(4681)*2 + GetEventFlag(4680)*1) == 4):
             # 100103000	……我直接复诵玛莉卡的箴言：
+            # <text id="100103010">“我在此宣告，去探索黄金律法──”</text>
             assert t000003000_x2224(text2=10010300)
 
         elif((GetEventFlag(1054539205)*16 + GetEventFlag(1054539201)*8 + GetEventFlag(35009360)*4 + GetEventFlag(4681)*2 + GetEventFlag(4680)*1) == 5):
             # 100104000	……我直接复诵玛莉卡的箴言：
+            #<text id="100104010">“王的众战士啊，吾王葛孚雷啊。”</text>
             assert t000003000_x2224(text2=10010400)
 
         elif((GetEventFlag(1054539205)*16 + GetEventFlag(1054539201)*8 + GetEventFlag(35009360)*4 + GetEventFlag(4681)*2 + GetEventFlag(4680)*1) == 6):
             # <text id="100041000">……我知道了。我直接复诵玛莉卡的箴言：</text>
+            # <text id="100041010">“吾王啊，王的众战士啊，我将夺去你们的赐福。”</text>
             assert t000003000_x2224(text2=10004100)
 
         elif((GetEventFlag(1054539205)*16 + GetEventFlag(1054539201)*8 + GetEventFlag(35009360)*4 + GetEventFlag(4681)*2 + GetEventFlag(4680)*1) == 7):
             # <text id="100044000">……我直接复诵玛莉卡的箴言：</text>
+            # <text id="100044010">“在你们面临死亡之后，那被夺去的会再归还──”</text>
             # 00111
             assert t000003000_x2224(text2=10004400)
 
         elif((GetEventFlag(1054539205)*16 + GetEventFlag(1054539201)*8 + GetEventFlag(35009360)*4 + GetEventFlag(4681)*2 + GetEventFlag(4680)*1) == 8):
             # 100045000	……我直接复诵玛莉卡的箴言：
+            # <text id="100045010">“黄金树是掌管一切的存在。做出抉择吧──”</text>
             assert t000003000_x2224(text2=10004500)
 
         elif((GetEventFlag(1054539205)*16 + GetEventFlag(1054539201)*8 + GetEventFlag(35009360)*4 + GetEventFlag(4681)*2 + GetEventFlag(4680)*1) == 9):
-            # 100120000	…… (仿身泪滴废案,约定)
+            # 100120000	…… (仿身泪滴白金废案,约定)
             assert t000003000_x2224(text2=10012000)
 
         elif((GetEventFlag(1054539205)*16 + GetEventFlag(1054539201)*8 + GetEventFlag(35009360)*4 + GetEventFlag(4681)*2 + GetEventFlag(4680)*1) == 10):
@@ -1016,6 +1024,7 @@ def t000003000_x2227():
 
         elif((GetEventFlag(1054539205)*16 + GetEventFlag(1054539201)*8 + GetEventFlag(35009360)*4 + GetEventFlag(4681)*2 + GetEventFlag(4680)*1) == 16):
             # 100185000	……我再说一次──
+            # <text id="100185010">请让你的心，远离癫火吧。</text>
             assert t000003000_x2224(text2=10018500)
 
         elif((GetEventFlag(1054539205)*16 + GetEventFlag(1054539201)*8 + GetEventFlag(35009360)*4 + GetEventFlag(4681)*2 + GetEventFlag(4680)*1) == 17):

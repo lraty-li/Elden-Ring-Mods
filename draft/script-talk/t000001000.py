@@ -1120,6 +1120,7 @@ def t000001000_x31():
         # ======= custom =======
         # 召唤/遣返梅琳娜
         elif GetTalkListEntryResult() == 22:
+            # lot:101900:Spirit Jellyfish Ashes
             assert t000001000_x2222()
             pass
         # 进入梅琳娜二级菜单对话
@@ -1470,8 +1471,8 @@ def t000001000_x2224():
     # 100160000	……我想告诉你一件事。
     AddTalkListDataIf(GetEventFlag(11009276) == 1, 13, 70000113, -1)
 
-    #<text id="100101000">……我直接复诵玛莉卡的箴言：</text>  12与2曾经互换位置
-    AddTalkListDataIf(GetEventFlag(1043539251) == 1, 12, 70000102, -1)
+    #<text id="100101000">……我直接复诵玛莉卡的箴言：</text>  
+    AddTalkListDataIf(GetEventFlag(1043539251) == 1, 12, 70000112, -1)
 
     # 100150000	……你不用担心火种。(刚开始)
     AddTalkListDataIf(GetEventFlag(11009271) == 1, 11, 70000111, -1)
@@ -1481,16 +1482,20 @@ def t000001000_x2224():
     #ComparePlayerInventoryNumber(3, 207000, 0, 0, 0) == 1
     # talk:10014000:"Hello again, old friend." -> eventFlag:11009251 从梅琳娜处获得洛德符节
 
-    # todo 未知仿身泪滴 lot id,检查 猎杀指头刀？ (虽然会被菈妮没收)
+    # lot:101900:Spirit Jellyfish Ashes
+
     # AwardItemLot(lot1)
     #PlayerEquipmentQuantityChange
 
     # 100121000	…… (仿身泪滴废案,旅行)
-    AddTalkListDataIf((ComparePlayerInventoryNumber(3, 8159, 4, 1, 0) == 1 and GetEventFlag(11009251)==1), 10, 70000110, -1)
-
-    # 100120000	…… (仿身泪滴废案,约定,改为检测骨灰？)
-    AddTalkListDataIf(( ComparePlayerInventoryNumber(3, 8159, 4, 1, 0) == 1 and GetEventFlag(11009251)==0), 9, 70000109, -1)
-
+    # todo t000001000_x17 检查是否持有
+    call =t000001000_x2228()
+    if(call.Get()==1):
+        AddTalkListDataIf(GetEventFlag(11009251)==1, 10, 70000110, -1)
+        # 100120000	…… (仿身泪滴废案,约定,改为检测骨灰？)
+        AddTalkListDataIf(GetEventFlag(11009251)==0, 9, 70000109, -1)
+    elif call.Done():
+        pass
     # 100045000	……我直接复诵玛莉卡的箴言：
     AddTalkListDataIf(GetEventFlag(1038509251) == 1, 8, 70000108, -1)
 
@@ -1512,10 +1517,25 @@ def t000001000_x2224():
 
 
     # 100030000	……这簇小巧的金光，是黄金树的赐福。
-    AddTalkListDataIf(GetEventFlag(1042379203) == 1, 2, 70000112, -1)
+    AddTalkListDataIf(GetEventFlag(1042379203) == 1, 2, 70000102, -1)
 
     # 100031000	……关于我吗？
     AddTalkListDataIf(GetEventFlag(1042379207) == 1, 1, 70000101, -1)
+    return 0
+
+def t000001000_x2227(lot1=_):
+    # give item to player
+    """State 0,1"""
+    AwardItemLot(lot1)
+    assert not IsMenuOpen(63) and GetCurrentStateElapsedFrames() > 1
+    """State 2"""
+    return 0
+def t000001000_x2228():
+    # check if player has mimic tear
+    if(ComparePlayerInventoryNumber(3, 207000, 4, 1, 0) == 1 or ComparePlayerInventoryNumber(3, 207001, 4, 1, 0) == 1 or ComparePlayerInventoryNumber(3, 207002, 4, 1, 0) == 1 or ComparePlayerInventoryNumber(3, 207003, 4, 1, 0) == 1 or ComparePlayerInventoryNumber(3, 207004, 4, 1, 0) == 1 or ComparePlayerInventoryNumber(3, 207005, 4, 1, 0) == 1 or ComparePlayerInventoryNumber(3, 207006, 4, 1, 0) == 1 or ComparePlayerInventoryNumber(3, 207007, 4, 1, 0) == 1 or ComparePlayerInventoryNumber(3, 207008, 4, 1, 0) == 1 or ComparePlayerInventoryNumber(3, 207009, 4, 1, 0) == 1 or ComparePlayerInventoryNumber(3, 207010, 4, 1, 0) == 1 ):
+        return 1
+    else:
+        pass
     return 0
 
 
