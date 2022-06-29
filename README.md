@@ -52,24 +52,23 @@ msg\engus\menu-msgbnd-dcx\GR\data\INTERROOT_win64\msg\engUS\EventTextForTalk.fmg
 <text id="70000001">Let Melina Leave</text>
 <text id="70000002">Chat With Melina</text>
 
-<text id="70000100">%null%</text>
 <text id="70000101">"Me?"</text>
-<text id="70000102">"In Marika's own words."</text>
-<text id="70000103">"In Marika's own words."</text>
-<text id="70000104">"In Marika's own words."</text>
-<text id="70000105">"In Marika's own words."</text>
-<text id="70000106">"In Marika's own words."</text>
-<text id="70000107">"In Marika's own words."</text>
-<text id="70000108">"In Marika's own words."</text>
-<text id="70000109">"...another person inside of you?"</text>
-<text id="70000110">"...another person inside of you?"</text>
-<text id="70000111">"Think not, of the kindling"</text>
-<text id="70000112">"This tiny golden aura..."</text>
+<text id="70000102">"This tiny golden aura is the grace of the Erdtree."</text>
+<text id="70000103">"O Radagon, leal hound of the Golden Order."</text>
+<text id="70000104">"I declare mine intent, to search the depths of the Golden Order."</text>
+<text id="70000105">"Hark, brave warriors. Hark, my lord Godfrey. We commend your deeds."</text>
+<text id="70000106">"My Lord, and thy warriors. I divest each of thee of thy grace."</text>
+<text id="70000107">"Then, after thy death, I will give back what I once claimed."</text>
+<text id="70000108">"The Erdtree governs all. The choice is thine."</text>
+<text id="70000109">"Is there...another person inside of you?"</text>
+<text id="70000110">"Is there...another person inside of you?"</text>
+<text id="70000111">"Think not, of the kindling."</text>
+<text id="70000112">"Hear me, Demigods. My children beloved."</text>
 <text id="70000113">"There is something I'd like to say."</text>
-<text id="70000114">"If you intend to claim the frenzied flame..."</text>
-<text id="70000115">"I shall see to the kindling"</text>
-<text id="70000116">"I ask you, one more time"</text>
-<text id="70000117">"Please, put a stop to this madness"</text>
+<text id="70000114">"If you intend to claim the frenzied flame,"</text>
+<text id="70000115">"I shall see to the kindling."</text>
+<text id="70000116">"Please, seek not the frenzied flame."</text>
+<text id="70000117">"Please, put a stop to this madness."</text>
 ```
 
 ## TODO
