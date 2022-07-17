@@ -74,6 +74,7 @@ msg\engus\menu-msgbnd-dcx\GR\data\INTERROOT_win64\msg\engUS\EventTextForTalk.fmg
 ## TODO
 
 - Only check if the erdtree is burned through Melina, allow chatting even player accept the frenzy frame?
+- add ```<text id="100130000">The Erdtree...is close.</text>``` 、```<text id="100170000">We're almost there.</text>```，How does the game check that the player is near the Erdtree/Forge of The Giants?
 
 ## Mod implement
 

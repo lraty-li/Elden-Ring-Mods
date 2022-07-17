@@ -72,6 +72,8 @@ msg\zhocn\menu-msgbnd-dcx\GR\data\INTERROOT_win64\msg\zhoCN\EventTextForTalk.fmg
 
 - 只检查是否通过梅琳娜烧树，即使癫火仍然允许聊天？
 
+- 增加 ```<text id="100130000">The Erdtree...is close.</text>``` 、```<text id="100170000">We're almost there.</text>```，游戏如何检查玩家在黄金树/大锅附近？
+
 ## mod 实现
 
 为什么不能突然关闭游戏?
