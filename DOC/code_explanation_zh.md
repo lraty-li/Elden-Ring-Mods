@@ -138,8 +138,8 @@ event flag 只有两个状态，true和false。
 当玩家选择一个聊天选项后，会设置:
 
 ```python
-eventFlag(4680) = false # 0
-eventFlag(4681) = true # 1
+eventFlag(11009260) = false # 0
+eventFlag(11009251) = true # 1
 ```
 
 即玩家在进入王城后，不坐任何篝火一次击败噩兆王，虽然不是不可能做到，但一般来说比较少见，就用于判断是否进入mod对话。（我想当时是真的不想再去寻找event flag）。对话结束之后，根据是否拥有洛德符节，还原这两个event flag的值。

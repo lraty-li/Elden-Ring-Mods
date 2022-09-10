@@ -138,8 +138,8 @@ You can search for "AddTalkListData(22" in t000001000.py to see some explanation
 When a player selects a chat option, we sets:
 
 ```python
-eventFlag(4680) = false # 0
-eventFlag(4681) = true # 1
+eventFlag(11009260) = false # 0
+eventFlag(11009251) = true # 1
 ```
 
 That is to say, after the player enters the leydell royal capital, he does not sit on any bonfire to defeat the morgott once. Although it is not impossible, it is generally rare, So used to judge whether to enter the mod dialogue. (I think I really didn't want to look for more event flag at the time). After the dialogue ends, restore the values of these two event flags according to whether player has rold medallion
