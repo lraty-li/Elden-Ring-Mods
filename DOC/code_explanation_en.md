@@ -211,6 +211,7 @@ By setting these event flags to store numbers, theoretically 2^5 = 32 dialogue o
   - Build a secondary menu of chat options (specifically which sentence to choose), and according to the player's choice, call t000001000_x2226 to store the decimal number
 
 - def t000001000_x2224():
+  - The game uses a batch of event flags to control Melina's dialogue "said" only once. The mod uses this property to detect these event flags. When the player selects these dialogues in the vanilla(without mod) process of the game, the mod dialogue menu will show their options.
   - Add dialog options to secondary menu
 
 - def t000001000_x2225():
@@ -225,7 +226,7 @@ By setting these event flags to store numbers, theoretically 2^5 = 32 dialogue o
 - def t000001000_x2228():
   - Detects if the player is holding mimic teat spirit ash, from +0 to +10
 
-### 梅琳娜对话调用 (t000003000.py)
+### Malina dialog logic (t000003000.py)
 
 - def t000003000_x2222():
   - Modified x45 function, added detecting whether to enter the mod dialogue
@@ -259,10 +260,10 @@ you can find the Chinese version in the [note folder](../note/), which is an exp
 4651 is melina shown up at grace (if set to false, will not enter t000003000)
 4680 maked accord with melina 
 4681 has meet melina
-4699 learnd how to upgrade from melina(seperate in royal capital)
+4699 learnd how to upgrade from melina(separate in royal capital)
 
-11009260 arrived royal capital and seperate with melina
-11009251 reuinte with melina after defeatting mogott
+11009260 arrived royal capital and separate with melina
+11009251 reunite with melina after defeating mogott
 
 
 35009360 melina found that player accpeted frenzied flame
