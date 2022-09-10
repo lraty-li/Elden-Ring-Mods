@@ -76,8 +76,8 @@ msg\zhocn\menu-msgbnd-dcx\GR\data\INTERROOT_win64\msg\zhoCN\EventTextForTalk.fmg
 
 ## mod 实现
 
-为什么不能突然关闭游戏?
-TBC
+[代码解释](./DOC/code_explanation_en.md)
+
 
 ## 聊天选项与具体文本的对应关系
 

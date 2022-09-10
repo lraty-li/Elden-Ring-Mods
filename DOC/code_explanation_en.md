@@ -246,7 +246,7 @@ By setting these event flags to store numbers, theoretically 2^5 = 32 dialogue o
 - def t000003000_x2225():
   - Reset the event flag, and restore 11009260 and 11009251 according to whether player have Rold Medallion
 
-## event flag 与 函数意义
+## event flag
 
 you can find the Chinese version in the [note folder](../note/), which is an exploration during mod development, and cannot be guaranteed to be correct
 

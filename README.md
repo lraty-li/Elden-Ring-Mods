@@ -78,7 +78,7 @@ msg\engus\menu-msgbnd-dcx\GR\data\INTERROOT_win64\msg\engUS\EventTextForTalk.fmg
 
 ## Mod implement
 
-to be complete
+[code explanation](./DOC/code_explanation_en.md)
 
 ## Correspondence between chat options and specific texts
 
