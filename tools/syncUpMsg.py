@@ -144,6 +144,17 @@ for lang in langs:
         summonMeli="召喚梅琳娜"
         leaveMeli="讓梅琳娜離去"
         chatMeli="與梅琳娜聊天"
+    elif(lang=="frafr"):
+    # thanks to https://www.nexusmods.com/eldenring/users/33082030
+      # fraFR - French
+      summonMeli = "Invoquer Melina"
+      leaveMeli ="Laissez Melina Partir"
+      chatMeli ="Chat avec Melina"
+    elif(lang=="polpl"):
+      # polPL - Polish
+      summonMeli ="Przywołaj Meliną"
+      leaveMeli = "Niech Meliną odejdzie"
+      chatMeli = "Czat z Meliną"
     # TODO 添加 "召唤梅琳娜" ,一级菜单选项
     newNode = document_eventForTalk.createElement("text")
     newNode.appendChild(document_eventForTalk.createTextNode(summonMeli))
