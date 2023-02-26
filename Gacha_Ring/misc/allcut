@@ -1,0 +1,98 @@
+
+common.emevd.dcx:1291:    PlayCutsceneToPlayerAndWarp(X0_4, CutscenePlayMode.Skippable, X28_4, X24_4, 10000, X36_4, false);
+common.emevd.dcx:1293:    PlayCutsceneToPlayer(X4_4, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
+common.emevd.dcx:1297:        PlayCutsceneToPlayerAndWarp(X0_4, CutscenePlayMode.Skippable, X28_4, X24_4, 10000, 0, false);
+common.emevd.dcx:1299:        PlayCutsceneToPlayerAndWarp(X0_4, CutscenePlayMode.Skippable, X32_4, X24_4, 10000, 0, false);
+common.emevd.dcx:1301:        PlayCutsceneToPlayerAndWarp(X0_4, CutscenePlayMode.Skippable, X28_4, X24_4, 10000, 0, false);
+common.emevd.dcx:1305:        PlayCutsceneToPlayerAndWarp(X4_4, CutscenePlayMode.SkippableWithFadeOutSkip, X28_4, X24_4, 10000, 0, false);
+common.emevd.dcx:1307:        PlayCutsceneToPlayerAndWarp(X4_4, CutscenePlayMode.SkippableWithFadeOutSkip, X32_4, X24_4, 10000, 0, false);
+common.emevd.dcx:1309:        PlayCutsceneToPlayerAndWarp(X4_4, CutscenePlayMode.SkippableWithFadeOutSkip, X28_4, X24_4, 10000, 0, false);
+common.emevd.dcx:1322:    PlayCutsceneToPlayerAndWarpWithWeatherAndTime(X0_4, CutscenePlayMode.Skippable, X16_4, X12_4, 10000, X20_4, false, X24_1, X25_1, X28_4, false, 0, 0, 0);
+common.emevd.dcx:1324:    PlayCutsceneToPlayer(X4_4, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
+
+
+
+m10_00_00_00.emevd.dcx:894:            PlayCutsceneToPlayerAndWarp(10000020, CutscenePlayMode.Skippable, 10002810, 10000000, 10000, 0, false);
+m10_00_00_00.emevd.dcx:896:            PlayCutsceneToPlayer(10000020, CutscenePlayMode.Skippable, 10000);
+m10_00_00_00.emevd.dcx:937:            PlayCutsceneToPlayerAndWarp(10000030, CutscenePlayMode.Skippable, 10002811, 10000000, 10000, 0, false);
+m10_00_00_00.emevd.dcx:939:            PlayCutsceneToPlayer(10000030, CutscenePlayMode.Skippable, 10000);
+m10_00_00_00.emevd.dcx:960:        PlayCutsceneToPlayer(10000030, CutscenePlayMode.Skippable, 10000);
+m10_00_00_00.emevd.dcx:962:        PlayCutsceneToPlayer(10000030, CutscenePlayMode.Skippable, 10000);
+m10_00_00_00.emevd.dcx:1077:                PlayCutsceneToPlayerAndWarp(10000010, CutscenePlayMode.Skippable, 10002852, 10000000, 10000, 0, false);
+m10_00_00_00.emevd.dcx:1079:                PlayCutsceneToPlayer(10000010, CutscenePlayMode.Skippable, 10000);
+m10_00_00_00.emevd.dcx:1454:        PlayCutsceneToPlayerAndWarp(10000050, CutscenePlayMode.Skippable, 10002712, 10000000, 10000, 0, false);
+m10_00_00_00.emevd.dcx:1458:            PlayCutsceneToPlayerAndWarp(10000050, CutscenePlayMode.Skippable, 10002713, 10000000, 10000, 0, false);
+m10_00_00_00.emevd.dcx:1460:            PlayCutsceneToAll(10000050, CutscenePlayMode.Skippable);
+m10_01_00_00.emevd.dcx:35:    PlayCutsceneToPlayerWithWeatherAndTime(10000040, CutscenePlayMode.Skippable, 10000, false, Weather.Default, 0, true, 23, 45, 0);
+m10_01_00_00.emevd.dcx:60:    PlayCutsceneToPlayerAndWarpWithWeatherAndTime(10010000, CutscenePlayMode.Skippable, 18002020, 18000000, 10000, 10010, false, true, Weather.Default, -1, true, 10, 30, 0);
+m11_00_00_00.emevd.dcx:1088:            PlayCutsceneToPlayerAndWarp(11000040, CutscenePlayMode.Skippable, 11002812, 11000000, 10000, 0, false);
+m11_00_00_00.emevd.dcx:1090:            PlayCutsceneToPlayer(11000040, CutscenePlayMode.Skippable, 10000);
+m11_05_00_00.emevd.dcx:84:    PlayCutsceneToPlayer(13000060, CutscenePlayMode.Skippable, 10000);
+m11_05_00_00.emevd.dcx:238:            PlayCutsceneToPlayerAndWarp(11050010, CutscenePlayMode.Skippable, 11052811, 11050000, 10000, 0, false);
+m11_05_00_00.emevd.dcx:240:            PlayCutsceneToPlayer(11050010, CutscenePlayMode.Skippable, 10000);
+m11_05_00_00.emevd.dcx:274:        PlayCutsceneToPlayerAndWarp(11050020, CutscenePlayMode.Skippable, 11052816, 11050000, 10000, 0, false);
+m11_05_00_00.emevd.dcx:276:        PlayCutsceneToPlayer(11050020, CutscenePlayMode.Skippable, 10000);
+m11_71_00_00.emevd.dcx:20:    PlayCutsceneToPlayer(19000011, CutscenePlayMode.SkippableWithWhiteFadeOutSkip, 10000);
+m11_71_00_00.emevd.dcx:24:    PlayCutsceneToPlayer(19000061, CutscenePlayMode.SkippableWithWhiteFadeOutSkip, 10000);
+m11_71_00_00.emevd.dcx:28:    PlayCutsceneToPlayer(19000071, CutscenePlayMode.SkippableWithWhiteFadeOutSkip, 10000);
+m11_71_00_00.emevd.dcx:32:    PlayCutsceneToPlayer(19000081, CutscenePlayMode.SkippableWithWhiteFadeOutSkip, 10000);
+m12_01_00_00.emevd.dcx:750:        PlayCutsceneToPlayerAndWarp(12010000, CutscenePlayMode.Skippable, 12042506, 12040000, 10000, 0, false);
+m12_01_00_00.emevd.dcx:751:        PlayCutsceneToPlayer(12010001, CutscenePlayMode.UnskippableWithFadeOutSkip, 10000);
+m12_01_00_00.emevd.dcx:753:        PlayCutsceneToPlayerAndWarp(12010000, CutscenePlayMode.Skippable, 12042508, 12040000, 10000, 0, false);
+m12_01_00_00.emevd.dcx:754:        PlayCutsceneToPlayer(12010001, CutscenePlayMode.UnskippableWithFadeOutSkip, 10000);
+m12_01_00_00.emevd.dcx:766:    PlayCutsceneToPlayerAndWarp(12010000, CutscenePlayMode.Skippable, 12042506, 12040000, 10000, 0, false);
+m12_01_00_00.emevd.dcx:767:    PlayCutsceneToPlayer(12010001, CutscenePlayMode.UnskippableWithFadeOutSkip, 10000);
+m12_02_00_00.emevd.dcx:786:    PlayCutsceneToPlayerAndWarp(12020000, CutscenePlayMode.Skippable, 12032502, 12030000, 10000, 12020000, false);
+m12_02_00_00.emevd.dcx:787:    PlayCutsceneToPlayer(12020001, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
+m12_03_00_00.emevd.dcx:267:    PlayCutsceneToPlayerAndWarp(12030010, CutscenePlayMode.Skippable, 12012504, 12010000, 10000, 12030000, false);
+m12_03_00_00.emevd.dcx:269:    PlayCutsceneToPlayer(12030011, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
+m12_03_00_00.emevd.dcx:284:    PlayCutsceneToPlayerAndWarp(12020000, CutscenePlayMode.Skippable, 12032502, 12030000, 10000, 12020000, false);
+m12_03_00_00.emevd.dcx:285:    PlayCutsceneToPlayer(12020001, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
+m12_03_00_00.emevd.dcx:714:    PlayCutsceneToPlayerAndWarp(12030020, CutscenePlayMode.Skippable, 12032859, 12030000, 10000, 12030000, false);
+m12_03_00_00.emevd.dcx:750:    PlayCutsceneToPlayerAndWarp(12030021, CutscenePlayMode.Skippable, 12032858, 12030000, 10000, 0, true);
+m12_05_00_00.emevd.dcx:411:            PlayCutsceneToPlayerAndWarp(12050020, CutscenePlayMode.Skippable, 12052805, 12050000, 10000, 12050000, false);
+m12_05_00_00.emevd.dcx:413:            PlayCutsceneToPlayer(12050020, CutscenePlayMode.Skippable, 10000);
+m13_00_00_00.emevd.dcx:456:        PlayCutsceneToPlayerAndWarp(13000040, CutscenePlayMode.Skippable, 13002820, 13000000, 10000, 0, false);
+m13_00_00_00.emevd.dcx:458:        PlayCutsceneToPlayer(13000040, CutscenePlayMode.Skippable, 10000);
+m13_00_00_00.emevd.dcx:567:        PlayCutsceneToPlayerAndWarpWithWeatherAndTime(13000010, CutscenePlayMode.Skippable, 13002834, 13000000, 10000, 0, false, true, Weather.FlatClouds, -1, false, 0, 0, 0);
+m13_00_00_00.emevd.dcx:569:        PlayCutsceneToPlayerAndWarpWithWeatherAndTime(13000010, CutscenePlayMode.Unskippable, 13002836, 13000000, 10000, 0, false, true, Weather.FlatClouds, -1, false, 0, 0, 0);
+m14_00_00_00.emevd.dcx:823:            PlayCutsceneToPlayerAndWarp(14000000, CutscenePlayMode.Skippable, 14002802, 14000000, 10000, 0, false);
+m14_00_00_00.emevd.dcx:825:            PlayCutsceneToPlayer(14000000, CutscenePlayMode.Skippable, 10000);
+m14_00_00_00.emevd.dcx:997:        PlayCutsceneToPlayerAndWarp(14000010, CutscenePlayMode.Skippable, 14002803, 14000000, 10000, 0, false);
+m14_00_00_00.emevd.dcx:999:        PlayCutsceneToPlayerAndWarp(14000010, CutscenePlayMode.Skippable, 14002806, 14000000, 10000, 0, false);
+m15_00_00_00.emevd.dcx:399:            PlayCutsceneToPlayerAndWarp(15000000, CutscenePlayMode.Skippable, 15002811, 15000000, 10000, 0, false);
+m15_00_00_00.emevd.dcx:401:            PlayCutsceneToPlayer(15000000, CutscenePlayMode.Skippable, 10000);
+m15_00_00_00.emevd.dcx:436:        PlayCutsceneToPlayerAndWarp(15000010, CutscenePlayMode.Skippable, 15002815, 15000000, 10000, 0, false);
+m15_00_00_00.emevd.dcx:438:        PlayCutsceneToPlayer(15000010, CutscenePlayMode.Skippable, 10000);
+m16_00_00_00.emevd.dcx:306:            PlayCutsceneToPlayer(16000000, CutscenePlayMode.Skippable, 10000);
+m16_00_00_00.emevd.dcx:623:        PlayCutsceneToPlayerAndWarp(16000020, CutscenePlayMode.Skippable, 16002830, 16, 10000, 16, false);
+m16_00_00_00.emevd.dcx:625:        PlayCutsceneToPlayer(16000020, CutscenePlayMode.Skippable, 10000);
+m16_00_00_00.emevd.dcx:1023:    PlayCutsceneToPlayerAndWarp(16000010, CutscenePlayMode.Skippable, 16002840, 16000000, 10000, 0, false);
+m18_00_00_00.emevd.dcx:131:        PlayCutsceneToPlayer(60430000, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
+m19_00_00_00.emevd.dcx:57:    PlayCutsceneToPlayerAndWarpWithStablePositionUpdate(19000010, CutscenePlayMode.SkippableWithWhiteFadeOut2, 11712500, 11710000, 10000, 19000, false, false);
+m19_00_00_00.emevd.dcx:62:    PlayCutsceneToPlayerAndWarpWithStablePositionUpdate(19000060, CutscenePlayMode.SkippableWithWhiteFadeOut2, 11712500, 11710000, 10000, 19000, false, false);
+m19_00_00_00.emevd.dcx:67:    PlayCutsceneToPlayerAndWarpWithStablePositionUpdate(19000070, CutscenePlayMode.SkippableWithWhiteFadeOut2, 11712500, 11710000, 10000, 19000, false, false);
+m19_00_00_00.emevd.dcx:72:    PlayCutsceneToPlayerAndWarpWithStablePositionUpdate(19000080, CutscenePlayMode.SkippableWithWhiteFadeOut2, 11712500, 11710000, 10000, 19000, false, false);
+m19_00_00_00.emevd.dcx:93:        PlayCutsceneToPlayer(19000020, CutscenePlayMode.Skippable, 10000);
+m19_00_00_00.emevd.dcx:97:        PlayCutsceneToPlayer(19000021, CutscenePlayMode.Skippable, 10000);
+m19_00_00_00.emevd.dcx:122:        PlayCutsceneToPlayer(19000030, CutscenePlayMode.Skippable, 10000);
+m19_00_00_00.emevd.dcx:126:        PlayCutsceneToPlayer(19000031, CutscenePlayMode.Skippable, 10000);
+m19_00_00_00.emevd.dcx:184:        PlayCutsceneToPlayerAndWarp(19000040, CutscenePlayMode.SkippableWithWhiteFadeOut, 19002810, 19000000, 10000, 19000, false);
+m19_00_00_00.emevd.dcx:186:        PlayCutsceneToPlayerAndWarp(19000040, CutscenePlayMode.SkippableWithWhiteFadeOut, 19002811, 19000000, 10000, 19000, false);
+m19_00_00_00.emevd.dcx:240:    PlayCutsceneToPlayerAndWarp(19000050, CutscenePlayMode.Skippable, 19002814, 19000000, 10000, 19000, false);
+m19_00_00_00.emevd.dcx:304:            PlayCutsceneToPlayerAndWarp(19000000, CutscenePlayMode.Skippable, 19002812, 19000000, 10000, 0, false);
+m19_00_00_00.emevd.dcx:306:            PlayCutsceneToPlayerAndWarp(19000000, CutscenePlayMode.Skippable, 19002813, 19000000, 10000, 0, false);
+
+
+m31_00_00_00.emevd.dcx:1135:            PlayCutsceneToPlayerAndWarp(31000001, CutscenePlayMode.Skippable, 1045372710, 60453700, 10000, 0, true);
+
+
+m34_11_00_00.emevd.dcx:121:            PlayCutsceneToPlayer(34110000, CutscenePlayMode.Skippable, 10000);
+m34_11_00_00.emevd.dcx:123:            PlayCutsceneToPlayerAndWarp(34110000, CutscenePlayMode.Skippable, 34112505, 34110000, 10000, 0, false);
+m34_11_00_00.emevd.dcx:167:        PlayCutsceneToPlayer(34110001, CutscenePlayMode.Skippable, 10000);
+m34_11_00_00.emevd.dcx:169:        PlayCutsceneToPlayerAndWarp(34110001, CutscenePlayMode.Skippable, 34112505, 34110000, 10000, 0, false);
+
+
+m35_00_00_00.emevd.dcx:366:    PlayCutsceneToPlayerAndWarp(35000000, CutscenePlayMode.Skippable, 35002500, 35000000, 10000, 0, false);
+m35_00_00_00.emevd.dcx:1580:    PlayCutsceneToPlayer(35000010, CutscenePlayMode.Skippable, 10000);
+

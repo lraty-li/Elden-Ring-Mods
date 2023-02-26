@@ -1,0 +1,244 @@
+rng
+ -> goods / weapon / armor / ring(tailman) / sprit ash
+
+
+问题
+怎么播放动画之后不离开赐福
+- 某些event flag？！！！ 梅琳娜出现之后的cg跟梅琳娜交谈完之后倒不会离开了
+
+打完拉达冈之后再播放有没有问题？
+
+
+如何在emved中产生随机 / 如何在talk script 播放动画
+
+界面：
+当前up
+选项
+等待动画播放结束？ -> wait for 2 s
+
+200000 - 204460
+
+I think i understand CompareRNGValue now
+the first argument is an offset, which is added to the RNG value for the comparison
+the second argument is the value it is compared with
+
+so if the RNG value is 4, then
+CompareRNGValue(0, 4) and CompareRNGValue(1, 5) will evaluate true (== 1) but CompareRNGValue(0, 3) and CompareRNGValue(1, 4) will evaluate false (== 0)
+not 100% sure tho
+i guess the offset is mainly for when the second argument is a variable
+my problem rn is that i can't get the seed shuffled properly. i think there needs to be a time delay between ShuffleRNGSeed and SetRNGSeed
+ShuffleRNGSeed(x) i believe generates a random value from 0 to x-1
+i'm not sure what SetRNGSeed() does exactly but it always comes after Shuffle and has no arguments
+
+1. 
+ShuffleRNGSeed(4460)
+CompareRNGValue(200000,x) 
+awardLot(x*10 + 200000)
+
+2.
+
+george/kingbore from discord
+
+2^13 bit
+RandomlySetEventFlagInRange
+
+5xxx	Temporary flag
+1062260000
+
+1062265000 - 1062265012 for binary
+1062265999 for item got flag 
+1062265998 for random set finish
+1062265997 for tutorialParam
+
+
+1062265100 for 单次祈愿启动
+1062265101 单次祈愿流程控制
+
+1062265110 十连启动
+1062265111 - 1062265120 十连 流程控制 
+
+
+分布： 200000 - 262090; 6209
+weapon 200000 - 237590 ; 3760
+  uniq weapon 200000 - 204460; 447, 
+  weapon 204470 - 235870; 3141
+  spell 235880 - 237590; 172
+armor 237600 - 243450; 586
+item 243460 - 260020 ;1657
+tailman 260030 - 261180; 116
+ash of war 261190 - 262090; 91
+
+现有：
+13 bit 0 - 8191
+
+200000 - 204460; 447 ; uniq weapon  
+204470 - 235870; 3141; weapon
+235880 - 237590; 172 ; spell
+237600 - 243450; 586 ; armor
+243460 - 260020; 1657; item
+260030 - 261180; 116 ; tailman
+261190 - 262090; 91  ; ash of war
+
+262100 - 278660; 1657 ; item
+278670 - 280280; 162 ; Starscourge Greatsword
+280290 - 281910; 163 ; hand of Malenia
+
+
+
+  
+
+问题：
+awardLot 只给出一次？ item got flag 会被自动设置为1，要关掉
+
+valid event flag 
+
+randomlyset 只会打开，要设置OFF 
+
+
+InitializeEvent(0, 32049570, 32040570, 32041570, 32042570, 32042571, 32042572);
+
+$Event(32049570, Restart, function(X0_4, X4_4, X8_4, X12_4, X16_4) {
+    EndIf(EventFlag(X0_4) || !PlayerIsInOwnWorld());
+    SetEventFlagID(X8_4, OFF);
+    SetEventFlagID(X12_4, OFF);
+    WaitFor(ActionButtonInArea(9220, X4_4));
+    DisplayGenericDialogAndSetEventFlags(108000, PromptType.YESNO, NumberofOptions.TwoButtons, X4_4, 3, X8_4, X12_4, X12_4);
+    if (!EventFlag(X8_4)) {
+        WaitFixedTimeSeconds(1);
+        RestartEvent();
+    }
+L1:
+    StoreItemAmountHeldInEventValue(ItemType.Goods, 8000, X16_4, 2);
+    if (EventValue(X16_4, 6) < 2) {
+        WaitFixedTimeFrames(1);
+        ForceAnimationPlayback(10000, 50050, false, false, false);
+        WaitFixedTimeSeconds(1.5);
+        DisplayGenericDialog(308000, PromptType.OKCANCEL, NumberofOptions.NoButtons, X4_4, 3);
+        WaitFixedTimeSeconds(1);
+        RestartEvent();
+    }
+L2:
+    IssueShortWarpRequest(10000, TargetEntityType.Asset, X4_4, 191);
+    ForceAnimationPlayback(10000, 60810, false, false, false);
+    WaitFixedTimeSeconds(1.33);
+    ForceAnimationPlayback(10000, 60811, false, false, false);
+    WaitFixedTimeSeconds(1.5);
+    DisplayGenericDialog(208000, PromptType.OKCANCEL, NumberofOptions.NoButtons, X4_4, 3);
+    RemoveItemFromPlayer(ItemType.Goods, 8000, 2);
+    SetNetworkconnectedEventFlagID(X0_4, ON);
+});
+
+
+
+    InitializeEvent(0, 1100, 9100, 10000, 0, 60510);
+$Event(1100, Default, function(X0_4, X4_4, X8_4, X12_4) {
+    Unknown200476(X0_4, X4_4);
+    EndIf(EventFlag(X12_4));
+    WaitFor(EventFlag(X0_4));
+    if (Signed(X4_4) != 0) {
+        AwardItemsIncludingClients(X4_4);
+    }
+    WaitFixedTimeSeconds(5);
+    if (Signed(X8_4) != 0) {
+        AwardItemsIncludingClients(X8_4);
+    }
+});
+
+
+问题 
+
+tutorialParam 的 textid
+
+id:
+1130 : 关于弓
+1140 蹲下
+2220 锻造台选单
+
+\msg\zhoCN\TutorialTitle.fmg.xml
+<text id="1">%null%</text>
+
+\TutorialBody.fmg.xml
+<text id="1">%null%</text> 
+
+
+inside esd:
+if ComparePlayerInventoryNumber(3, goods4, 4, GetWorkValue(1), 0) == 1:
+ PlayerEquipmentQuantityChange(3, goods4, GetWorkValue(1) * -1)
+
+ ComparePlayerStat
+ ChangePlayerStats
+ GetPlayerStat(33)
+
+ <stat>, <change type>, <value>
+0: Addition
+1: Subtraction
+5: Set
+
+ComparePlayerInventoryNumber( <item type>, <item ID, <compare type>, <value>, <count storage?> )
+    0: ==
+    1: !=
+    2: >
+    3: <
+    4: >=
+    5: <=
+
+价格：
+单抽 1 * 黄金卢恩1 / 10% 升级所需魂量
+十抽 10 * 黄金卢恩1 / 100% 升级所需魂量
+
+等级A
+(A + 81)^2  ((A+81) - 92)*0.02
+
+=TRUNC(MULTIPLY(POW($A$2+81,2),MAX(MULTIPLY(MINUS($A$2+81,92),0.02),0)+0.1)+1)
+
+Row_ID;  1;
+Row Name  ;;
+disableParam_NT;  0;
+menuType;  100;
+triggerType;  0;
+repeatType;  0;
+imageId;  124;
+unlockEventFlagId;  1062265100;
+textId;  1;
+displayMinTime;  1;
+displayTime;  3;
+
+def t333006000_x3(action1=23331003):
+    """State 0,1"""
+    # action:23331003:"Not enough runes to donate"
+    OpenGenericDialog(7, action1, 1, 0, 1)
+    assert not CheckSpecificPersonGenericDialogIsOpen(0)
+    """State 2"""
+    return 0
+
+
+event text for talk
+<text id="30000000">祈愿</text>
+<text id="30000001">祈愿一次</text>
+<text id="30000002">祈愿十次</text>
+<text id="30000003">所需卢恩不足</text>
+<text id="30000004">黄金卢恩[1]不足,是否使用10%升级所需卢恩兑换</text>
+<text id="30000005">黄金卢恩[1]不足,是否使用100%升级所需卢恩兑换</text>
+
+tutorialParam:
+  repeatType 
+  1: repeatable
+  0: show only once
+
+  menuType:
+  100: pop up in the center of screen, need confirm
+  1 : smaller than 100
+  0: seems just display one line TutorialBody, slide in from left, 
+  1 and 0 slide in from left, no confirm need, without image, can't display when rest in grace
+
+images : menu/hi/MENU_Tuto_00{id}.dds
+
+I export all dds, but never scroll to the bottom, I'm stupid
+
+
+new tutorial image:
+menu/hi/MENU_Tuto_00300.tpf.dcx
+
+
+fix bug:
+when level < 11 and roll 10 time, runes required 10 times of level up need
