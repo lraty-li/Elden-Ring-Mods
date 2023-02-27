@@ -176,6 +176,11 @@ for lang in langs:
 
   # remove folder
   shutil.rmtree(os.path.join(workPlacePath, lang, "menu-msgbnd-dcx"))
+  os.remove(os.path.join(workPlacePath, lang, "ngword.msgbnd.dcx"))
+  os.remove(os.path.join(workPlacePath, lang, "item.msgbnd.dcx"))
+  os.remove(os.path.join(workPlacePath, lang, "menu.msgbnd.dcx.bak"))
+  
+  
   print("done of {}".format(lang))
 
   #copy to mod test path

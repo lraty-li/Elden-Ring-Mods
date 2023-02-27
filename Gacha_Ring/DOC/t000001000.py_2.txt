@@ -1,0 +1,174 @@
+
+def t000001000_x2235(action1=30000003):
+    """State 0,1"""
+    # action:23331003:"Not enough runes to donate"
+    OpenGenericDialog(7, action1, 1, 0, 1)
+    assert not CheckSpecificPersonGenericDialogIsOpen(0)
+    """State 2"""
+    return 0
+
+def t000001000_x2229():
+    # wish for once check
+    if ComparePlayerInventoryNumber(3, 2900, 4, 1, 0) == 1:
+      #check if have 1 Golden Rune [1]
+      assert t000001000_x2234()
+      PlayerEquipmentQuantityChange(3, 2900, -1)
+      return 0
+    else:
+      # dont't have 1 Golden Rune [1], ask if cost soul
+      call = t000001000_x0(30000004)
+      if call.Get() == 0:
+        #check if have enough soul
+        if(GetPlayerStat(33) > 11):
+          if ComparePlayerStat(8, 4, (GetPlayerStat(33) + 81) * (GetPlayerStat(33) + 81) * (((GetPlayerStat(33) - 11)*0.02) + 0.1) * 0.1 ) == 1:
+            ChangePlayerStat(8, 1, (GetPlayerStat(33) + 81)* (GetPlayerStat(33) + 81) * (((GetPlayerStat(33) - 11)*0.02) + 0.1) * 0.1)
+            assert t000001000_x2234()
+            return 0
+          else:
+            # not enought soul
+            assert t000001000_x2235()
+        else:
+          if ComparePlayerStat(8, 4, (GetPlayerStat(33) + 81) * (GetPlayerStat(33) + 81) * 0.01 ) == 1:
+            ChangePlayerStat(8, 1, (GetPlayerStat(33) + 81) * (GetPlayerStat(33) + 81) * 0.01)
+            assert t000001000_x2234()
+            return 0
+          else:
+            # not engouht soul
+            assert t000001000_x2235()
+
+        return 0
+      elif call.Done():
+        return 0
+
+      return 0
+def t000001000_x2234():
+  # wish for once
+  SetEventFlag(1062265200, 1)
+  assert GetEventFlag(1062265201) == 1
+  assert t000001000_x2231(1062265201)
+  # SetEventFlag(1062265101, 0)
+  assert not IsMenuOpen(63) and GetCurrentStateElapsedFrames() > 1
+  return 0
+
+def t000001000_x2236():
+    # wish for 10 times check
+    if ComparePlayerInventoryNumber(3, 2900, 4, 10, 0) == 1:
+      #check if have 1 Golden Rune [1]
+      assert t000001000_x2230()
+      PlayerEquipmentQuantityChange(3, 2900, -10)
+      return 0
+    else:
+      # dont't have 10 Golden Rune [1], ask if cost soul
+      call = t000001000_x0(30000005)
+      if call.Get() == 0:
+        #check if have enough soul
+        if(GetPlayerStat(33) > 11):
+          if ComparePlayerStat(8, 4, (GetPlayerStat(33) + 81) * (GetPlayerStat(33) + 81) * (((GetPlayerStat(33) - 11)*0.02) + 0.1)  ) == 1:
+            ChangePlayerStat(8, 1, (GetPlayerStat(33) + 81)* (GetPlayerStat(33) + 81) * (((GetPlayerStat(33) - 11)*0.02) + 0.1) )
+            assert t000001000_x2230()
+            return 0
+          else:
+            # not enought soul
+            assert t000001000_x2235()
+        else:
+          if ComparePlayerStat(8, 4, (GetPlayerStat(33) + 81) * (GetPlayerStat(33) + 81) * 0.1 ) == 1:
+            ChangePlayerStat(8, 1, (GetPlayerStat(33) + 81) * (GetPlayerStat(33) + 81) * 0.1 )
+            assert t000001000_x2230()
+            return 0
+          else:
+            # not engouht soul
+            assert t000001000_x2235()
+
+        return 0
+      elif call.Done():
+        return 0
+
+
+def t000001000_x2230():
+    # wish 10 times
+
+    """State 0,1"""
+
+    SetEventFlag(1062265110, 1)
+
+    assert GetEventFlag(1062265111) == 1
+    assert t000001000_x2231(1062265111)
+
+    assert GetEventFlag(1062265112) == 1
+    assert t000001000_x2231(1062265112)
+
+    assert GetEventFlag(1062265113) == 1
+    assert t000001000_x2231(1062265113)
+
+    assert GetEventFlag(1062265114) == 1
+    assert t000001000_x2231(1062265114)
+
+    assert GetEventFlag(1062265115) == 1
+    assert t000001000_x2231(1062265115)
+
+    assert GetEventFlag(1062265116) == 1
+    assert t000001000_x2231(1062265116)
+
+    assert GetEventFlag(1062265117) == 1
+    assert t000001000_x2231(1062265117)
+
+    assert GetEventFlag(1062265118) == 1
+    assert t000001000_x2231(1062265118)
+
+    assert GetEventFlag(1062265119) == 1
+    assert t000001000_x2231(1062265119)
+
+    assert GetEventFlag(1062265120) == 1
+    assert t000001000_x2231(1062265120)
+    
+    assert not IsMenuOpen(63) and GetCurrentStateElapsedFrames() > 1
+    return 0
+
+def t000001000_x2231(z12=_):
+  SetEventFlag(1062265999, 0)
+  AwardItemLot((
+       GetEventFlag(1062265012) * 4096 + GetEventFlag(1062265011)*2048 + GetEventFlag(1062265010)*1024 +GetEventFlag(1062265009)*512 + GetEventFlag(1062265008)*256 + GetEventFlag(1062265007)*128 + GetEventFlag(1062265006)*64 + GetEventFlag(1062265005)*32 + GetEventFlag(1062265004)*16 + GetEventFlag(1062265003)*8 + GetEventFlag(1062265002)*4 + GetEventFlag(1062265001)*2 + GetEventFlag(1062265000)*1) * 10 + 200000)
+  SetEventFlag(z12, 0)
+  return 0
+
+def t000001000_x2232():
+  #display tutorial
+  SetEventFlag(1062265997, 1)
+  return 0
+  
+def t000001000_x2233():
+    #  try to build secondary menu
+
+    CloseShopMessage()
+    while True:
+        ClearTalkListData()
+        AddTalkListData(1, 30000001, -1)
+        AddTalkListData(2, 30000002, -1)
+        AddTalkListData(3, 30000006, -1)
+
+        
+        # action:15000460:"Cancel"
+        AddTalkListData(99, 15000460, -1)
+
+        ShowShopMessage(1)
+        assert not (CheckSpecificPersonMenuIsOpen(1, 0) ==
+                    1 and not CheckSpecificPersonGenericDialogIsOpen(0))
+
+        if not GetTalkListEntryResult() == 99:
+            if(GetTalkListEntryResult() == 1):
+                # custom id decmical(1)->binary(00001)
+                assert t000001000_x2229()
+            elif(GetTalkListEntryResult() == 2):
+                assert t000001000_x2236()
+                pass
+            elif(GetTalkListEntryResult() == 3):
+                assert t000001000_x2232()
+                pass
+
+            else:
+                return 0
+
+        else:
+            # 99 退出对话二级菜单
+            return 0
+    return 0

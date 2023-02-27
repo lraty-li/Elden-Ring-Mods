@@ -1,0 +1,106 @@
+
+$Event(9970, Default, function() {
+    // wish for once
+    //EndIf(EventFlagState(ON,TargetEventFlagType.EventFlag,1062265101));
+    SetEventFlagID(1062265999, OFF);
+    
+    WaitForEventFlag(ON,TargetEventFlagType.EventFlag,1062265200);
+    
+    SetEventFlagID(1062265200, OFF);
+    PlayCutsceneToPlayer(60510011, CutscenePlayMode.Skippable, 10000);
+    
+    InitializeEvent(0, 9972, 1062265201);
+    WaitForEventFlag(ON,TargetEventFlagType.EventFlag, 1062265998); // wait for 9971  done
+    SetEventFlagID(1062265998, OFF);
+    WaitForEventFlag(OFF,TargetEventFlagType.EventFlag, 1062265201); // wait for esd award done
+    RestartEvent();
+});
+
+
+$Event(9971, Default, function() {
+    SetEventFlagID(1062265999, OFF);
+ 
+    WaitForEventFlag(ON,TargetEventFlagType.EventFlag,1062265110);  
+    
+    BatchSetEventFlags(1062265111,1062265120, OFF);
+    SetEventFlagID(1062265110, OFF);
+    PlayCutsceneToPlayer(60510011, CutscenePlayMode.Skippable, 10000);
+    
+    InitializeEvent(0, 9972, 1062265111);
+    WaitForEventFlag(ON,TargetEventFlagType.EventFlag, 1062265998); 
+    SetEventFlagID(1062265998, OFF);
+    WaitForEventFlag(OFF,TargetEventFlagType.EventFlag,1062265111);
+    
+    InitializeEvent(0, 9972, 1062265112);
+    WaitForEventFlag(ON,TargetEventFlagType.EventFlag, 1062265998); 
+    SetEventFlagID(1062265998, OFF);
+    WaitForEventFlag(OFF,TargetEventFlagType.EventFlag,1062265112);
+    
+    InitializeEvent(0, 9972, 1062265113);
+    WaitForEventFlag(ON,TargetEventFlagType.EventFlag, 1062265998); 
+    SetEventFlagID(1062265998, OFF);
+    WaitForEventFlag(OFF,TargetEventFlagType.EventFlag,1062265113);
+    
+    InitializeEvent(0, 9972, 1062265114);
+    WaitForEventFlag(ON,TargetEventFlagType.EventFlag, 1062265998); 
+    SetEventFlagID(1062265998, OFF);
+    WaitForEventFlag(OFF,TargetEventFlagType.EventFlag,1062265114);
+    
+    InitializeEvent(0, 9972, 1062265115);
+    WaitForEventFlag(ON,TargetEventFlagType.EventFlag, 1062265998); 
+    SetEventFlagID(1062265998, OFF);
+    WaitForEventFlag(OFF,TargetEventFlagType.EventFlag,1062265115);
+    
+    InitializeEvent(0, 9972, 1062265116);
+    WaitForEventFlag(ON,TargetEventFlagType.EventFlag, 1062265998); 
+    SetEventFlagID(1062265998, OFF);
+    WaitForEventFlag(OFF,TargetEventFlagType.EventFlag,1062265116);
+    
+    InitializeEvent(0, 9972, 1062265117);
+    WaitForEventFlag(ON,TargetEventFlagType.EventFlag, 1062265998); 
+    SetEventFlagID(1062265998, OFF);
+    WaitForEventFlag(OFF,TargetEventFlagType.EventFlag,1062265117);
+    
+    InitializeEvent(0, 9972, 1062265118);
+    WaitForEventFlag(ON,TargetEventFlagType.EventFlag, 1062265998); 
+    SetEventFlagID(1062265998, OFF);
+    WaitForEventFlag(OFF,TargetEventFlagType.EventFlag,1062265118);
+    
+    InitializeEvent(0, 9972, 1062265119);
+    WaitForEventFlag(ON,TargetEventFlagType.EventFlag, 1062265998); 
+    SetEventFlagID(1062265998, OFF);
+    WaitForEventFlag(OFF,TargetEventFlagType.EventFlag,1062265119);
+    
+    InitializeEvent(0, 9972, 1062265120);
+    WaitForEventFlag(ON,TargetEventFlagType.EventFlag, 1062265998); 
+    SetEventFlagID(1062265998, OFF);
+    WaitForEventFlag(OFF,TargetEventFlagType.EventFlag,1062265120);
+    
+   
+    RestartEvent();
+});
+
+$Event(9972, Default, function(X0_4) {
+    SetEventFlagID(1062265998, OFF);
+    BatchSetEventFlags(1062265000,1062265012, OFF);
+
+    for (let i = 0; i < 12; i++) {
+        RandomlySetEventFlagInRange(1062265000,1062265012,ON);
+    }
+    SetEventFlagID(X0_4, ON);
+    SetEventFlagID(1062265998, ON);
+});
+
+$Event(9973, Default, function() {
+   // for (let i = 0; i < 11; i++) {
+   //     SetEventFlagID(1062265999, OFF);
+    //    AwardItemLot(245560);
+    //}
+SetEventFlagID(710530 , ON);
+    ShowTutorialPopup(1530, true, true);
+    WaitForEventFlag(ON,TargetEventFlagType.EventFlag, 1062265997); 
+    SetEventFlagID(1062265997 , ON);
+    ShowTutorialPopup(1, true, true);
+    SetEventFlagID(1062265997, OFF);
+    RestartEvent();
+});

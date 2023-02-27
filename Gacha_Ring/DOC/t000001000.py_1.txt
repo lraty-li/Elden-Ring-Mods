@@ -1,0 +1,10 @@
+
+        # gacha ring
+        elif GetTalkListEntryResult() == 24:
+            c1_140(0)
+            c1_110()
+
+            def ExitPause():
+                c1_110()
+            assert t000001000_x2233()
+            pass
