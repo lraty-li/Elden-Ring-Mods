@@ -1,5 +1,7 @@
 # combining mod
 
+English | [中文](combine_with_other_mod_zh.md)
+
 ## Attention
 
 - The following may mention the certain lines of files, but by the time you see this note the file may have changed and I forgot to update it. Note the date the file was modified.
