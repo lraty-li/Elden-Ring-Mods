@@ -1,0 +1,2009 @@
+0.024% Ancient Dragon Knight Kristoff 
+0.024% Cleanrot Knight Finlay 
+0.024% Lhutel the Headless 
+0.024% Redmane Knight Ogha 
+0.024% Black Knife Tiche 
+0.024% Blasphemous Claw 
+0.024% Remembrance of the Blasphemous 
+0.024% Blasphemous Blade 
+0.024% Mimic Tear Ashes 
+0.024% Founding Rain of Stars 
+0.024% Grafted Blade Greatsword 
+0.024% Carian Regal Scepter 
+0.024% Old Lord's Talisman 
+0.024% Somber Ancient Dragon Smithing Stone 
+0.024% Ancient Dragon Smithing Stone 
+0.024% Devourer's Scepter 
+0.024% Sword of Night and Flame 
+0.024% Great Grave Glovewort 
+0.024% Great Ghost Glovewort 
+0.024% Queen's Crescent Crown 
+0.024% Queen's Bracelets 
+0.024% Queen's Robe 
+0.024% Queen's Leggings 
+0.024% Mending Rune of Perfect Order 
+0.024% Winged Greathorn 
+0.024% Giant's Red Braid 
+0.024% Bastard's Stars 
+0.024% Fortissax's Lightning Spear 
+0.024% Comet Azur 
+0.024% Mending Rune of the Fell Curse 
+0.024% Remembrance of the Omen King 
+0.024% Ash of War: Hoarah Loux's Earthshaker 
+0.024% Ash of War: Waves of Darkness 
+0.024% Rykard's Rancor 
+0.024% Radahn's Lion Armor 
+0.024% Radahn's Lion Armor (Altered) 
+0.024% Radahn's Redmane Helm 
+0.024% Radahn's Greaves 
+0.024% Radahn's Gauntlets 
+0.024% Radagon's Soreseal 
+0.024% Radagon Icon 
+0.024% Fingerprint Grape 
+0.024% Remembrance of the Grafted 
+0.024% Grafted Dragon 
+0.024% Great Rune of the Unborn 
+0.024% Eclipse Shotel 
+0.024% Placidusax's Ruin 
+0.024% Dark Moon Greatsword 
+0.024% Dark Moon Ring 
+0.024% Greyoll's Roar 
+0.024% Cursemark of Death 
+0.024% Death Lightning 
+0.024% Mending Rune of the Death-Prince 
+0.024% Remembrance of the Lichdragon 
+0.024% Stars of Ruin 
+0.024% Remembrance of the Full Moon Queen 
+0.024% Godslayer's Greatsword 
+0.024% Lion Greatbow 
+0.024% Fingerslayer Blade 
+0.024% Scarlet Aeonia 
+0.024% Lord's Rune 
+0.024% Regal Omen Bairn 
+0.024% Maliketh's Helm 
+0.024% Maliketh's Black Blade 
+0.024% Maliketh's Greaves 
+0.024% Maliketh's Gauntlets 
+0.024% Maliketh's Armor 
+0.024% Maliketh's Armor (Altered) 
+0.024% Marika's Hammer 
+0.024% Marika's Soreseal 
+0.024% Hand of Malenia 
+0.024% Malenia's Greaves 
+0.024% Malenia's Gauntlet 
+0.024% Malenia's Armor 
+0.024% Malenia's Armor (Altered) 
+0.024% Malenia's Winged Helm 
+0.024% Marais Executioner's Sword 
+0.024% Amber Starlight 
+0.024% Amber Draught 
+0.024% Starscourge Greatsword 
+0.024% Remembrance of the Starscourge 
+0.024% Remembrance of the Regal Ancestor 
+0.024% Ancestral Spirit's Horn 
+0.024% Sacred Relic Sword 
+0.024% Miquella's Needle 
+0.024% Remembrance of the Rot Goddess 
+0.024% Elden Lord Crown 
+0.024% Elden Lord Greaves 
+0.024% Elden Lord Bracers 
+0.024% Elden Lord Armor 
+0.024% Elden Lord Armor (Altered) 
+0.024% Elden Stars 
+0.024% Elden Remembrance 
+0.024% Remembrance of Hoarah Loux 
+0.024% Ranni's Dark Moon 
+0.024% Axe of Godfrey 
+0.024% Godfrey Icon 
+0.024% Axe of Godrick 
+0.024% Mohgwyn's Sacred Spear 
+0.024% Morgott's Cursed Sword 
+0.024% Rennala's Full Moon 
+0.024% Moon of Nokstella 
+0.024% Memory of Grace 
+0.024% Ruins Greatsword 
+0.024% Golden Order Greatsword 
+0.024% Black Knife 
+0.024% Black Blade 
+0.024% Remembrance of the Black Blade 
+0.024% Remembrance of the Naturalborn 
+0.024% Dragoncrest Greatshield Talisman 
+0.024% Dragon King's Cragblade 
+0.024% Remembrance of the Dragonlord 
+0.031% [ERROR]Fugitive Warrior's Recipe [5] 
+0.031% [ERROR]Missionary's Cookbook (3) 
+0.031% [ERROR]Armorer's Cookbook (5) 
+0.031% [ERROR]Nomadic Merchant's Bell Bearing [11] 
+0.031% [ERROR]Miranda's Prayer 
+0.031% [ERROR]Perfumer's Cookbook (1) 
+0.031% [ERROR]Perfumer's Cookbook (13) 
+0.031% [ERROR]Perfumer's Cookbook (2) 
+0.031% [ERROR]Golden Order Principles 
+0.031% Depraved Perfumer Carmaan 
+0.031% Banished Knight Oleg 
+0.031% Banished Knight Engvall 
+0.031% Dolores the Sleeping Arrow Puppet 
+0.031% Bloodhound Knight Floh 
+0.031% Prelate's Inferno Crozier 
+0.031% Cinquedea 
+0.031% Eternal Darkness 
+0.031% Azur's Glintstone Staff 
+0.031% Azur's Manchettes 
+0.031% Azur's Glintstone Crown 
+0.031% Azur's Glintstone Robe 
+0.031% Alexander's Innards 
+0.031% Adula's Moonblade 
+0.031% Hierodas Glintstone Crown 
+0.031% Skeletal Mask 
+0.031% Ritual Pot 
+0.031% Ornamental Straight Sword 
+0.031% Iji's Bell Bearing 
+0.031% Iji's Mirrorhelm 
+0.031% Envoy Crown 
+0.031% Envoy's Greathorn 
+0.031% Envoy's Horn 
+0.031% Envoy's Long Horn 
+0.031% Meeting Place Map 
+0.031% Missionary's Cookbook [1] 
+0.031% Missionary's Cookbook [2] 
+0.031% Missionary's Cookbook [3] 
+0.031% Missionary's Cookbook [4] 
+0.031% Missionary's Cookbook [5] 
+0.031% Missionary's Cookbook [6] 
+0.031% Missionary's Cookbook [7] 
+0.031% Blade of Calling 
+0.031% Godskin Apostle Bracelets 
+0.031% Godskin Apostle Trousers 
+0.031% Consort's Mask 
+0.031% Weathered Dagger 
+0.031% Faith-knot Crystal Tear 
+0.031% Halo Scythe 
+0.031% Radiant Gold Mask 
+0.031% Shining Horned Headband 
+0.031% Crepus's Black-Key Crossbow 
+0.031% Lansseax's Glaive 
+0.031% Beastclaw Greathammer 
+0.031% Meat Peddler's Bell Bearing 
+0.031% Bone Peddler's Bell Bearing 
+0.031% Icerind Hatchet 
+0.031% Assassin's Prayerbook 
+0.031% Strength-knot Crystal Tear 
+0.031% Staff of the Avatar 
+0.031% Pumpkin Helm 
+0.031% Carian Phalanx 
+0.031% Carian Inverted Statue 
+0.031% Carian Knight's Sword 
+0.031% Carian Knight's Shield 
+0.031% Karolos Glintstone Crown 
+0.031% Lusat's Glintstone Staff 
+0.031% Lusat's Manchettes 
+0.031% Lusat's Glintstone Crown 
+0.031% Lusat's Robe 
+0.031% Two Fingers' Prayerbook 
+0.031% Twinsage Glintstone Crown 
+0.031% Twinbird Kite Shield 
+0.031% Inescapable Frenzy 
+0.031% Imprisoned Merchant's Bell Bearing 
+0.031% Phantom Recusant Finger 
+0.031% Gurranq's Beast Claw 
+0.031% Stone of Gurranq 
+0.031% Ancient Death Rancor 
+0.031% Old Sorcerer's Legwraps 
+0.031% Ancient Dragon Apostle's Cookbook [1] 
+0.031% Ancient Dragon Apostle's Cookbook [2] 
+0.031% Ancient Dragon Apostle's Cookbook [3] 
+0.031% Ancient Dragon Apostle's Cookbook [4] 
+0.031% Ancient Dragon Prayerbook 
+0.031% Ancient Dragons' Lightning Strike 
+0.031% Ancient Dragons' Lightning Spear 
+0.031% Wraith Calling Bell 
+0.031% Spirit Calling Bell 
+0.031% Smarag's Glintstone Breath 
+0.031% Moonveil 
+0.031% Kalé's Bell Bearing 
+0.031% Sentry's Torch 
+0.031% Prattling Pate "You're beautiful" 
+0.031% Law of Regression 
+0.031% Law of Causality 
+0.031% Full Moon Crossbow 
+0.031% Magma Wyrm's Scalesword 
+0.031% Sacred Crown Helm 
+0.031% Sacred Tear 
+0.031% Haligtree Helm 
+0.031% Haligtree Secret Medallion (Right) 
+0.031% Haligtree Secret Medallion (Left) 
+0.031% Haligtree Knight Helm 
+0.031% Map: Altus Plateau 
+0.031% Map: Liurnia, East 
+0.031% Map: Liurnia, North 
+0.031% Map: Liurnia, West 
+0.031% Map: Consecrated Snowfield 
+0.031% Map: Weeping Peninsula 
+0.031% Map: Limgrave, East 
+0.031% Map: Limgrave, West 
+0.031% Map: Ainsel River 
+0.031% Map: Mountaintops of the Giants, East 
+0.031% Map: Mountaintops of the Giants, West 
+0.031% Map: Siofra River 
+0.031% Map: Mt. Gelmir 
+0.031% Map: Deeproot Depths 
+0.031% Map: Leyndell, Royal Capital 
+0.031% Map: Caelid 
+0.031% Map: Lake of Rot 
+0.031% Map: Mohgwyn Palace 
+0.031% Map: Dragonbarrow 
+0.031% Ghiza's Wheel 
+0.031% Jar Cannon 
+0.031% Jar 
+0.031% Jarwight Puppet 
+0.031% Howl of Shabriri 
+0.031% Shabriri Grape 
+0.031% Great Turtle Shell 
+0.031% Spiked Cracked Tear 
+0.031% Phantom Great Rune 
+0.031% Bull-Goat Helm 
+0.031% Bull-Goat Greaves 
+0.031% Bull-Goat Gauntlets 
+0.031% Bull-Goat Armor 
+0.031% Tree Sentinel Helm 
+0.031% Tree Sentinel Greaves 
+0.031% Tree Sentinel Gauntlets 
+0.031% Tree Sentinel Armor 
+0.031% Tree Sentinel Armor (Altered) 
+0.031% Treespear 
+0.031% Serpent-Hunter 
+0.031% Greathorn Hammer 
+0.031% Greathood 
+0.031% Dragon Greatclaw 
+0.031% Somberstone Miner's Bell Bearing [1] 
+0.031% Somberstone Miner's Bell Bearing [2] 
+0.031% Somberstone Miner's Bell Bearing [3] 
+0.031% Somberstone Miner's Bell Bearing [4] 
+0.031% Somberstone Miner's Bell Bearing [5] 
+0.031% Eccentric's Manchettes 
+0.031% Eccentric's Armor 
+0.031% Eccentric's Breeches 
+0.031% Eccentric's Hood 
+0.031% Eccentric's Hood (Altered) 
+0.031% Crystal Torrent 
+0.031% Olivinus Glintstone Crown 
+0.031% Ordovis's Greatsword 
+0.031% Valkyrie's Prosthesis 
+0.031% Academy Scroll 
+0.031% Twinned Helm 
+0.031% Twinned Greaves 
+0.031% Twinned Gauntlets 
+0.031% Twinned Armor 
+0.031% Twinned Armor (Altered) 
+0.031% Guardian Garb (Full Bloom) 
+0.031% Gravekeeper Cloak 
+0.031% Gravekeeper Cloak (Altered) 
+0.031% Drawing-Room Key 
+0.031% Family Heads 
+0.031% Cranial Vessel Candlestand 
+0.031% Cleanrot Helm 
+0.031% Cleanrot Helm (Altered) 
+0.031% Cleanrot Spear 
+0.031% Cleanrot Greaves 
+0.031% Cleanrot Gauntlets 
+0.031% Cleanrot Armor 
+0.031% Cleanrot Armor (Altered) 
+0.031% Imp Head (Fanged) 
+0.031% Imp Head (Wolf) 
+0.031% Imp Head (Cat) 
+0.031% Imp Head (Long-Tongued) 
+0.031% Imp Head (Corpse) 
+0.031% Imp Head (Elder) 
+0.031% Winged Scythe 
+0.031% Troll's Hammer 
+0.031% Troll Knight's Sword 
+0.031% Stonebarb Cracked Tear 
+0.031% Crafting Kit 
+0.031% Giant's Seal 
+0.031% Giant's Prayerbook 
+0.031% Greatblade Phalanx 
+0.031% Great Club 
+0.031% Great Stars 
+0.031% Blaidd's Greaves 
+0.031% Blaidd's Gauntlets 
+0.031% Blaidd's Armor 
+0.031% Blaidd's Armor (Altered) 
+0.031% Patches' Bell Bearing 
+0.031% Comet 
+0.031% Holy-Shrouding Cracked Tear 
+0.031% Flame-Shrouding Cracked Tear 
+0.031% Lightning-Shrouding Cracked Tear 
+0.031% Theodorix's Magma 
+0.031% Celebrant's Skull 
+0.031% Malformed Dragon Helm 
+0.031% Malformed Dragon Greaves 
+0.031% Malformed Dragon Gauntlets 
+0.031% Malformed Dragon Armor 
+0.031% White Reed Greaves 
+0.031% White Reed Gauntlets 
+0.031% White Reed Armor 
+0.031% Omen Helm 
+0.031% Omen Greaves 
+0.031% Omen Gauntlets 
+0.031% Omen Armor 
+0.031% Siluria's Tree 
+0.031% Fell Omen Cloak 
+0.031% Omen Bairn 
+0.031% Omenkiller Rollo 
+0.031% Omensmirk Mask 
+0.031% Ringed Finger 
+0.031% Battlemage Hugues 
+0.031% Ash-of-War Scarab 
+0.031% Ash of War: Prelate's Charge 
+0.031% Ash of War: Carian Grandeur 
+0.031% Ash of War: Royal Knight's Resolve 
+0.031% Ash of War: Shared Order 
+0.031% Ash of War: Holy Ground 
+0.031% Ash of War: Lifesteal Fist 
+0.031% Ash of War: Troll's Roar 
+0.031% Ash of War: Cragblade 
+0.031% Ash of War: Phantom Slash 
+0.031% Ash of War: Thops's Barrier 
+0.031% Ash of War: Raptor of the Mists 
+0.031% Ash of War: Giant Hunt 
+0.031% Ash of War: Bloodhound's Step 
+0.031% Ash of War: White Shadow's Lure 
+0.031% Ash of War: Vacuum Slice 
+0.031% Ash of War: Piercing Fang 
+0.031% Ash of War: Rain of Arrows 
+0.031% Ash of War: Loretta's Slash 
+0.031% Ash of War: Gravitas 
+0.031% Ash of War: Beast's Roar 
+0.031% Ash of War: Golden Slam 
+0.031% Ash of War: Golden Land 
+0.031% Ash of War: Golden Vow 
+0.031% Ash of War: Golden Parry 
+0.031% Ash of War: Black Flame Tornado 
+0.031% Raging Wolf Helm 
+0.031% Raging Wolf Greaves 
+0.031% Raging Wolf Gauntlets 
+0.031% Raging Wolf Armor 
+0.031% Raging Wolf Armor (Altered) 
+0.031% Thops's Barrier 
+0.031% Thops's Bell Bearing 
+0.031% Sword of St. Trina 
+0.031% St. Trina's Torch 
+0.031% Talisman Pouch 
+0.031% Lazuli Glintstone Crown 
+0.031% Mimic's Veil 
+0.031% Inquisitor's Girandole 
+0.031% Finger Maiden Therolina Puppet 
+0.031% Fingerprint Helm 
+0.031% Fingerprint Greaves 
+0.031% Fingerprint Gauntlets 
+0.031% Fingerprint Armor 
+0.031% Fingerprint Armor (Altered) 
+0.031% Fingerprint Stone Shield 
+0.031% Tibia's Summons 
+0.031% Lantern 
+0.031% Clinging Bone 
+0.031% Conspectus Scroll 
+0.031% Note: The Lord of Frenzied Flame 
+0.031% Note: Miquella's Needle 
+0.031% Speckled Hardtear 
+0.031% Duelist Helm 
+0.031% Duelist Greaves 
+0.031% Finger Severer 
+0.031% Spiralhorn Shield 
+0.031% Eclipse Crest Greatshield 
+0.031% Pest's Glaive 
+0.031% Fallingstar Beast Jaw 
+0.031% Celestial Dew 
+0.031% Intelligence-knot Crystal Tear 
+0.031% Crimson Hood 
+0.031% Telescope 
+0.031% Corhyn's Bell Bearing 
+0.031% Gowry's Bell Bearing 
+0.031% Gelmir's Fury 
+0.031% Varré's Bouquet 
+0.031% Regalia of Eochaid 
+0.031% Armorer's Cookbook [1] 
+0.031% Armorer's Cookbook [2] 
+0.031% Armorer's Cookbook [3] 
+0.031% Armorer's Cookbook [4] 
+0.031% Armorer's Cookbook [5] 
+0.031% Armorer's Cookbook [6] 
+0.031% Armorer's Cookbook [7] 
+0.031% Death Ritual Spear 
+0.031% Death's Poker 
+0.031% Deathroot 
+0.031% Deathbed Dress 
+0.031% Ripple Crescent Halberd 
+0.031% Pidia's Bell Bearing 
+0.031% Jellyfish Shield 
+0.031% Fevor's Cookbook [1] 
+0.031% Fevor's Cookbook [2] 
+0.031% Fevor's Cookbook [3] 
+0.031% Ripple Blade 
+0.031% Zorayas's Letter 
+0.031% Rold Medallion 
+0.031% Sacrificial Axe 
+0.031% Star Shower 
+0.031% Blackguard's Bell Bearing 
+0.031% Flowing Curved Sword 
+0.031% Nomadic Merchant's Bell Bearing [1] 
+0.031% Nomadic Merchant's Bell Bearing [10] 
+0.031% Nomadic Merchant's Bell Bearing [2] 
+0.031% Nomadic Merchant's Bell Bearing [3] 
+0.031% Nomadic Merchant's Bell Bearing [4] 
+0.031% Nomadic Merchant's Bell Bearing [5] 
+0.031% Nomadic Merchant's Bell Bearing [6] 
+0.031% Nomadic Merchant's Bell Bearing [7] 
+0.031% Nomadic Merchant's Bell Bearing [8] 
+0.031% Nomadic Merchant's Bell Bearing [9] 
+0.031% Nomadic Warrior's Cookbook [1] 
+0.031% Nomadic Warrior's Cookbook [10] 
+0.031% Nomadic Warrior's Cookbook [11] 
+0.031% Nomadic Warrior's Cookbook [12] 
+0.031% Nomadic Warrior's Cookbook [13] 
+0.031% Nomadic Warrior's Cookbook [14] 
+0.031% Nomadic Warrior's Cookbook [15] 
+0.031% Nomadic Warrior's Cookbook [16] 
+0.031% Nomadic Warrior's Cookbook [17] 
+0.031% Nomadic Warrior's Cookbook [18] 
+0.031% Nomadic Warrior's Cookbook [19] 
+0.031% Nomadic Warrior's Cookbook [2] 
+0.031% Nomadic Warrior's Cookbook [20] 
+0.031% Nomadic Warrior's Cookbook [21] 
+0.031% Nomadic Warrior's Cookbook [22] 
+0.031% Nomadic Warrior's Cookbook [23] 
+0.031% Nomadic Warrior's Cookbook [24] 
+0.031% Nomadic Warrior's Cookbook [3] 
+0.031% Nomadic Warrior's Cookbook [4] 
+0.031% Nomadic Warrior's Cookbook [5] 
+0.031% Nomadic Warrior's Cookbook [6] 
+0.031% Nomadic Warrior's Cookbook [7] 
+0.031% Nomadic Warrior's Cookbook [8] 
+0.031% Nomadic Warrior's Cookbook [9] 
+0.031% Mirage Riddle 
+0.031% Gavel of Haima 
+0.031% Cannon of Haima 
+0.031% Haima Glintstone Crown 
+0.031% Nepheli Loux Puppet 
+0.031% Crimsonburst Crystal Tear 
+0.031% Greenburst Crystal Tear 
+0.031% Navy Hood 
+0.031% Seedbed Curse 
+0.031% Pulley Bow 
+0.031% Pulley Crossbow 
+0.031% Black Whetblade 
+0.031% Crimsonspill Crystal Tear 
+0.031% Greenspill Crystal Tear 
+0.031% Volcano Manor Invitation 
+0.031% Sword of Milos 
+0.031% Ghost-Glovewort Picker's Bell Bearing [1] 
+0.031% Ghost-Glovewort Picker's Bell Bearing [2] 
+0.031% Ghost-Glovewort Picker's Bell Bearing [3] 
+0.031% Dexterity-knot Crystal Tear 
+0.031% Ghostflame Torch 
+0.031% Red-Hot Whetblade 
+0.031% Knifeprint Clue 
+0.031% Smoldering Shield 
+0.031% Magma Blade 
+0.031% Magma Whip Candlestick 
+0.031% Crucible Axe Helm 
+0.031% Crucible Axe Armor 
+0.031% Crucible Axe Armor (Altered) 
+0.031% Crucible Tree Helm 
+0.031% Crucible Tree Armor 
+0.031% Crucible Tree Armor (Altered) 
+0.031% Crucible Greaves 
+0.031% Crucible Gauntlets 
+0.031% Crucible Hornshield 
+0.031% Shattering Crystal 
+0.031% Clawmark Seal 
+0.031% Godslayer's Seal 
+0.031% One-Eyed Shield 
+0.031% Bloodhound's Fang 
+0.031% Raptor Talons 
+0.031% Raptor's Black Feathers 
+0.031% Lord's Divine Fortification 
+0.031% Lord's Heal 
+0.031% Lord's Aid 
+0.031% Royal House Scroll 
+0.031% Royal Greatsword 
+0.031% Royal Remains Helm 
+0.031% Royal Remains Greaves 
+0.031% Royal Remains Gauntlets 
+0.031% Royal Remains Armor 
+0.031% Margit's Shackle 
+0.031% Marais Mask 
+0.031% Borealis's Mist 
+0.031% Opaline Bubbletear 
+0.031% Opaline Hardtear 
+0.031% Sellian Sealbreaker 
+0.031% Sellia's Secret 
+0.031% Sellen's Primal Glintstone 
+0.031% Sellen's Bell Bearing 
+0.031% Frenzied Flame Seal 
+0.031% Alabaster Lord's Sword 
+0.031% Latenna the Albinauric 
+0.031% Albinauric Mask 
+0.031% Silver Mirrorshield 
+0.031% White Mask 
+0.031% All-Knowing Helm 
+0.031% Scepter of the All-Knowing 
+0.031% All-Knowing Greaves 
+0.031% All-Knowing Gauntlets 
+0.031% All-Knowing Armor 
+0.031% All-Knowing Armor (Altered) 
+0.031% Coil Shield 
+0.031% Watchdog's Staff 
+0.031% Gargoyle's Blackblade 
+0.031% Stonesword Key 
+0.031% Whetstone Knife 
+0.031% Collapsing Stars 
+0.031% Gravel Stone Seal 
+0.031% Godskin Apostle Robe 
+0.031% Godskin Apostle Hood 
+0.031% Godskin Prayerbook 
+0.031% Godskin Noble Robe 
+0.031% Godskin Noble Hood 
+0.031% Incantation Scarab 
+0.031% Royal Knight Helm 
+0.031% Royal Knight Greaves 
+0.031% Royal Knight Gauntlets 
+0.031% Royal Knight Armor 
+0.031% Royal Knight Armor (Altered) 
+0.031% Coded Sword 
+0.031% Cipher Pata 
+0.031% Numen's Rune 
+0.031% Ancestral Infant's Head 
+0.031% Harp Bow 
+0.031% Miquellan Knight's Sword 
+0.031% Miriel's Bell Bearing 
+0.031% Inseparable Sword 
+0.031% Crimson Bubbletear 
+0.031% Crimsonwhorl Bubbletear 
+0.031% Crimson Tear Scarab 
+0.031% Twiggy Cracked Tear 
+0.031% Frozen Needle 
+0.031% Crystal Sword 
+0.031% Crystal Staff 
+0.031% Crystal Spear 
+0.031% "Flightless Bird" Painting 
+0.031% "Resurrection" Painting 
+0.031% "Homing Instinct" Painting 
+0.031% "Redmane" Painting 
+0.031% "Champion's Song" Painting 
+0.031% "Prophecy" Painting 
+0.031% "Sorcerer" Painting 
+0.031% Letter to Patches 
+0.031% Letter to Bernahl 
+0.031% Vyke's War Spear 
+0.031% Vyke's Dragonbolt 
+0.031% Rogier's Letter 
+0.031% Rogier's Bell Bearing 
+0.031% Rosus' Axe 
+0.031% Loretta's Greatbow 
+0.031% Loretta's War Sickle 
+0.031% Loretta's Mastery 
+0.031% Shield of the Guilty 
+0.031% Frenzied's Cookbook [1] 
+0.031% Frenzied's Cookbook [2] 
+0.031% Winged Crystal Tear 
+0.031% Veteran's Helm 
+0.031% Veteran's Prosthesis 
+0.031% Commander's Standard 
+0.031% Veteran's Greaves 
+0.031% Veteran's Gauntlets 
+0.031% Veteran's Armor 
+0.031% Veteran's Armor (Altered) 
+0.031% Okina Mask 
+0.031% Beast Champion Helm 
+0.031% Beast Champion Greaves 
+0.031% Beast Champion Gauntlets 
+0.031% Beast Champion Armor 
+0.031% Beast Champion Armor (Altered) 
+0.031% Butchering Knife 
+0.031% Rotten Staff 
+0.031% Rotten Gravekeeper Cloak 
+0.031% Rotten Gravekeeper Cloak (Altered) 
+0.031% Rotten Duelist Helm 
+0.031% Rotten Duelist Greaves 
+0.031% Rotten Crystal Sword 
+0.031% Rotten Crystal Staff 
+0.031% Rotten Crystal Spear 
+0.031% Wing of Astel 
+0.031% Meteorite of Astel 
+0.031% Ekzykes's Decay 
+0.031% Eleonora's Poleblade 
+0.031% Medicine Peddler's Bell Bearing 
+0.031% Hero's Rune [1] 
+0.031% Hero's Rune [2] 
+0.031% Hero's Rune [3] 
+0.031% Hero's Rune [4] 
+0.031% Hero's Rune [5] 
+0.031% Lionel's Helm 
+0.031% Lionel's Greaves 
+0.031% Lionel's Gauntlets 
+0.031% Lionel's Armor 
+0.031% Lionel's Armor (Altered) 
+0.031% Fia's Mist 
+0.031% Zamor Ice Storm 
+0.031% Zamor Curved Sword 
+0.031% Zamor Legwraps 
+0.031% Zamor Bracelets 
+0.031% Zamor Armor 
+0.031% Zamor Mask 
+0.031% Gostoc's Bell Bearing 
+0.031% Mohg's Shackle 
+0.031% Cerulean Hidden Tear 
+0.031% Cerulean Tear Scarab 
+0.031% Mushroom Crown 
+0.031% Antspur Rapier 
+0.031% Ant's Skull Plate 
+0.031% Serpent Bow 
+0.031% Serpent's Amnion 
+0.031% Serpent-God's Curved Sword 
+0.031% Serpentbone Blade 
+0.031% Chrysalids' Memento 
+0.031% Scorpion's Stinger 
+0.031% Discarded Palace Key 
+0.031% Tailoring Tools 
+0.031% Tarnished's Wizened Finger 
+0.031% Abandoned Merchant's Bell Bearing 
+0.031% Horn Bow 
+0.031% Memory Stone 
+0.031% Nox Flowing Sword 
+0.031% Nox Flowing Hammer 
+0.031% Nox Mirrorhelm 
+0.031% Perfumer Tricia 
+0.031% Perfumer's Cookbook [1] 
+0.031% Perfumer's Cookbook [2] 
+0.031% Perfumer's Cookbook [3] 
+0.031% Perfumer's Cookbook [4] 
+0.031% Perfume Bottle 
+0.031% Bernahl's Bell Bearing 
+0.031% Briars of Punishment 
+0.031% Godskin Noble Bracelets 
+0.031% Seluvis's Introduction 
+0.031% Seluvis's Potion 
+0.031% Seluvis's Bell Bearing 
+0.031% Helphen's Steeple 
+0.031% Urumi 
+0.031% Glintstone Kris 
+0.031% Glintstone Craftsman's Cookbook [1] 
+0.031% Glintstone Craftsman's Cookbook [2] 
+0.031% Glintstone Craftsman's Cookbook [3] 
+0.031% Glintstone Craftsman's Cookbook [4] 
+0.031% Glintstone Craftsman's Cookbook [5] 
+0.031% Glintstone Craftsman's Cookbook [6] 
+0.031% Glintstone Craftsman's Cookbook [7] 
+0.031% Glintstone Craftsman's Cookbook [8] 
+0.031% Glintstone Cometshard 
+0.031% Glintstone Whetblade 
+0.031% Glintstone Scarab 
+0.031% Thorny Cracked Tear 
+0.031% Dectus Medallion (Right) 
+0.031% Dectus Medallion (Left) 
+0.031% Explosive Ghostflame 
+0.031% Reduvia 
+0.031% Radiant Baldachin's Blessing 
+0.031% Hermit Merchant's Bell Bearing [1] 
+0.031% Hermit Merchant's Bell Bearing [2] 
+0.031% Hermit Merchant's Bell Bearing [3] 
+0.031% Tonic of Forgetfulness 
+0.031% Gravity Stone Peddler's Bell Bearing 
+0.031% Beast Eye 
+0.031% Gold Bracelets 
+0.031% Gold Waistwrap 
+0.031% Goldmask's Rags 
+0.031% Steel-Wire Torch 
+0.031% Iron Whetblade 
+0.031% Briar Helm 
+0.031% Briar Greaves 
+0.031% Briar Gauntlets 
+0.031% Briar Armor 
+0.031% Briar Armor (Altered) 
+0.031% Iron Kasa 
+0.031% Meteoric Ore Blade 
+0.031% Glovewort Picker's Bell Bearing [1] 
+0.031% Glovewort Picker's Bell Bearing [2] 
+0.031% Glovewort Picker's Bell Bearing [3] 
+0.031% Leaden Hardtear 
+0.031% Silver Tear Mask 
+0.031% Smithing-Stone Miner's Bell Bearing [1] 
+0.031% Smithing-Stone Miner's Bell Bearing [2] 
+0.031% Smithing-Stone Miner's Bell Bearing [3] 
+0.031% Smithing-Stone Miner's Bell Bearing [4] 
+0.031% Alberich's Robe 
+0.031% Alberich's Robe (Altered) 
+0.031% Alberich's Pointed Hat 
+0.031% Alberich's Pointed Hat (Altered) 
+0.031% Alberich's Bracers 
+0.031% Alberich's Trousers 
+0.031% Mask of Confidence 
+0.031% Isolated Merchant's Bell Bearing [1] 
+0.031% Isolated Merchant's Bell Bearing [2] 
+0.031% Isolated Merchant's Bell Bearing [3] 
+0.031% Unendurable Frenzy 
+0.031% Snow Witch Hat 
+0.031% Snow Witch Robe 
+0.031% Snow Witch Robe (Altered) 
+0.031% Snow Witch Skirt 
+0.031% Hoslow's Helm 
+0.031% Hoslow's Greaves 
+0.031% Hoslow's Gauntlets 
+0.031% Hoslow's Petal Whip 
+0.031% Hoslow's Armor 
+0.031% Hoslow's Armor (Altered) 
+0.031% Ruler's Mask 
+0.031% Visage Shield 
+0.031% The Stormhawk King 
+0.031% Stormhawk Axe 
+0.031% Stormhawk Deenh 
+0.031% Windy Crystal Tear 
+0.031% Crystal Release 
+0.031% Dung Eater Puppet 
+0.031% Beast-Repellent Torch 
+0.031% Witch's Glintstone Crown 
+0.031% Terra Magica 
+0.031% Spellblade's Pointed Hat 
+0.031% Spellblade's Gloves 
+0.031% Spellblade's Traveling Attire 
+0.031% Spellblade's Traveling Attire (Altered) 
+0.031% Spellblade's Trousers 
+0.031% Preceptor's Big Hat 
+0.031% Preceptor's Gloves 
+0.031% Preceptor's Long Gown 
+0.031% Preceptor's Long Gown (Altered) 
+0.031% Preceptor's Trousers 
+0.031% Imbued Sword Key 
+0.031% Red Letter 
+0.031% Scaled Helm 
+0.031% Scaled Greaves 
+0.031% Scaled Gauntlets 
+0.031% Scaled Armor 
+0.031% Scaled Armor (Altered) 
+0.031% Wrath of Gold 
+0.031% Golden Epitaph 
+0.031% Golden Order Principia 
+0.031% Golden Order Seal 
+0.031% Golden Halberd 
+0.031% Erdtree Codex 
+0.031% Erdtree Seal 
+0.031% Erdtree Greatbow 
+0.031% Erdtree Greatshield 
+0.031% Protection of the Erdtree 
+0.031% Erdtree Bow 
+0.031% Erdtree Heal 
+0.031% Blessing of the Erdtree 
+0.031% Erdtree Prayerbook 
+0.031% Golden Seed 
+0.031% Gold Sewing Needle 
+0.031% Golden Tailoring Tools 
+0.031% Black Knifeprint 
+0.031% Black Knife Greaves 
+0.031% Black Knife Gauntlets 
+0.031% Black Knife Armor 
+0.031% Black Knife Armor (Altered) 
+0.031% Black Knife Hood 
+0.031% Nightmaiden & Swordstress Puppets 
+0.031% Black Dumpling 
+0.031% Black Bow 
+0.031% Blackflame Monk Amon 
+0.031% Black Flame Ritual 
+0.031% Black Wolf Mask 
+0.031% Onyx Lord's Greatsword 
+0.031% Dragon Cult Prayerbook 
+0.031% Dragon Heart 
+0.031% Dragon Halberd 
+0.031% Dragonclaw Shield 
+0.031% Dragon Communion Seal 
+0.031% Drake Knight Helm 
+0.031% Drake Knight Helm (Altered) 
+0.031% Drake Knight Greaves 
+0.031% Drake Knight Gauntlets 
+0.031% Drake Knight Armor 
+0.031% Drake Knight Armor (Altered) 
+0.031% Dragonscale Blade 
+0.031% Cracked Pot 
+0.031% D's Bell Bearing 
+0.037% [ERROR]Entwining Umbilical Cord 
+0.037% Extreme Repentance 
+0.037% Desperate Prayer 
+0.037% Host's Trick-Mirror 
+0.037% Triumphant Delight 
+0.037% Prosthesis-Wearer Heirloom 
+0.037% Shard of Alexander 
+0.037% By My Sword 
+0.037% Arsenal Charm 
+0.037% Faithful's Canvas Talisman 
+0.037% Stalwart Horn Charm 
+0.037% Crepus's Vial 
+0.037% Immunizing Horn Charm 
+0.037% Heartening Cry 
+0.037% Inner Order 
+0.037% Calm Down! 
+0.037% Furled Finger's Trick-Mirror 
+0.037% Carian Filigreed Crest 
+0.037% Companion Jar 
+0.037% Twinblade Talisman 
+0.037% Two Fingers Heirloom 
+0.037% Point Upwards 
+0.037% Point Downwards 
+0.037% Point Forwards 
+0.037% My Lord 
+0.037% Roar Medallion 
+0.037% Sacred Scorpion Charm 
+0.037% Haligdrake Talisman 
+0.037% Shabriri's Woe 
+0.037% Outer Order 
+0.037% Great-Jar's Arsenal 
+0.037% Spread Out 
+0.037% Bull-Goat's Talisman 
+0.037% Hammer Talisman 
+0.037% Greatshield Talisman 
+0.037% Head 
+0.037% As You Wish 
+0.037% Curtsy 
+0.037% Patches' Crouch 
+0.037% Winged Sword Insignia 
+0.037% Jump for Joy 
+0.037% Finger Snap 
+0.037% Unarmed 
+0.037% Rapture 
+0.037% Blessed Dew Talisman 
+0.037% Reverential Bow 
+0.037% Warrior Jar Shard 
+0.037% Casual Greeting 
+0.037% Radagon's Scarseal 
+0.037% Bravo! 
+0.037% Wave 
+0.037% Taker's Cameo 
+0.037% Sitting Sideways 
+0.037% Bow 
+0.037% Mottled Necklace 
+0.037% Axe Talisman 
+0.037% Curved Sword Talisman 
+0.037% What Do You Want? 
+0.037% Assassin's Crimson Dagger 
+0.037% Assassin's Cerulean Dagger 
+0.037% Rallying Cry 
+0.037% Warm Welcome 
+0.037% Prince of Death's Cyst 
+0.037% Prince of Death's Pustule 
+0.037% Grovel For Mercy 
+0.037% Dejection 
+0.037% Erudition 
+0.037% Primal Glintstone Blade 
+0.037% Fire Scorpion Charm 
+0.037% Flamedrake Talisman 
+0.037% Nod In Thought 
+0.037% Crucible Knot Talisman 
+0.037% Crucible Feather Talisman 
+0.037% Crucible Scale Talisman 
+0.037% Daedicar's Woe 
+0.037% Ritual Sword Talisman 
+0.037% Ritual Shield Talisman 
+0.037% Marika's Scarseal 
+0.037% Pearldrake Talisman 
+0.037% Clarifying Horn Charm 
+0.037% Strength! 
+0.037% Crossed Legs 
+0.037% Dozing Cross-Legged 
+0.037% Spear Talisman 
+0.037% Dagger Talisman 
+0.037% Arrow's Sting Talisman 
+0.037% Starscourge Heirloom 
+0.037% Prayer 
+0.037% Godskin Swaddling Cloth 
+0.037% Rest 
+0.037% Wait! 
+0.037% Millicent's Prosthesis 
+0.037% Crimson Seed Talisman 
+0.037% Red-Feathered Branchsword 
+0.037% Viridian Amber Medallion 
+0.037% Green Turtle Talisman 
+0.037% Balled Up 
+0.037% Flock's Canvas Talisman 
+0.037% Kindred of Rot's Exultation 
+0.037% Rotten Winged Sword Insignia 
+0.037% Arms 
+0.037% Legs 
+0.037% My Thanks 
+0.037% Cerulean Amber Medallion 
+0.037% Cerulean Seed Talisman 
+0.037% Blue-Feathered Branchsword 
+0.037% Blue Dancer Charm 
+0.037% Stargazer Heirloom 
+0.037% Perfumer's Talisman 
+0.037% Body 
+0.037% Fancy Spin 
+0.037% Beckon 
+0.037% Arrow's Reach Talisman 
+0.037% Polite Bow 
+0.037% Gold Scarab 
+0.037% Claw Talisman 
+0.037% Silver Scarab 
+0.037% Longtail Cat Talisman 
+0.037% Concealing Veil 
+0.037% Lightning Scorpion Charm 
+0.037% Boltdrake Talisman 
+0.037% Hoslow's Oath 
+0.037% Lance Talisman 
+0.037% Graven-Mass Talisman 
+0.037% Graven-School Talisman 
+0.037% Golden Order Totality 
+0.037% Erdtree's Favor 
+0.037% Dragoncrest Shield Talisman 
+0.043% [ERROR]Deathbed Smalls 
+0.043% High Page Clothes 
+0.043% High Page Clothes (Altered) 
+0.043% High Page Hood 
+0.043% Staff of Loss 
+0.043% Monk's Flameblade 
+0.043% Monk's Flamemace 
+0.043% Demi-Human Queen's Staff 
+0.043% Crossed-Tree Towershield 
+0.043% Marred Wooden Shield 
+0.043% Marred Leather Shield 
+0.043% Beastman's Jar-Shield 
+0.043% Beastman's Cleaver 
+0.043% Beastman's Curved Sword 
+0.043% Spiked Club 
+0.043% Beast Crest Heater Shield 
+0.043% Golden Beast Crest Shield 
+0.043% Ice Crest Shield 
+0.043% Forked Greatsword 
+0.043% Forked Hatchet 
+0.043% Estoc 
+0.043% Glaive 
+0.043% Scavenger's Curved Sword 
+0.043% Dagger 
+0.043% Cross-Naginata 
+0.043% Pickaxe 
+0.043% Rickety Shield 
+0.043% Great Knife 
+0.043% Carian Glintblade Staff 
+0.043% Carian Glintstone Staff 
+0.043% Twinblade 
+0.043% Zweihander 
+0.043% Distinguished Greatshield 
+0.043% Lordsworn's Greatsword 
+0.043% Lordsworn's Shield 
+0.043% Lordsworn's Straight Sword 
+0.043% Round Shield 
+0.043% Scripture Wooden Shield 
+0.043% Haligtree Crest Greatshield 
+0.043% Manor Towershield 
+0.043% Grave Scythe 
+0.043% Soldier's Crossbow 
+0.043% Composite Bow 
+0.043% Claymore 
+0.043% Greatbow 
+0.043% Large Club 
+0.043% Large Leather Shield 
+0.043% Great Épée 
+0.043% Scythe 
+0.043% Sun Realm Shield 
+0.043% Banished Knight's Greatsword 
+0.043% Banished Knight's Halberd 
+0.043% Banished Knight's Shield 
+0.043% Academy Glintstone Staff 
+0.043% Guardian's Swordspear 
+0.043% Cleanrot Knight's Sword 
+0.043% Foot Soldier Helm 
+0.043% Buckler 
+0.043% Troll's Golden Sword 
+0.043% Bandit's Curved Sword 
+0.043% Greatsword 
+0.043% Grossmesser 
+0.043% Great Mace 
+0.043% Greataxe 
+0.043% Celebrant's Sickle 
+0.043% Celebrant's Cleaver 
+0.043% Celebrant's Rib-Rake 
+0.043% Crescent Moon Axe 
+0.043% Falchion 
+0.043% Curved Great Club 
+0.043% Curved Club 
+0.043% Highwayman Gauntlets 
+0.043% Highwayman Cloth Armor 
+0.043% Highwayman Hood 
+0.043% Omen Cleaver 
+0.043% Great Omenkiller Cleaver 
+0.043% Omenkiller Long Gloves 
+0.043% Omenkiller Robe 
+0.043% Omenkiller Boots 
+0.043% Vulgar Militia Shotel 
+0.043% Vulgar Militia Saw 
+0.043% Miséricorde 
+0.043% Battle Axe 
+0.043% Ash of War: Double Slash 
+0.043% Ash of War: Ice Spear 
+0.043% Ash of War: Determination 
+0.043% Ash of War: Hoarfrost Stomp 
+0.043% Ash of War: Square Off 
+0.043% Ash of War: Seppuku 
+0.043% Ash of War: Sword Dance 
+0.043% Ash of War: Carian Greatsword 
+0.043% Ash of War: Carian Retaliation 
+0.043% Ash of War: Stormcaller 
+0.043% Ash of War: Spinning Strikes 
+0.043% Ash of War: Spinning Slash 
+0.043% Ash of War: Sacred Order 
+0.043% Ash of War: Ground Slam 
+0.043% Ash of War: Braggart's Roar 
+0.043% Ash of War: Enchanted Shot 
+0.043% Ash of War: Chilling Mist 
+0.043% Ash of War: Sky Shot 
+0.043% Ash of War: Unsheathe 
+0.043% Ash of War: Spectral Lance 
+0.043% Ash of War: Endure 
+0.043% Ash of War: War Cry 
+0.043% Ash of War: Mighty Shot 
+0.043% Ash of War: Earthshaker 
+0.043% Ash of War: No Skill 
+0.043% Ash of War: Vow of the Indomitable 
+0.043% Ash of War: Assassin's Gambit 
+0.043% Ash of War: Parry 
+0.043% Ash of War: Flaming Strike 
+0.043% Ash of War: Eruption 
+0.043% Ash of War: Lion's Claw 
+0.043% Ash of War: Wild Strikes 
+0.043% Ash of War: Shield Bash 
+0.043% Ash of War: Quickstep 
+0.043% Ash of War: Prayerful Strike 
+0.043% Ash of War: Charge Forth 
+0.043% Ash of War: Shield Crash 
+0.043% Ash of War: Stamp (Upward Cut) 
+0.043% Ash of War: Stamp (Sweep) 
+0.043% Ash of War: Thunderbolt 
+0.043% Ash of War: Impaling Thrust 
+0.043% Ash of War: Through and Through 
+0.043% Ash of War: Kick 
+0.043% Ash of War: Spinning Weapon 
+0.043% Ash of War: Glintblade Phalanx 
+0.043% Ash of War: Glintstone Pebble 
+0.043% Ash of War: Repeating Thrust 
+0.043% Ash of War: Barrage 
+0.043% Ash of War: Barbaric Roar 
+0.043% Ash of War: Barricade Shield 
+0.043% Ash of War: Lightning Slash 
+0.043% Ash of War: Storm Blade 
+0.043% Ash of War: Storm Assault 
+0.043% Ash of War: Storm Stomp 
+0.043% Ash of War: Storm Wall 
+0.043% Warpick 
+0.043% Warhawk's Talon 
+0.043% Halberd 
+0.043% Hand Axe 
+0.043% Cane Sword 
+0.043% Uchigatana 
+0.043% Lazuli Glintstone Sword 
+0.043% Lazuli Robe 
+0.043% Katar 
+0.043% Finger Seal 
+0.043% Digger's Staff 
+0.043% Caestus 
+0.043% Hand Ballista 
+0.043% Duelist Greataxe 
+0.043% Battle Hammer 
+0.043% Executioner's Greataxe 
+0.043% Eclipse Crest Heater Shield 
+0.043% Star Fist 
+0.043% Morning Star 
+0.043% Wooden Greatshield 
+0.043% Noble's Estoc 
+0.043% Noble's Slender Sword 
+0.043% Cuckoo Greatshield 
+0.043% Pillory Shield 
+0.043% Gelmir Glintstone Staff 
+0.043% Parrying Dagger 
+0.043% Club 
+0.043% Spiked Caestus 
+0.043% Spiked Spear 
+0.043% Warped Axe 
+0.043% Prince of Death's Staff 
+0.043% Clayman's Harpoon 
+0.043% Bastard Sword 
+0.043% Misbegotten Shortbow 
+0.043% Torch 
+0.043% Flame Crest Wooden Shield 
+0.043% Torchpole 
+0.043% Candletree Wooden Shield 
+0.043% Flamberge 
+0.043% Heater Shield 
+0.043% Bloodhound Claws 
+0.043% Scarlet Tabard 
+0.043% Lucerne 
+0.043% Albinauric Bow 
+0.043% Albinauric Staff 
+0.043% Albinauric Shield 
+0.043% Leather-Draped Tabard 
+0.043% Watchdog's Greatsword 
+0.043% Spear 
+0.043% Short Sword 
+0.043% Shortbow 
+0.043% Scimitar 
+0.043% Short Spear 
+0.043% Gargoyle's Twinblade 
+0.043% Gargoyle's Greatsword 
+0.043% Gargoyle's Great Axe 
+0.043% Gargoyle's Halberd 
+0.043% Gargoyle's Black Blades 
+0.043% Gargoyle's Black Halberd 
+0.043% Gargoyle's Black Axe 
+0.043% Stone Club 
+0.043% Hammer 
+0.043% Brick Hammer 
+0.043% Godskin Peeler 
+0.043% Godskin Stitcher 
+0.043% Giant-Crusher 
+0.043% Red Branch Shortbow 
+0.043% Red Thorn Roundshield 
+0.043% Redmane Greatshield 
+0.043% Red Crest Heater Shield 
+0.043% Rapier 
+0.043% Crystal Knife 
+0.043% Rogier's Rapier 
+0.043% Staff of the Guilty 
+0.043% Weathered Straight Sword 
+0.043% Wakizashi 
+0.043% Rotten Greataxe 
+0.043% Rotten Battle Hammer 
+0.043% Thorned Whip 
+0.043% Fia's Robe 
+0.043% Fia's Robe (Altered) 
+0.043% Fia's Hood 
+0.043% Blue-White Wooden Shield 
+0.043% Blue Crest Heater Shield 
+0.043% Blue-Gold Kite Shield 
+0.043% Man-Serpent's Shield 
+0.043% Scorpion Kite Shield 
+0.043% Mantis Blade 
+0.043% Rift Shield 
+0.043% Astrologer's Staff 
+0.043% Perfumer's Shield 
+0.043% Ivory Sickle 
+0.043% Ivory-Draped Tabard 
+0.043% Shamshir 
+0.043% Whip 
+0.043% Light Crossbow 
+0.043% Glintstone Staff 
+0.043% Flail 
+0.043% Inverted Hawk Towershield 
+0.043% Inverted Hawk Heater Shield 
+0.043% Heavy Crossbow 
+0.043% Gilded Greatshield 
+0.043% Gilded Iron Shield 
+0.043% Spiked Palisade Shield 
+0.043% Arbalest 
+0.043% Shotel 
+0.043% Hookclaws 
+0.043% Iron Greatsword 
+0.043% Iron Spear 
+0.043% Iron Roundshield 
+0.043% Chainlink Flail 
+0.043% Iron Cleaver 
+0.043% Briar Greatshield 
+0.043% Iron Ball 
+0.043% Riveted Wooden Shield 
+0.043% Rusted Anchor 
+0.043% Mace 
+0.043% Longsword 
+0.043% Longbow 
+0.043% Longhaft Axe 
+0.043% Nagakiba 
+0.043% Pike 
+0.043% Broadsword 
+0.043% Partisan 
+0.043% Meteorite Staff 
+0.043% Jawbone Axe 
+0.043% Horse Crest Wooden Shield 
+0.043% Lance 
+0.043% Dismounter 
+0.043% Twinned Knight Swords 
+0.043% Knight's Greatsword 
+0.043% Highland Axe 
+0.043% Golem Greatbow 
+0.043% Golem's Halberd 
+0.043% Kite Shield 
+0.043% Hawk Crest Wooden Shield 
+0.043% Golden Greatshield 
+0.043% Brass Shield 
+0.043% Erdsteel Dagger 
+0.043% Nightrider Glaive 
+0.043% Nightrider Flail 
+0.043% Black Leather Shield 
+0.043% Dragon Towershield 
+0.049% [ERROR]Asimi, Silver Tear 
+0.049% [ERROR]Asimi, Silver Chrysalid 
+0.049% [ERROR]Iji's Confession 
+0.049% [ERROR]Brave's Battlewear 
+0.049% [ERROR]Brave's Battlewear (Altered) 
+0.049% [ERROR]Brave's Leather Helm 
+0.049% [ERROR]Brave's Legwraps 
+0.049% [ERROR]Brave's Bracer 
+0.049% [ERROR]Brave's Cord Circlet 
+0.049% [ERROR]Rya's Necklace 
+0.049% [ERROR]Lucent Baldachin's Blessing 
+0.049% [ERROR]Asimi's Husk 
+0.049% Upper-Class Robe 
+0.049% Sewer-Gaol Key 
+0.049% Immutable Shield 
+0.049% Demi-Human Ashes 
+0.049% Azula Beastman Ashes 
+0.049% Marionette Soldier Helm 
+0.049% Marionette Soldier Armor 
+0.049% Marionette Soldier Birdhelm 
+0.049% Marionette Soldier Ashes 
+0.049% Irina's Letter 
+0.049% Consort's Robe 
+0.049% Consort's Trousers 
+0.049% Discus of Light 
+0.049% Beast Claw 
+0.049% Bestial Sling 
+0.049% Frozen Lightning Spear 
+0.049% Freezing Mist 
+0.049% Kaiden Sellsword Ashes 
+0.049% Kaiden Helm 
+0.049% Kaiden Gauntlets 
+0.049% Kaiden Armor 
+0.049% Kaiden Trousers 
+0.049% Frenzied Burst 
+0.049% Assassin's Approach 
+0.049% Warrior Greaves 
+0.049% Warrior Gauntlets 
+0.049% Champion Headband 
+0.049% Champion Gaiters 
+0.049% Champion Pauldron 
+0.049% Champion Bracers 
+0.049% Triple Rings of Light 
+0.049% Unseen Form 
+0.049% Carian Greatsword 
+0.049% Carian Retaliation 
+0.049% Carian Piercer 
+0.049% Carian Slicer 
+0.049% Carian Knight Helm 
+0.049% Carian Knight Greaves 
+0.049% Carian Knight Gauntlets 
+0.049% Carian Knight Armor 
+0.049% Carian Knight Armor (Altered) 
+0.049% Twinsage Sorcerer Ashes 
+0.049% Mad Pumpkin Head Ashes 
+0.049% Rancorcall 
+0.049% Prattling Pate "Hello" 
+0.049% Prattling Pate "Wonderful" 
+0.049% Prattling Pate "Apologies" 
+0.049% Prattling Pate "Let's get to it" 
+0.049% Prattling Pate "My beloved" 
+0.049% Prattling Pate "Please help" 
+0.049% Prattling Pate "Thank you" 
+0.049% Prisoner Clothing 
+0.049% Prisoner Iron Mask 
+0.049% Prisoner Trousers 
+0.049% Order's Blade 
+0.049% Order Healing 
+0.049% Haligtree Crest Surcoat 
+0.049% Haligtree Soldier Ashes 
+0.049% Haligtree Greaves 
+0.049% Haligtree Gauntlets 
+0.049% Haligtree Knight Greaves 
+0.049% Haligtree Knight Gauntlets 
+0.049% Haligtree Knight Armor 
+0.049% Haligtree Knight Armor (Altered) 
+0.049% Divine Fortification 
+0.049% Depraved Perfumer Headscarf 
+0.049% Depraved Perfumer Gloves 
+0.049% Depraved Perfumer Robe 
+0.049% Depraved Perfumer Robe (Altered) 
+0.049% Depraved Perfumer Trousers 
+0.049% Great Heal 
+0.049% Tree-and-Beast Surcoat 
+0.049% Tree Surcoat 
+0.049% Greatshield Soldier Ashes 
+0.049% Giant Rat Ashes 
+0.049% Great Horned Headband 
+0.049% Banished Knight Helm 
+0.049% Banished Knight Helm (Altered) 
+0.049% Banished Knight Greaves 
+0.049% Banished Knight Gauntlets 
+0.049% Banished Knight Armor 
+0.049% Banished Knight Armor (Altered) 
+0.049% Ambush Shard 
+0.049% Guardian Garb 
+0.049% Guardian Greaves 
+0.049% Guardian Bracers 
+0.049% Guardian Mask 
+0.049% Official's Attire 
+0.049% Confessor Gloves 
+0.049% Confessor Armor 
+0.049% Confessor Armor (Altered) 
+0.049% Confessor Boots 
+0.049% Confessor Hood 
+0.049% Confessor Hood (Altered) 
+0.049% Foot Soldier Greaves 
+0.049% Foot Soldier Gauntlets 
+0.049% Foot Soldier Tabard 
+0.049% Gilded Foot Soldier Cap 
+0.049% Foot Soldier Helmet 
+0.049% Foot Soldier Cap 
+0.049% Miranda Sprout Ashes 
+0.049% Fanged Imp Ashes 
+0.049% Commoner's Garb 
+0.049% Commoner's Garb (Altered) 
+0.049% Commoner's Simple Garb 
+0.049% Commoner's Simple Garb (Altered) 
+0.049% Commoner's Headband 
+0.049% Commoner's Headband (Altered) 
+0.049% Commoner's Shoes 
+0.049% Rock Sling 
+0.049% Greathelm 
+0.049% Cloth Garb 
+0.049% Cloth Trousers 
+0.049% Winged Misbegotten Ashes 
+0.049% Juvenile Scholar Cap 
+0.049% Juvenile Scholar Robe 
+0.049% Old Aristocrat Cowl 
+0.049% Old Aristocrat Shoes 
+0.049% Old Aristocrat Gown 
+0.049% Festive Garb 
+0.049% Festive Garb (Altered) 
+0.049% Blue Festive Garb 
+0.049% Blue Festive Hood 
+0.049% Festive Hood 
+0.049% Festive Hood (Altered) 
+0.049% Wandering Noble Ashes 
+0.049% Heal 
+0.049% Blessing's Boon 
+0.049% Vulgar Militia Helm 
+0.049% Vulgar Militia Ashes 
+0.049% Vulgar Militia Greaves 
+0.049% Vulgar Militia Gauntlets 
+0.049% Vulgar Militia Armor 
+0.049% War Surgeon Gloves 
+0.049% War Surgeon Gown 
+0.049% War Surgeon Gown (Altered) 
+0.049% War Surgeon Trousers 
+0.049% Battlemage Legwraps 
+0.049% Battlemage Manchettes 
+0.049% Battlemage Robe 
+0.049% Warhawk Ashes 
+0.049% Flame Sling 
+0.049% Gauntlets 
+0.049% Rykard's Great Rune 
+0.049% Radahn Soldier Helm 
+0.049% Radahn Soldier Ashes 
+0.049% Radahn Soldier Greaves 
+0.049% Radahn Soldier Gauntlets 
+0.049% Radahn's Great Rune 
+0.049% Radagon's Rings of Light 
+0.049% Rejection 
+0.049% Ragged Hat 
+0.049% Ragged Hat (Altered) 
+0.049% Ragged Gloves 
+0.049% Ragged Loincloth 
+0.049% Ragged Armor 
+0.049% Ragged Armor (Altered) 
+0.049% Finger Maiden Fillet 
+0.049% Finger Maiden Robe 
+0.049% Finger Maiden Robe (Altered) 
+0.049% Finger Maiden Shoes 
+0.049% Archer Ashes 
+0.049% Traveler's Clothes 
+0.049% Traveling Maiden Gloves 
+0.049% Traveling Maiden Robe 
+0.049% Traveling Maiden Robe (Altered) 
+0.049% Traveling Maiden Boots 
+0.049% Traveling Maiden Hood 
+0.049% Traveler's Hat 
+0.049% Traveler's Gloves 
+0.049% Traveler's Manchettes 
+0.049% Traveler's Slops 
+0.049% Traveler's Boots 
+0.049% Shard Spiral 
+0.049% Unseen Blade 
+0.049% Starlight 
+0.049% Aristocrat Garb 
+0.049% Aristocrat Garb (Altered) 
+0.049% Aristocrat Coat 
+0.049% Aristocrat Headband 
+0.049% Aristocrat Hat 
+0.049% Aristocrat Boots 
+0.049% Noble Sorcerer Ashes 
+0.049% Cuckoo Surcoat 
+0.049% Cuckoo Knight Helm 
+0.049% Cuckoo Knight Greaves 
+0.049% Cuckoo Knight Gauntlets 
+0.049% Cuckoo Knight Armor 
+0.049% Cuckoo Knight Armor (Altered) 
+0.049% Corhyn's Robe 
+0.049% Gelmir Knight Helm 
+0.049% Gelmir Knight Greaves 
+0.049% Gelmir Knight Gauntlets 
+0.049% Gelmir Knight Armor 
+0.049% Gelmir Knight Armor (Altered) 
+0.049% Scouring Black Flame 
+0.049% Fur Raiment 
+0.049% Fur Leggings 
+0.049% Clayman Ashes 
+0.049% Exile Greaves 
+0.049% Exile Gauntlets 
+0.049% Exile Armor 
+0.049% Exile Hood 
+0.049% Blackguard's Iron Mask 
+0.049% Nomadic Merchant's Finery 
+0.049% Nomadic Merchant's Finery (Altered) 
+0.049% Nomadic Merchant's Chapeau 
+0.049% Nomadic Merchant's Trousers 
+0.049% Nomad Ashes 
+0.049% Vagabond Knight Helm 
+0.049% Vagabond Knight Greaves 
+0.049% Vagabond Knight Gauntlets 
+0.049% Vagabond Knight Armor 
+0.049% Vagabond Knight Armor (Altered) 
+0.049% Ronin's Greaves 
+0.049% Ronin's Gauntlets 
+0.049% Ronin's Armor 
+0.049% Ronin's Armor (Altered) 
+0.049% Roiling Magma 
+0.049% Flame Fortification 
+0.049% Mausoleum Soldier Ashes 
+0.049% Mausoleum Greaves 
+0.049% Mausoleum Gauntlets 
+0.049% Mausoleum Surcoat 
+0.049% Mausoleum Knight Greaves 
+0.049% Mausoleum Knight Gauntlets 
+0.049% Mausoleum Knight Armor 
+0.049% Mausoleum Knight Armor (Altered) 
+0.049% Flask of Wondrous Physick 
+0.049% Spirit Jellyfish Ashes 
+0.049% Magma Breath 
+0.049% Magma Shot 
+0.049% Aspects of the Crucible: Breath 
+0.049% Aspects of the Crucible: Tail 
+0.049% Aspects of the Crucible: Horns 
+0.049% Catch Flame 
+0.049% Rock Blaster 
+0.049% Shatter Earth 
+0.049% Soldjars of Fortune Ashes 
+0.049% Sacrificial Twig 
+0.049% Diallos's Mask 
+0.049% Bloodhound Knight Helm 
+0.049% Bloodhound Knight Greaves 
+0.049% Bloodhound Knight Gauntlets 
+0.049% Bloodhound Knight Armor 
+0.049% Bloodhound Knight Armor (Altered) 
+0.049% Malenia's Great Rune 
+0.049% Marais Robe 
+0.049% Rusty Key 
+0.049% The Flame of Frenzy 
+0.049% Albinauric Ashes 
+0.049% Leather Gloves 
+0.049% Leather Armor 
+0.049% Leather Trousers 
+0.049% Leather Boots 
+0.049% Bandit Garb 
+0.049% Bandit Manchettes 
+0.049% Bandit Mask 
+0.049% Bandit Boots 
+0.049% Eye Surcoat 
+0.049% Ancestral Follower Ashes 
+0.049% Oracle Envoy Ashes 
+0.049% Great Oracular Bubble 
+0.049% Oracle Bubbles 
+0.049% Shaman Furs 
+0.049% Shaman Leggings 
+0.049% Lone Wolf Ashes 
+0.049% Errant Sorcerer Manchettes 
+0.049% Errant Sorcerer Robe 
+0.049% Errant Sorcerer Robe (Altered) 
+0.049% Errant Sorcerer Boots 
+0.049% Octopus Head 
+0.049% Honed Bolt 
+0.049% Urgent Heal 
+0.049% Litany of Proper Death 
+0.049% Redmane Surcoat 
+0.049% Redmane Knight Helm 
+0.049% Redmane Knight Greaves 
+0.049% Redmane Knight Gauntlets 
+0.049% Redmane Knight Armor 
+0.049% Redmane Knight Armor (Altered) 
+0.049% Flask of Crimson Tears 
+0.049% Frozen Armament 
+0.049% Crystalian Ashes 
+0.049% Crystal Burst 
+0.049% Crystal Barrage 
+0.049% Sewing Needle 
+0.049% Leyndell Soldier Helm 
+0.049% Leyndell Soldier Ashes 
+0.049% Leyndell Soldier Greaves 
+0.049% Leyndell Soldier Gauntlets 
+0.049% Leyndell Knight Helm 
+0.049% Leyndell Knight Greaves 
+0.049% Leyndell Knight Gauntlets 
+0.049% Leyndell Knight Armor 
+0.049% Leyndell Knight Armor (Altered) 
+0.049% Guilty Hood 
+0.049% Briars of Sin 
+0.049% Putrid Corpse Ashes 
+0.049% Rotten Breath 
+0.049% Kindred of Rot Ashes 
+0.049% Rotten Stray Ashes 
+0.049% Dancer's Castanets 
+0.049% Land of Reeds Helm 
+0.049% Land of Reeds Greaves 
+0.049% Land of Reeds Gauntlets 
+0.049% Land of Reeds Armor 
+0.049% Land of Reeds Armor (Altered) 
+0.049% Blue Silver Bracelets 
+0.049% Blue Silver Mail Armor 
+0.049% Blue Silver Mail Armor (Altered) 
+0.049% Blue Silver Mail Skirt 
+0.049% Blue Silver Mail Hood 
+0.049% Rya's Necklace 
+0.049% Godrick Soldier Helm 
+0.049% Godrick Soldier Ashes 
+0.049% Godrick Soldier Greaves 
+0.049% Godrick Soldier Gauntlets 
+0.049% Godrick's Great Rune 
+0.049% Godrick Knight Helm 
+0.049% Godrick Knight Greaves 
+0.049% Godrick Knight Gauntlets 
+0.049% Godrick Knight Armor 
+0.049% Godrick Knight Armor (Altered) 
+0.049% Mohg's Great Rune 
+0.049% Morgott's Great Rune 
+0.049% Blue Cloth Vest 
+0.049% Blue Cloth Cowl 
+0.049% Flask of Cerulean Tears 
+0.049% Mushroom Head 
+0.049% Mushroom Arms 
+0.049% Mushroom Legs 
+0.049% Mushroom Body 
+0.049% Pest Threads 
+0.049% Man-Serpent Ashes 
+0.049% Swarm of Flies 
+0.049% Astrologer Gloves 
+0.049% Astrologer Robe 
+0.049% Astrologer Robe (Altered) 
+0.049% Astrologer Trousers 
+0.049% Astrologer Hood 
+0.049% Shadow Bait 
+0.049% Nox Bracelets 
+0.049% Nox Greaves 
+0.049% Nox Monk Armor 
+0.049% Nox Monk Armor (Altered) 
+0.049% Nox Monk Hood 
+0.049% Nox Monk Hood (Altered) 
+0.049% Nox Swordstress Crown 
+0.049% Nox Swordstress Crown (Altered) 
+0.049% Nox Swordstress Armor 
+0.049% Nox Swordstress Armor (Altered) 
+0.049% Perfumer Gloves 
+0.049% Perfumer's Traveling Garb 
+0.049% Perfumer's Traveling Garb (Altered) 
+0.049% Perfumer Sarong 
+0.049% Perfumer Robe 
+0.049% Perfumer Robe (Altered) 
+0.049% Perfumer Hood 
+0.049% Sage Robe 
+0.049% Sage Trousers 
+0.049% Sage Hood 
+0.049% Noble's Gloves 
+0.049% Noble's Traveling Garb 
+0.049% Noble Presence 
+0.049% Glintblade Phalanx 
+0.049% Glintstone Icecrag 
+0.049% Glintstone Breath 
+0.049% Great Glintstone Shard 
+0.049% Glintstone Arc 
+0.049% Glintstone Stars 
+0.049% Swift Glintstone Shard 
+0.049% Glintstone Sorcerer Ashes 
+0.049% Glintstone Pebble 
+0.049% Acid Spraymist 
+0.049% Gravity Well 
+0.049% Bestial Constitution 
+0.049% Bestial Vitality 
+0.049% Iron Helmet 
+0.049% Iron Gauntlets 
+0.049% Chain Coif 
+0.049% Chain-Draped Tabard 
+0.049% Chain Leggings 
+0.049% Chain Armor 
+0.049% Lucidity 
+0.049% Land Squirt Ashes 
+0.049% Meteorite 
+0.049% Page Garb 
+0.049% Page Garb (Altered) 
+0.049% Page Ashes 
+0.049% Page Trousers 
+0.049% Page Hood 
+0.049% Raya Lucarian Helm 
+0.049% Raya Lucaria Soldier Ashes 
+0.049% Raya Lucarian Greaves 
+0.049% Raya Lucarian Gauntlets 
+0.049% Raya Lucarian Robe 
+0.049% Lightning Strike 
+0.049% Electrify Armament 
+0.049% Lightning Fortification 
+0.049% Prophet Blindfold 
+0.049% Prophet Robe 
+0.049% Prophet Robe (Altered) 
+0.049% Prophet Trousers 
+0.049% Ruler's Robe 
+0.049% Knight Helm 
+0.049% Knight Greaves 
+0.049% Knight Gauntlets 
+0.049% Knight Armor 
+0.049% Dirty Chainmail 
+0.049% Skeletal Bandit Ashes 
+0.049% Skeletal Militiaman Ashes 
+0.049% Sorcerer Leggings 
+0.049% Sorcerer Manchettes 
+0.049% Magic Glintblade 
+0.049% Scale Armor 
+0.049% Avionette Soldier Ashes 
+0.049% Golden Vow 
+0.049% Erdtree Surcoat 
+0.049% Golden Lightning Fortification 
+0.049% Night Maiden Twin Crown 
+0.049% Night Maiden's Mist 
+0.049% Night Maiden Armor 
+0.049% Night Comet 
+0.049% Night's Cavalry Helm 
+0.049% Night's Cavalry Helm (Altered) 
+0.049% Night's Cavalry Greaves 
+0.049% Night's Cavalry Gauntlets 
+0.049% Night's Cavalry Armor 
+0.049% Night's Cavalry Armor (Altered) 
+0.049% Night Shard 
+0.049% Black Hood 
+0.049% Darkness 
+0.049% Black Flame 
+0.049% Blackflame Monk Hood 
+0.049% Blackflame Monk Greaves 
+0.049% Blackflame Monk Gauntlets 
+0.049% Blackflame Monk Armor 
+0.049% Black Flame Blade 
+0.049% Black Flame's Protection 
+0.049% Dragonice 
+0.049% Dragonmaw 
+0.049% Dragonfire 
+0.049% Dragonclaw 
+0.049% Dragonbolt Blessing 
+0.055% Spectral Steed Whistle 
+0.061% Recusant Finger 
+0.061% Taunter's Tongue 
+0.061% Miniature Ranni 
+0.061% Academy Glintstone Key 
+0.061% Note: The Preceptor's Secret 
+0.061% Letter from Volcano Manor 
+0.061% Ruptured Crystal Tear 
+0.061% White Cipher Ring 
+0.061% Crimson Crystal Tear 
+0.061% Small Red Effigy 
+0.061% Weathered Map 
+0.061% Blue Cipher Ring 
+0.061% Cerulean Crystal Tear 
+0.061% Small Golden Effigy 
+0.067% [ERROR]Note: Great Coffins 
+0.067% Note: Demi-human Mobs 
+0.067% Note: Gateway 
+0.067% Note: Imp Shades 
+0.067% Note: Revenants 
+0.067% Note: Stonedigger Trolls 
+0.067% Note: Wandering Mausoleum 
+0.067% Note: Flask of Wondrous Physick 
+0.067% Note: Below the Capital 
+0.067% Note: Frenzied Flame Village 
+0.067% Note: Unseen Assassins 
+0.067% Note: Gravity's Advantage 
+0.067% Note: Land Squirts 
+0.067% Note: Hidden Cave 
+0.067% Note: Waypoint Ruins 
+0.067% Duelist's Furled Finger 
+0.067% Tarnished's Furled Finger 
+0.073% The Ring 
+0.079% Poison Grease 
+0.079% Bloodbone Bolt 
+0.079% Bloodbone Arrow 
+0.079% Bloodbone Arrow (Fletched) 
+0.079% Poisonbone Bolt 
+0.079% Poisonbone Arrow 
+0.079% Poisonbone Arrow (Fletched) 
+0.079% Poisonbone Dart 
+0.079% Magicbone Bolt 
+0.079% Magicbone Arrow 
+0.079% Magicbone Arrow (Fletched) 
+0.079% Blood Grease 
+0.079% Ancient Dragonbolt Pot 
+0.079% Cursed-Blood Pot 
+0.079% Sacramental Bud 
+0.079% Poison Spraymist 
+0.079% Poisoned Stone 
+0.079% Poisoned Stone Clump 
+0.079% Albinauric Bloodclot 
+0.079% Bloodrose 
+0.079% Noble's Trousers 
+0.079% Drawstring Poison Grease 
+0.079% Drawstring Blood Grease 
+0.079% Drawstring Magic Grease 
+0.079% Lightning Greatbolt 
+0.079% Lightning Bolt 
+0.079% Serpent Arrow 
+0.079% Golem's Magic Arrow 
+0.079% Magic Grease 
+0.085% Neutralizing Boluses 
+0.085% Stanching Boluses 
+0.085% Blood-Tainted Excrement 
+0.085% Academy Magic Pot 
+0.085% Giantsflame Fire Pot 
+0.085% Poison Pot 
+0.085% Poisonbloom 
+0.085% Toxic Mushroom 
+0.085% Fire Pot 
+0.085% Fire Blossom 
+0.085% Redmane Fire Pot 
+0.085% Beast Blood 
+0.085% Roped Poison Pot 
+0.085% Roped Fire Pot 
+0.085% Roped Lightning Pot 
+0.085% Roped Magic Pot 
+0.085% Lightning Pot 
+0.085% Fulgurbloom 
+0.085% Magic Pot 
+0.092% Unalloyed Gold Needle 
+0.098% [ERROR]Burial Crow's Letter 
+0.098% Furlcalling Finger Remedy 
+0.110% Arteria Leaf 
+0.110% Rune Arc 
+0.110% Trina's Lily 
+0.110% Starlight Shards 
+0.110% Larval Tear 
+0.110% Gravel Stone 
+0.110% Miquella's Lily 
+0.110% Eye of Yelough 
+0.110% Aeonian Butterfly 
+0.110% Nascent Butterfly 
+0.110% Golden Centipede 
+0.116% [ERROR]Holy Water Grease 
+0.116% [ERROR]Drawstring Freezing Grease 
+0.116% Invigorating White Cured Meat 
+0.116% Immunizing White Cured Meat 
+0.116% Haligbone Bolt 
+0.116% Haligbone Arrow 
+0.116% Haligbone Arrow (Fletched) 
+0.116% Bone Great Arrow 
+0.116% Bone Great Arrow (Fletched) 
+0.116% Bone Ballista Bolt 
+0.116% Bone Bolt 
+0.116% Firebone Bolt 
+0.116% Firebone Arrow 
+0.116% Firebone Arrow (Fletched) 
+0.116% Bone Arrow 
+0.116% Bone Arrow (Fletched) 
+0.116% Coldbone Bolt 
+0.116% Coldbone Arrow 
+0.116% Coldbone Arrow (Fletched) 
+0.116% Lightningbone Bolt 
+0.116% Lightningbone Arrow 
+0.116% Lightningbone Arrow (Fletched) 
+0.116% Bone Dart 
+0.116% Lordsworn's Bolt 
+0.116% Holy Grease 
+0.116% Gravity Stone Chunk 
+0.116% Shield Grease 
+0.116% Large Glintstone Scrap 
+0.116% Great Arrow 
+0.116% Dwelling Arrow 
+0.116% Glintstone Scrap 
+0.116% Kukri 
+0.116% Ballista Bolt 
+0.116% Bolt 
+0.116% Fan Daggers 
+0.116% Gravity Stone Fan 
+0.116% Throwing Dagger 
+0.116% Grace Mimic 
+0.116% Cuckoo Glintstone 
+0.116% Soft Cotton 
+0.116% Fire Grease 
+0.116% Fire Arrow 
+0.116% Spark Aromatic 
+0.116% Glowstone 
+0.116% Explosive Stone 
+0.116% Explosive Stone Clump 
+0.116% Flaming Bolt 
+0.116% Raw Meat Dumpling 
+0.116% Shattershard Arrow 
+0.116% Shattershard Arrow (Fletched) 
+0.116% Arrow 
+0.116% Scriptstone 
+0.116% Freezing Grease 
+0.116% Crystal Dart 
+0.116% Soap 
+0.116% Rainbow Stone 
+0.116% Rainbow Stone Arrow 
+0.116% Rainbow Stone Arrow (Fletched) 
+0.116% Ruin Fragment 
+0.116% Drawstring Holy Grease 
+0.116% Drawstring Fire Grease 
+0.116% Drawstring Lightning Grease 
+0.116% Lightning Grease 
+0.116% Stormwing Bone Arrow 
+0.116% Golem's Great Arrow 
+0.116% Golden Rune [1] 
+0.116% Golden Rune [2] 
+0.116% Golden Rune [3] 
+0.116% Golden Rune [4] 
+0.116% Golden Rune [5] 
+0.116% Golden Bolt 
+0.122% [ERROR]Roped Freezing Pot 
+0.122% Altus Bloom 
+0.122% Human Bone Shard 
+0.122% Burred Bolt 
+0.122% Invigorating Cured Meat 
+0.122% Stimulating Boluses 
+0.122% Immunizing Cured Meat 
+0.122% Sleepbone Bolt 
+0.122% Sleepbone Arrow 
+0.122% Sleepbone Arrow (Fletched) 
+0.122% Rotbone Bolt 
+0.122% Rotbone Arrow 
+0.122% Rotbone Arrow (Fletched) 
+0.122% Frozen Raisin 
+0.122% Rimed Crystal Bud 
+0.122% Thawfrost Boluses 
+0.122% Faded Erdleaf Flower 
+0.122% Four-Toed Fowl Foot 
+0.122% Holy Water Pot 
+0.122% Grave Violet 
+0.122% Dewkissed Herba 
+0.122% Great Dragonfly Head 
+0.122% Cracked Crystal 
+0.122% Rancor Pot 
+0.122% St. Trina's Arrow 
+0.122% Holyproof Dried Liver 
+0.122% Fireproof Dried Liver 
+0.122% Lightningproof Dried Liver 
+0.122% Spellproof Dried Liver 
+0.122% Radahn's Spear 
+0.122% Flight Pinion 
+0.122% Root Resin 
+0.122% Oil Pot 
+0.122% Cave Moss 
+0.122% Crystal Cave Moss 
+0.122% Budding Cave Moss 
+0.122% Meteor Bolt 
+0.122% Volcano Pot 
+0.122% Volcanic Stone 
+0.122% Smoldering Butterfly 
+0.122% Spiritflame Arrow 
+0.122% Boiled Prawn 
+0.122% Boiled Crab 
+0.122% Explosive Greatbolt 
+0.122% Explosive Bolt 
+0.122% Glass Shard 
+0.122% Sweet Raisin 
+0.122% Strip of White Flesh 
+0.122% Slumbering Egg 
+0.122% Melted Mushroom 
+0.122% Land Octopus Ovary 
+0.122% Miranda Powder 
+0.122% Hefty Beast Bone 
+0.122% Fetid Pot 
+0.122% Thin Beast Bones 
+0.122% Freezing Pot 
+0.122% Crystal Bud 
+0.122% String 
+0.122% Rimed Rowa 
+0.122% Rowa Fruit 
+0.122% Rowa Raisin 
+0.122% Sliver of Meat 
+0.122% Pickled Turtle Neck 
+0.122% Swarm Pot 
+0.122% Erdleaf Flower 
+0.122% Mushroom 
+0.122% Crab Eggs 
+0.122% Tarnished Golden Sunflower 
+0.122% Perfumer's Bolt 
+0.122% Herba 
+0.122% Glintstone Firefly 
+0.122% Lump of Flesh 
+0.122% Beast Liver 
+0.122% Gold-Tinged Excrement 
+0.122% Golden Sunflower 
+0.122% Roped Holy Water Pot 
+0.122% Roped Oil Pot 
+0.122% Roped Volcano Pot 
+0.122% Roped Fetid Pot 
+0.122% Roped Fly Pot 
+0.122% Golden Great Arrow 
+0.122% Golden Arrow 
+0.122% Golden Rowa 
+0.122% Black-Key Bolt 
+0.122% Turtle Neck Meat 
+0.128% [ERROR]Deathsbane White Jerky 
+0.128% [ERROR]Deathsbane Jerky 
+0.128% Lands Between Rune 
+0.128% Dragonwound Grease 
+0.128% Sleep Pot 
+0.128% Soporific Grease 
+0.128% Exalted Flesh 
+0.128% Clarifying Boluses 
+0.128% Old Fang 
+0.128% Sacred Order Pot 
+0.128% Grave Glovewort [1] 
+0.128% Grave Glovewort [2] 
+0.128% Grave Glovewort [3] 
+0.128% Grave Glovewort [4] 
+0.128% Grave Glovewort [5] 
+0.128% Grave Glovewort [6] 
+0.128% Grave Glovewort [7] 
+0.128% Grave Glovewort [8] 
+0.128% Grave Glovewort [9] 
+0.128% Lost Ashes of War 
+0.128% Somber Smithing Stone [1] 
+0.128% Somber Smithing Stone [2] 
+0.128% Somber Smithing Stone [3] 
+0.128% Somber Smithing Stone [4] 
+0.128% Somber Smithing Stone [5] 
+0.128% Somber Smithing Stone [6] 
+0.128% Somber Smithing Stone [7] 
+0.128% Somber Smithing Stone [8] 
+0.128% Somber Smithing Stone [9] 
+0.128% Baldachin's Blessing 
+0.128% Beastlure Pot 
+0.128% Uplifting Aromatic 
+0.128% Dappled White Cured Meat 
+0.128% Dappled Cured Meat 
+0.128% Rejuvenating Boluses 
+0.128% Living Jar Shard 
+0.128% Warming Stone 
+0.128% Ghost Glovewort [1] 
+0.128% Ghost Glovewort [2] 
+0.128% Ghost Glovewort [3] 
+0.128% Ghost Glovewort [4] 
+0.128% Ghost Glovewort [5] 
+0.128% Ghost Glovewort [6] 
+0.128% Ghost Glovewort [7] 
+0.128% Ghost Glovewort [8] 
+0.128% Ghost Glovewort [9] 
+0.128% Bloodboil Aromatic 
+0.128% Clarifying White Cured Meat 
+0.128% Clarifying Cured Meat 
+0.128% Frenzyflame Stone 
+0.128% Albinauric Pot 
+0.128% Sanctuary Stone 
+0.128% Silver-Pickled Fowl Foot 
+0.128% Gold-Pickled Fowl Foot 
+0.128% Rot Pot 
+0.128% Rot Grease 
+0.128% Preserving Boluses 
+0.128% Budding Horn 
+0.128% Formic Rock 
+0.128% Alluring Pot 
+0.128% Gold Firefly 
+0.128% Ironjar Aromatic 
+0.128% Silver Tear Husk 
+0.128% Silver Firefly 
+0.128% Smithing Stone [1] 
+0.128% Smithing Stone [2] 
+0.128% Smithing Stone [3] 
+0.128% Smithing Stone [4] 
+0.128% Smithing Stone [5] 
+0.128% Smithing Stone [6] 
+0.128% Smithing Stone [7] 
+0.128% Smithing Stone [8] 
+0.128% Drawstring Soporific Grease 
+0.128% Drawstring Rot Grease 
+0.128% Stormhawk Feather 
+0.128% Bewitching Branch 
+0.128% Yellow Ember 
+0.128% Golden Rune [10] 
+0.128% Golden Rune [11] 
+0.128% Golden Rune [12] 
+0.128% Golden Rune [13] 
+0.128% Golden Rune [6] 
+0.128% Golden Rune [7] 
+0.128% Golden Rune [8] 
+0.128% Golden Rune [9] 

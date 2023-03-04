@@ -1,0 +1,2009 @@
+0.024% Asche des Drachenritters Kristoff 
+0.024% Asche der Reinfäule-Ritterin Finlay 
+0.024% Asche von Lhutel der Kopflosen 
+0.024% Asche des Rotmähnenritters Ogha 
+0.024% Asche von Tiche der Schwarzen Klinge 
+0.024% Blasphemische Klaue 
+0.024% Echo des Blasphemischen 
+0.024% Blasphemische Klinge 
+0.024% Imitatortränenasche 
+0.024% Ursternregen 
+0.024% Großschwert der Verpflanzung 
+0.024% Carianisches königliches Zepter 
+0.024% Talisman des alten Fürsten 
+0.024% Uralter Drachendunkelschmiedestein 
+0.024% Uralter Drachenschmiedestein 
+0.024% Verschlingerzepter 
+0.024% Schwert der Nacht und der Flamme 
+0.024% Große Gräbertallilie 
+0.024% Große Geistertallilie 
+0.024% Halbmondkrone der Königin 
+0.024% Armreife der Königin 
+0.024% Robe der Königin 
+0.024% Hose der Königin 
+0.024% Heilrune der Perfekten Ordnung 
+0.024% Schwingengroßhorn 
+0.024% Roter Riesenhaarzopf 
+0.024% Bastardsterne 
+0.024% Fortissax' Blitzender Speer 
+0.024% Azurs Komet 
+0.024% Heilrune des Grausamen Fluchs 
+0.024% Echo des Malkönigs 
+0.024% Kriegsasche: Hoarah Loux' Erschütterer 
+0.024% Kriegsasche: Wellen der Finsternis 
+0.024% Rykards Groll 
+0.024% Radahns Löwenrüstung 
+0.024% Radahns Löwenrüstung (Geänd.) 
+0.024% Radahns Rotmähnenhelm 
+0.024% Radahns Beinschutz 
+0.024% Radahns Stulpen 
+0.024% Radagons Wundsiegel 
+0.024% Radagons Ikone 
+0.024% Fingerabdrucktraube 
+0.024% Echo des Verpflanzten 
+0.024% Verpflanzter Drache 
+0.024% Große Rune der Ungeborenen 
+0.024% Shotel der Eklipse 
+0.024% Placidusax' Untergang 
+0.024% Dunkelmondgroßschwert 
+0.024% Dunkelmondring 
+0.024% Greyolls Brüllen 
+0.024% Fluchmal des Todes 
+0.024% Todesgewitter 
+0.024% Heilrune des Todesprinzen 
+0.024% Echo des Lichdrachen 
+0.024% Sterne des Ruins 
+0.024% Echo der Vollmondkönigin 
+0.024% Großschwert der Gottestöterin 
+0.024% Löwengroßbogen 
+0.024% Fingertöterklinge 
+0.024% Scharlachrotes Aeonia 
+0.024% Fürstenrune 
+0.024% Königliches Malbaby 
+0.024% Malikeths Helm 
+0.024% Malikeths schwarze Klinge 
+0.024% Malikeths Beinschutz 
+0.024% Malikeths Stulpen 
+0.024% Malikeths Rüstung 
+0.024% Malikeths Rüstung (Geänd.) 
+0.024% Marikas Hammer 
+0.024% Marikas Wundsiegel 
+0.024% Malenias Hand 
+0.024% Malenias Beinschutz 
+0.024% Malenias Stulpen 
+0.024% Malenias Rüstung 
+0.024% Malenias Rüstung (Geänd.) 
+0.024% Malenias Flügelhelm 
+0.024% Henkerschwert der Marais 
+0.024% Sternenlichtbernstein 
+0.024% Bernsteintrank 
+0.024% Großschwerter der Sternengeißel 
+0.024% Echo der Sternengeißel 
+0.024% Echo des königlichen Ahnen 
+0.024% Horn der Ahnengeister 
+0.024% Heiliges Reliktschwert 
+0.024% Miquellas Nadel 
+0.024% Echo der Fäulnisgöttin 
+0.024% Krone des Eldenfürsten 
+0.024% Beinschutz des Eldenfürsten 
+0.024% Armschutz des Eldenfürsten 
+0.024% Rüstung des Eldenfürsten 
+0.024% Rüstung des Eldenfürsten (Geänd.) 
+0.024% Eldensterne 
+0.024% Eldenecho 
+0.024% Echo von Hoarah Loux 
+0.024% Rannis dunkler Mond 
+0.024% Godfreys Axt 
+0.024% Godfreys Ikone 
+0.024% Godricks Axt 
+0.024% Mohgwyns heiliger Speer 
+0.024% Morgotts verfluchtes Schwert 
+0.024% Rennalas Vollmond 
+0.024% Mond von Nokstella 
+0.024% Erinnerung der Gnade 
+0.024% Trümmergroßschwert 
+0.024% Großschwert der Goldenen Ordnung 
+0.024% Schwarzes Messer 
+0.024% Schwarze Klinge 
+0.024% Echo der Schwarzen Klinge 
+0.024% Echo der Ausgeburt 
+0.024% Drachengroßschildtalisman 
+0.024% Felsklinge des Drachenkönigs 
+0.024% Echo des Drachenfürsten 
+0.031% [ERROR] 
+0.031% [ERROR] 
+0.031% [ERROR]Handbuch 5 des Rüstungsschmieds 
+0.031% [ERROR]Klangperle [11] des nomadischen Händlers 
+0.031% [ERROR]Mirandas Gebet 
+0.031% [ERROR] 
+0.031% [ERROR] 
+0.031% [ERROR] 
+0.031% [ERROR]Prinzipien der Goldenen Ordnung 
+0.031% Asche des wahnsinnigen Parfümeurs Carmaan 
+0.031% Asche des verbannten Ritters Oleg 
+0.031% Asche des verbannten Ritters Engvall 
+0.031% Puppe von Dolores dem schlafenden Pfeil 
+0.031% Asche des Bluthundritters Floh 
+0.031% Infernalischer Prälatenstab 
+0.031% Cinquedea 
+0.031% Ewige Finsternis 
+0.031% Azurner Schimmersteinstab 
+0.031% Azurs Manschetten 
+0.031% Azurs Schimmersteinkrone 
+0.031% Azurs Schimmersteinrobe 
+0.031% Alexanders Innereien 
+0.031% Adulas Mondklinge 
+0.031% Schimmersteinkrone von Haus Hierodas 
+0.031% Skelettmaske 
+0.031% Ritualtopf 
+0.031% Ornamentales Schwert 
+0.031% Ijis Klangperle 
+0.031% Ijis Spiegelhelm 
+0.031% Gesandtenkrone 
+0.031% Großhorn des Gesandten 
+0.031% Horn des Gesandten 
+0.031% Langhorn des Gesandten 
+0.031% Karte des Treffpunkts 
+0.031% Handbuch [1] des Missionars 
+0.031% Handbuch [2] des Missionars 
+0.031% Handbuch [3] des Missionars 
+0.031% Handbuch [4] des Missionars 
+0.031% Handbuch [5] des Missionars 
+0.031% Handbuch [6] des Missionars 
+0.031% Handbuch [7] des Missionars 
+0.031% Klinge des Rufs 
+0.031% Armschutz der Apostel der Götterskalpe 
+0.031% Hose der Apostel der Götterskalpe 
+0.031% Maske der Gefährtin 
+0.031% Verwitterter Dolch 
+0.031% Glaubensknoten-Kristallträne 
+0.031% Aureolensense 
+0.031% Strahlende Goldmaske 
+0.031% Glänzendes gehörntes Stirnband 
+0.031% Crepus' Schwarzschlüsselarmbrust 
+0.031% Lansseax' Gleve 
+0.031% Bestienklauengroßhammer 
+0.031% Klangperle des Fleischhändlers 
+0.031% Klangperle des Knochenhändlers 
+0.031% Eisiges Beil 
+0.031% Gebetbuch des Assassinen 
+0.031% Stärkeknoten-Kristallträne 
+0.031% Stab des Avatars 
+0.031% Kürbishelm 
+0.031% Carianische Phalanx 
+0.031% Umgekehrte carianische Statue 
+0.031% Carianisches Ritterschwert 
+0.031% Carianischer Ritterschild 
+0.031% Schimmersteinkrone von Haus Karolos 
+0.031% Lusats Schimmersteinstab 
+0.031% Lusats Manschetten 
+0.031% Lusats Schimmersteinkrone 
+0.031% Lusats Robe 
+0.031% Gebetbuch der Zwei Finger 
+0.031% Schimmersteinkrone von Haus Zwillingsweis 
+0.031% Zwillingsvogel-Drachenschild 
+0.031% Unausweichliche Raserei 
+0.031% Klangperle des inhaftierten Händlers 
+0.031% Phantomrekusantenfinger 
+0.031% Gurranqs Bestienklaue 
+0.031% Stein von Gurranq 
+0.031% Uralter Todesgroll 
+0.031% Beinwickel des alten Zauberers 
+0.031% Handbuch [1] des uralten Drachenapostels 
+0.031% Handbuch [2] des uralten Drachenapostels 
+0.031% Handbuch [3] des uralten Drachenapostels 
+0.031% Handbuch [4] des uralten Drachenapostels 
+0.031% Gebetbuch der uralten Drachen 
+0.031% Blitzschlag der uralten Drachen 
+0.031% Blitzender Speer der uralten Drachen 
+0.031% Gespensterrufende Glocke 
+0.031% Geisterrufende Glocke 
+0.031% Smarags Schimmersteinhauch 
+0.031% Mondschleier 
+0.031% Kalés Klangperle 
+0.031% Fackel der Wache 
+0.031% Redekopf: "Ihr seid schön" 
+0.031% Gesetz der Regression 
+0.031% Gesetz der Kausalität 
+0.031% Vollmondarmbrust 
+0.031% Magmalindwurm-Schuppenschwert 
+0.031% Helm der heiligen Krone 
+0.031% Heilige Träne 
+0.031% Haligbaum-Soldatenhelm 
+0.031% Geheimes Haligbaummedaillon (rechts) 
+0.031% Geheimes Haligbaummedaillon (links) 
+0.031% Haligbaum-Ritterhelm 
+0.031% Karte: Altus-Plateau 
+0.031% Karte: Liurnia, Osten 
+0.031% Karte: Liurnia, Nord 
+0.031% Karte: Liurnia, Westen 
+0.031% Karte: Geweihtes Schneefeld 
+0.031% Karte: Halbinsel der Tränen 
+0.031% Karte: Limgrave, Osten 
+0.031% Karte: Limgrave, Westen 
+0.031% Karte: Ainsel 
+0.031% Karte: Berggipfel der Riesen, Ost 
+0.031% Karte: Berggipfel der Riesen, West 
+0.031% Karte: Siofra 
+0.031% Karte: Gelmir 
+0.031% Karte: Tiefen von Tiefwurz 
+0.031% Karte: Leyndell, Königliche Hauptstadt 
+0.031% Karte: Caelid 
+0.031% Karte: Fäulnissee 
+0.031% Karte: Mohgwyn-Palast 
+0.031% Karte: Drachenhügel 
+0.031% Ghizas Rad 
+0.031% Gefäßkanone 
+0.031% Gefäß 
+0.031% Puppe eines Gefäßunholds 
+0.031% Shabriris Geheul 
+0.031% Shabriri-Traube 
+0.031% Riesenschildkrötenpanzer 
+0.031% Gesprungene Stachelträne 
+0.031% Große Phantomrune 
+0.031% Ziegenbockhelm 
+0.031% Ziegenbockbeinschutz 
+0.031% Ziegenbockstulpen 
+0.031% Ziegenbockrüstung 
+0.031% Baumwächter-Helm 
+0.031% Baumwächter-Beinschutz 
+0.031% Baumwächter-Stulpen 
+0.031% Baumwächter-Rüstung 
+0.031% Baumwächter-Rüstung (Geänd.) 
+0.031% Baumspeer 
+0.031% Schlangenjäger 
+0.031% Großhornhammer 
+0.031% Großkapuze 
+0.031% Große Drachenkralle 
+0.031% Klangperle [1] des Dunkelsteinschürfers 
+0.031% Klangperle [2] des Dunkelsteinschürfers 
+0.031% Klangperle [3] des Dunkelsteinschürfers 
+0.031% Klangperle [4] des Dunkelsteinschürfers 
+0.031% Klangperle [5] des Dunkelsteinschürfers 
+0.031% Manschetten des Exzentrikers 
+0.031% Rüstung des Exzentrikers 
+0.031% Kniehose des Exzentrikers 
+0.031% Kapuze des Exzentrikers 
+0.031% Kapuze des Exzentrikers (Geänd.) 
+0.031% Kristallschwall 
+0.031% Schimmersteinkrone von Haus Olivinus 
+0.031% Ordovis' Großschwert 
+0.031% Walkürenprothese 
+0.031% Akademieschriftrolle 
+0.031% Zwillingshelm 
+0.031% Zwillingsbeinschutz 
+0.031% Zwillingsstulpen 
+0.031% Zwillingsrüstung 
+0.031% Zwillingsrüstung (Geänd.) 
+0.031% Wächtergewand (Volle Blüte) 
+0.031% Umhang der Grabhüter 
+0.031% Umhang der Grabhüter (Geänd.) 
+0.031% Schlüssel zum Gesellschaftszimmer 
+0.031% Köpfe der Familie 
+0.031% Schädelkerzenständer 
+0.031% Reinfäule-Helm 
+0.031% Reinfäule-Helm (Geänd.) 
+0.031% Reinfäule-Speer 
+0.031% Reinfäule-Beinschutz 
+0.031% Reinfäule-Stulpen 
+0.031% Reinfäule-Rüstung 
+0.031% Reinfäule-Rüstung (Geänd.) 
+0.031% Wichtkopf (Mit Reißzähnen) 
+0.031% Wichtkopf (Wolf) 
+0.031% Wichtkopf (Katze) 
+0.031% Wichtkopf (Langzüngig) 
+0.031% Wichtkopf (Leiche) 
+0.031% Wichtkopf (Ältester) 
+0.031% Schwingensense 
+0.031% Trollhammer 
+0.031% Trollritterschwert 
+0.031% Gesprungene Steinstachelträne 
+0.031% Werkzeugsatz 
+0.031% Siegel des Riesen 
+0.031% Gebetbuch des Riesen 
+0.031% Großschwertphalanx 
+0.031% Großkeule 
+0.031% Großsterne 
+0.031% Blaidds Beinschutz 
+0.031% Blaidds Stulpen 
+0.031% Blaidds Rüstung 
+0.031% Blaidds Rüstung (Geänd.) 
+0.031% Patches' Klangperle 
+0.031% Komet 
+0.031% Gesprungene Heiligschleierträne 
+0.031% Gesprungene Flammenschleierträne 
+0.031% Gesprungene Blitzschleierträne 
+0.031% Theodorix' Magma 
+0.031% Zelebrantenschädel 
+0.031% Deformierter Drachenhelm 
+0.031% Deformierte Drachenbeinschutz 
+0.031% Deformierte Drachenstulpen 
+0.031% Deformierte Drachenrüstung 
+0.031% Beinschutz der Weißen Halme 
+0.031% Stulpen der Weißen Halme 
+0.031% Rüstung der Weißen Halme 
+0.031% Helm des Mals 
+0.031% Beinschutz des Mals 
+0.031% Stulpen des Mals 
+0.031% Rüstung des Mals 
+0.031% Silurias Baum 
+0.031% Umhang des Grausamen Mals 
+0.031% Malbaby 
+0.031% Asche von Maltöter Rollo 
+0.031% Maske des grinsenden Mals 
+0.031% Beringter Finger 
+0.031% Asche des Kriegsmagiers Hugues 
+0.031% Kriegsaschenskarabäus 
+0.031% Kriegsasche: Ansturm des Prälaten 
+0.031% Kriegsasche: Carianische Erhabenheit 
+0.031% Kriegsasche: Mut der Königsritter 
+0.031% Kriegsasche: Geteilte Ordnung 
+0.031% Kriegsasche: Heiliger Boden 
+0.031% Kriegsasche: Vampirfaust 
+0.031% Kriegsasche: Trollbrüllen 
+0.031% Kriegsasche: Felsklinge 
+0.031% Kriegsasche: Phantomschnitt 
+0.031% Kriegsasche: Thops' Barriere 
+0.031% Kriegsasche: Nebelraptor 
+0.031% Kriegsasche: Riesenjagd 
+0.031% Kriegsasche: Bluthundschritt 
+0.031% Kriegsasche: Ruf des Weißen Schatten 
+0.031% Kriegsasche: Vakuumschnitt 
+0.031% Kriegsasche: Bohrender Reißzahn 
+0.031% Kriegsasche: Pfeilhagel 
+0.031% Kriegsasche: Lorettas Schnitt 
+0.031% Kriegsasche: Gravitation 
+0.031% Kriegsasche: Schrei der Bestie 
+0.031% Kriegsasche: Goldener Schlag 
+0.031% Kriegsasche: Goldenes Land 
+0.031% Kriegsasche: Goldener Schwur 
+0.031% Kriegsasche: Goldene Parade 
+0.031% Kriegsasche: Schwarzflammentornado 
+0.031% Helm des blutigen Wolfs 
+0.031% Beinschutz des blutigen Wolfs 
+0.031% Stulpen des blutigen Wolfs 
+0.031% Rüstung des blutigen Wolfs 
+0.031% Rüstung des blutigen Wolfs (Geänd.) 
+0.031% Thops' Barriere 
+0.031% Thops' Klangperle 
+0.031% Schwert von St. Trina 
+0.031% Fackel von St. Trina 
+0.031% Talismanbeutel 
+0.031% Schimmersteinkrone von Haus Lazuli 
+0.031% Schleier des Imitators 
+0.031% Girandole des Inquisitors 
+0.031% Puppe von Fingerjungfer Therolina 
+0.031% Fingerabdruckhelm 
+0.031% Fingerabdruckbeinschutz 
+0.031% Fingerabdruckstulpen 
+0.031% Fingerabdruckrüstung 
+0.031% Fingerabdruckrüstung (Geänd.) 
+0.031% Fingerabdruck-Steinschild 
+0.031% Tibias Ruf 
+0.031% Laterne 
+0.031% Greifende Knochenhand 
+0.031% Hausschriftrolle 
+0.031% Notiz: Der Fürst der Rasenden Flamme 
+0.031% Notiz: Miquellas Nadel 
+0.031% Gefleckte verhärtete Träne 
+0.031% Duellantenhelm 
+0.031% Duellantenbeinschutz 
+0.031% Fingerabtrenner 
+0.031% Hornbewehrter Schild 
+0.031% Eklipse-Großschild 
+0.031% Seuchengleve 
+0.031% Sternenfallbestienkiefer 
+0.031% Himmelstau 
+0.031% Weisheitsknoten-Kristallträne 
+0.031% Blutrote Kapuze 
+0.031% Teleskop 
+0.031% Corhyns Klangperle 
+0.031% Gowrys Klangperle 
+0.031% Gelmirs Wut 
+0.031% Varrés Blumenstrauß 
+0.031% Eochaids Zierde 
+0.031% Handbuch [1] des Rüstungsschmieds 
+0.031% Handbuch [2] des Rüstungsschmieds 
+0.031% Handbuch [3] des Rüstungsschmieds 
+0.031% Handbuch [4] des Rüstungsschmieds 
+0.031% Handbuch [5] des Rüstungsschmieds 
+0.031% Handbuch [6] des Rüstungsschmieds 
+0.031% Handbuch [7] des Rüstungsschmieds 
+0.031% Todesritualspeer 
+0.031% Schüreisen des Todes 
+0.031% Todeswurzel 
+0.031% Sterbebettkleid 
+0.031% Wellenhellebarde 
+0.031% Pidias Klangperle 
+0.031% Quallenschild 
+0.031% Handbuch [1] von Fevor 
+0.031% Handbuch [2] von Fevor 
+0.031% Handbuch [3] von Fevor 
+0.031% Wellenklinge 
+0.031% Zorayas Brief 
+0.031% Medaillon von Rold 
+0.031% Opferpriesteraxt 
+0.031% Sternschauer 
+0.031% Klangperle der Schwarzwache 
+0.031% Fließendes Krummschwert 
+0.031% Klangperle [1] des nomadischen Händlers 
+0.031% Klangperle [10] des nomadischen Händlers 
+0.031% Klangperle [2] des nomadischen Händlers 
+0.031% Klangperle [3] des nomadischen Händlers 
+0.031% Klangperle [4] des nomadischen Händlers 
+0.031% Klangperle [5] des nomadischen Händlers 
+0.031% Klangperle [6] des nomadischen Händlers 
+0.031% Klangperle [7] des nomadischen Händlers 
+0.031% Klangperle [8] des nomadischen Händlers 
+0.031% Klangperle [9] des nomadischen Händlers 
+0.031% Handbuch [1] des nomadischen Kriegers 
+0.031% Handbuch [10] des nomadischen Kriegers 
+0.031% Handbuch [11] des nomadischen Kriegers 
+0.031% Handbuch [12] des nomadischen Kriegers 
+0.031% Handbuch [13] des nomadischen Kriegers 
+0.031% Handbuch [14] des nomadischen Kriegers 
+0.031% Handbuch [15] des nomadischen Kriegers 
+0.031% Handbuch [16] des nomadischen Kriegers 
+0.031% Handbuch [17] des nomadischen Kriegers 
+0.031% Handbuch [18] des nomadischen Kriegers 
+0.031% Handbuch [19] des nomadischen Kriegers 
+0.031% Handbuch [2] des nomadischen Kriegers 
+0.031% Handbuch [20] des nomadischen Kriegers 
+0.031% Handbuch [21] des nomadischen Kriegers 
+0.031% Handbuch [22] des nomadischen Kriegers 
+0.031% Handbuch [23] des nomadischen Kriegers 
+0.031% Handbuch [24] des nomadischen Kriegers 
+0.031% Handbuch [3] des nomadischen Kriegers 
+0.031% Handbuch [4] des nomadischen Kriegers 
+0.031% Handbuch [5] des nomadischen Kriegers 
+0.031% Handbuch [6] des nomadischen Kriegers 
+0.031% Handbuch [7] des nomadischen Kriegers 
+0.031% Handbuch [8] des nomadischen Kriegers 
+0.031% Handbuch [9] des nomadischen Kriegers 
+0.031% Trügerisches Rätsel 
+0.031% Haimas Hammer 
+0.031% Haimas Kanone 
+0.031% Schimmersteinkrone von Haus Haima 
+0.031% Puppe von Nepheli Loux 
+0.031% Purpurrote Bruchkristallträne 
+0.031% Grüne Bruchkristallträne 
+0.031% Dunkelblaue Kapuze 
+0.031% Fluch des Saatbeets 
+0.031% Flaschenzugbogen 
+0.031% Flaschenzugarmbrust 
+0.031% Schwarzes Schleifmesser 
+0.031% Purpurne Kristallträne 
+0.031% Grüne Kristallträne 
+0.031% Einladung von Haus Vulkan 
+0.031% Milos-Schwert 
+0.031% Klangperle [1] des Geistertallilienpflückers 
+0.031% Klangperle [2] des Geistertallilienpflückers 
+0.031% Klangperle [3] des Geistertallilienpflückers 
+0.031% Geschicksknoten-Kristallträne 
+0.031% Geisterflammenfackel 
+0.031% Rot glühendes Schleifmesser 
+0.031% Hinweis zum Messerabdruck 
+0.031% Schwelender Schild 
+0.031% Magmaklinge 
+0.031% Magmapeitschenleuchter 
+0.031% Axthelm des Schmelztiegels 
+0.031% Axtrüstung des Schmelztiegels 
+0.031% Axtrüstung des Schmelztiegels (Geänd.) 
+0.031% Baumhelm des Schmelztiegels 
+0.031% Baumrüstung des Schmelztiegels 
+0.031% Baumrüstung des Schmelztiegels (Geänd.) 
+0.031% Beinschutz des Schmelztiegels 
+0.031% Stulpen des Schmelztiegels 
+0.031% Hornschild des Schmelztiegels 
+0.031% Zertrümmerungskristall 
+0.031% Klauenzeichen-Siegel 
+0.031% Siegel des Gottestöters 
+0.031% Einäugiger Schild 
+0.031% Bluthundreißzahn 
+0.031% Raptorkrallen 
+0.031% Schwarze Raubvogelfedern 
+0.031% Göttliche Festigung des Fürsten 
+0.031% Heilung des Fürsten 
+0.031% Hilfe des Fürsten 
+0.031% Schriftrolle des Königshauses 
+0.031% Königliches Großschwert 
+0.031% Helm des toten Königs 
+0.031% Beinschutz des toten Königs 
+0.031% Stulpen des toten Königs 
+0.031% Rüstung des toten Königs 
+0.031% Margits Kette 
+0.031% Maske der Marais 
+0.031% Borealis' Nebel 
+0.031% Opalene Blasenträne 
+0.031% Opalene verhärtete Träne 
+0.031% Sellianischer Siegelbrecher 
+0.031% Sellias Geheimnis 
+0.031% Sellens Urschimmerstein 
+0.031% Sellens Klangperle 
+0.031% Siegel der Rasenden Flamme 
+0.031% Alabasterfürstenschwert 
+0.031% Asche von Latenna der Albinauric 
+0.031% Albinauric-Maske 
+0.031% Silberner Spiegelschirm 
+0.031% Weiße Maske 
+0.031% Helm des Allwissenden 
+0.031% Zepter des Allwissenden 
+0.031% Beinschutz des Allwissenden 
+0.031% Stulpen des Allwissenden 
+0.031% Rüstung des Allwissenden 
+0.031% Rüstung des Allwissenden (Geänd.) 
+0.031% Spiralschild 
+0.031% Stab des Bewachers 
+0.031% Gargoyle-Schwarzschwert 
+0.031% Steinschwertschlüssel 
+0.031% Schleifmesser 
+0.031% Kollabierende Sterne 
+0.031% Schottersteinsiegel 
+0.031% Robe der Apostel der Götterskalpe 
+0.031% Kapuze der Apostel der Götterskalpe 
+0.031% Gebetbuch der Götterskalpe 
+0.031% Robe der Adligen der Götterskalpe 
+0.031% Kapuze der Adligen der Götterskalpe 
+0.031% Anrufungsskarabäus 
+0.031% Königlicher Ritterhelm 
+0.031% Königlicher Ritterbeinschutz 
+0.031% Königliche Ritterstulpen 
+0.031% Königliche Ritterrüstung 
+0.031% Königliche Ritterrüstung (Geänd.) 
+0.031% Schwert der geheimen Worte 
+0.031% Verschlüsseltes Pata 
+0.031% Numen-Rune 
+0.031% Kopf eines jungen Ahnengeists 
+0.031% Harfenbogen 
+0.031% Miquella-Ritterschwert 
+0.031% Miriels Klangperle 
+0.031% Unzertrennliches Schwert 
+0.031% Purpurrote Blasenträne 
+0.031% Purpurwirbel-Blasenträne 
+0.031% Purpurtränenskarabäus 
+0.031% Gesprungene Zweigträne 
+0.031% Eisnadel 
+0.031% Kristallschwert 
+0.031% Kristallstab 
+0.031% Kristallspeer 
+0.031% Gemälde "Flugunfähiger Vogel" 
+0.031% Gemälde "Auferstehung" 
+0.031% Gemälde "Heimkehrer-Instinkt" 
+0.031% Gemälde "Rotmähne" 
+0.031% Gemälde "Lied des Helden" 
+0.031% Gemälde "Prophezeiung" 
+0.031% Gemälde "Zauberer" 
+0.031% Brief an Patches 
+0.031% Brief an Bernahl 
+0.031% Vykes Kriegsspeer 
+0.031% Vykes Drachenblitz 
+0.031% Rogiers Brief 
+0.031% Rogiers Klangperle 
+0.031% Rosus' Axt 
+0.031% Lorettas Großbogen 
+0.031% Lorettas Kriegssichel 
+0.031% Lorettas Geschick 
+0.031% Schild der Schuldigen 
+0.031% Handbuch [1] des Rasenden 
+0.031% Handbuch [2] des Rasenden 
+0.031% Schwingenkristallträne 
+0.031% Veteranenhelm 
+0.031% Veteranenprothese 
+0.031% Kommandantenstandarte 
+0.031% Veteranenbeinschutz 
+0.031% Veteranenstulpen 
+0.031% Veteranenrüstung 
+0.031% Veteranenrüstung (Geänd.) 
+0.031% Okina-Maske 
+0.031% Helm des Bestienhelden 
+0.031% Beinschutz des Bestienhelden 
+0.031% Stulpen des Bestienhelden 
+0.031% Rüstung des Bestienhelden 
+0.031% Rüstung des Bestienhelden (Geänd.) 
+0.031% Fleischermesser 
+0.031% Fäulnisstab 
+0.031% Verrotteter Grabhüterumhang 
+0.031% Verrotteter Grabhüterumhang (Geänd.) 
+0.031% Helm des verrotteten Duellanten 
+0.031% Beinschutz des verrotteten Duellanten 
+0.031% Fäulniskristallschwert 
+0.031% Fäulniskristallstab 
+0.031% Fäulniskristallspeer 
+0.031% Schwinge von Astel 
+0.031% Meteorit von Astel 
+0.031% Ekzykes' Verfall 
+0.031% Eleonoras Stangenwaffe 
+0.031% Klangperle des Medizinhändlers 
+0.031% Heldenrune [1] 
+0.031% Heldenrune [2] 
+0.031% Heldenrune [3] 
+0.031% Heldenrune [4] 
+0.031% Heldenrune [5] 
+0.031% Lionels Helm 
+0.031% Lionels Beinschutz 
+0.031% Lionels Stulpen 
+0.031% Lionels Rüstung 
+0.031% Lionels Rüstung (Geänd.) 
+0.031% Fias Nebel 
+0.031% Eissturm von Zamor 
+0.031% Zamorkrummschwert 
+0.031% Zamor-Beinwickel 
+0.031% Zamor-Armreife 
+0.031% Zamor-Rüstung 
+0.031% Zamor-Maske 
+0.031% Gostocs Klangperle 
+0.031% Mohgs Kette 
+0.031% Himmelblaue Geheimnisträne 
+0.031% Himmelstränenskarabäus 
+0.031% Pilzkrone 
+0.031% Ameisenstachel-Rapier 
+0.031% Ameisenschädelplatte 
+0.031% Schlangenbogen 
+0.031% Schlangenamnion 
+0.031% Schlangengottkrummschwert 
+0.031% Schlangenknochenklinge 
+0.031% Andenken der Puppen 
+0.031% Skorpionstachel 
+0.031% Weggeworfener Palastschlüssel 
+0.031% Schneidereiwerkzeuge 
+0.031% Runzliger Finger des Befleckten 
+0.031% Klangperle des verlassenen Händlers 
+0.031% Hornbogen 
+0.031% Speicherstein 
+0.031% Fließendes Noxschwert 
+0.031% Fließender Noxhammer 
+0.031% Noxspiegelhelm 
+0.031% Asche der Parfümeurin Tricia 
+0.031% Handbuch [1] des Parfümeurs 
+0.031% Handbuch [2] des Parfümeurs 
+0.031% Handbuch [3] des Parfümeurs 
+0.031% Handbuch [4] des Parfümeurs 
+0.031% Parfümflasche 
+0.031% Bernahls Klangperle 
+0.031% Dornbusch der Bestrafung 
+0.031% Armreife der Adligen der Götterskalpe 
+0.031% Seluvis' Empfehlungsschreiben 
+0.031% Seluvis' Trank 
+0.031% Seluvis' Klangperle 
+0.031% Helphens Spitzturm 
+0.031% Urumi 
+0.031% Schimmersteinkris 
+0.031% Handbuch [1] des Schimmersteinmetzes 
+0.031% Handbuch [2] des Schimmersteinmetzes 
+0.031% Handbuch [3] des Schimmersteinmetzes 
+0.031% Handbuch [4] des Schimmersteinmetzes 
+0.031% Handbuch [5] des Schimmersteinmetzes 
+0.031% Handbuch [6] des Schimmersteinmetzes 
+0.031% Handbuch [7] des Schimmersteinmetzes 
+0.031% Handbuch [8] des Schimmersteinmetzes 
+0.031% Schimmersteinkometensplitter 
+0.031% Schimmersteinschleifmesser 
+0.031% Schimmersteinskarabäus 
+0.031% Gesprungene Dornenträne 
+0.031% Medaillon von Dectus (rechts) 
+0.031% Medaillon von Dectus (links) 
+0.031% Sprenggeisterflamme 
+0.031% Reduvia 
+0.031% Segen des strahlenden Firmaments 
+0.031% Klangperle [1] des Einsiedlerhändlers 
+0.031% Klangperle [2] des Einsiedlerhändlers 
+0.031% Klangperle [3] des Einsiedlerhändlers 
+0.031% Trank des Vergessens 
+0.031% Klangperle des Gravitationssteinhändlers 
+0.031% Bestienauge 
+0.031% Goldene Armreife 
+0.031% Goldener Hüftwickel 
+0.031% Lumpen der Goldenen Maske 
+0.031% Stahldrahtfackel 
+0.031% Eisernes Schleifmesser 
+0.031% Dornenhelm 
+0.031% Dornenbeinschutz 
+0.031% Dornenstulpen 
+0.031% Dornenrüstung 
+0.031% Dornenrüstung (Geänd.) 
+0.031% Eisenkasa 
+0.031% Meteorklinge 
+0.031% Klangperle [1] des Tallilienpflückers 
+0.031% Klangperle [2] des Tallilienpflückers 
+0.031% Klangperle [3] des Tallilienpflückers 
+0.031% Verhärtete Bleiträne 
+0.031% Silbertränenmaske 
+0.031% Klangperle [1] des Schmiedesteinschürfers 
+0.031% Klangperle [2] des Schmiedesteinschürfers 
+0.031% Klangperle [3] des Schmiedesteinschürfers 
+0.031% Klangperle [4] des Schmiedesteinschürfers 
+0.031% Alberichs Robe 
+0.031% Alberichs Robe (Geänd.) 
+0.031% Alberichs Spitzhut 
+0.031% Alberichs Spitzhut (Geänd.) 
+0.031% Alberichs Armschutz 
+0.031% Alberichs Hose 
+0.031% Maske des Vertrauens 
+0.031% Klangperle [1] des isolierten Händlers 
+0.031% Klangperle [2] des isolierten Händlers 
+0.031% Klangperle [3] des isolierten Händlers 
+0.031% Unerträgliche Raserei 
+0.031% Hut der Schneehexe 
+0.031% Robe der Schneehexe 
+0.031% Robe der Schneehexe (Geänd.) 
+0.031% Rock der Schneehexe 
+0.031% Hoslows Helm 
+0.031% Hoslows Beinschutz 
+0.031% Hoslows Stulpen 
+0.031% Hoslows Blütenpeitsche 
+0.031% Hoslows Rüstung 
+0.031% Hoslows Rüstung (Geänd.) 
+0.031% Herrschermaske 
+0.031% Feuerspuckerschild 
+0.031% Der Sturmfalkenkönig 
+0.031% Sturmfalkenaxt 
+0.031% Asche des Sturmfalken Deenh 
+0.031% Sturmkristallträne 
+0.031% Kristallexplosion 
+0.031% Puppe des Dungfressers 
+0.031% Bestien vertreibende Fackel 
+0.031% Schimmersteinkrone der Hexe 
+0.031% Terra Magica 
+0.031% Spitzhut der Zauberklinge 
+0.031% Handschuhe der Zauberklinge 
+0.031% Reisekleidung der Zauberklinge 
+0.031% Reisekleidung der Zauberklinge (Geänd.) 
+0.031% Hose der Zauberklinge 
+0.031% Großer Präzeptorenhut 
+0.031% Präzeptorenhandschuhe 
+0.031% Langes Präzeptorengewand 
+0.031% Langes Präzeptorengewand (Geänd.) 
+0.031% Präzeptorenhose 
+0.031% Magischer Schwertschlüssel 
+0.031% Roter Brief 
+0.031% Schuppenhelm 
+0.031% Schuppenbeinschutz 
+0.031% Schuppenstulpen 
+0.031% Schuppenrüstung 
+0.031% Schuppenrüstung (Geänd.) 
+0.031% Goldener Zorn 
+0.031% Goldenes Epitaphium 
+0.031% Prinzipien der Goldenen Ordnung 
+0.031% Siegel der Goldenen Ordnung 
+0.031% Goldene Hellebarde 
+0.031% Kodex des Erdenbaums 
+0.031% Siegel des Erdenbaums 
+0.031% Erdenbaum-Großbogen 
+0.031% Erdenbaum-Großschild 
+0.031% Schutz des Erdenbaums 
+0.031% Erdenbaum-Bogen 
+0.031% Heilung des Erdenbaums 
+0.031% Segen des Erdenbaums 
+0.031% Gebetbuch des Erdenbaums 
+0.031% Goldene Saat 
+0.031% Goldene Nähnadel 
+0.031% Goldene Schneidereiwerkzeuge 
+0.031% Schwarzer Messerabdruck 
+0.031% Beinschutz der Schwarzen Klingen 
+0.031% Stulpen der Schwarzen Klingen 
+0.031% Rüstung der Schwarzen Klingen 
+0.031% Rüstung der Schwarzen Klingen (Geänd.) 
+0.031% Kapuze der Schwarzen Klingen 
+0.031% Nachtjungfer- & Schwertmaidpuppen 
+0.031% Schwarze Knute 
+0.031% Schwarzer Bogen 
+0.031% Asche des Schwarzflammenmönchs Amon 
+0.031% Ritual der schwarzen Flamme 
+0.031% Schwarze Wolfsmaske 
+0.031% Onyxfürstengroßschwert 
+0.031% Gebetbuch des Drachenkults 
+0.031% Drachenherz 
+0.031% Drachenhellebarde 
+0.031% Drachenklauenschild 
+0.031% Siegel der Drachenkommunion 
+0.031% Drachenritter-Helm 
+0.031% Drachenritter-Helm (Geänd.) 
+0.031% Drachenritter-Beinschutz 
+0.031% Drachenritter-Stulpen 
+0.031% Drachenritter-Rüstung 
+0.031% Drachenritter-Rüstung (Geänd.) 
+0.031% Drachenschuppenklinge 
+0.031% Gesprungener Topf 
+0.031% Ds Klangperle 
+0.037% [ERROR]Verwickelte Nabelschnur 
+0.037% Buße tun 
+0.037% Stoßgebet 
+0.037% Trickspiegel des Wirts 
+0.037% Triumphierender Jubel 
+0.037% Erbe der Prothesenträgerin 
+0.037% Scherbe von Alexander 
+0.037% Bei meinem Schwerte 
+0.037% Arsenaltalisman 
+0.037% Leinwandtalisman der Gläubigen 
+0.037% Horntalisman der Tapferen 
+0.037% Crepus' Phiole 
+0.037% Horntalisman der Immunität 
+0.037% Ermutigender Ruf 
+0.037% Innere Ordnung 
+0.037% Ganz ruhig! 
+0.037% Trickspiegel des Krummfingers 
+0.037% Carianisches Filigranwappen 
+0.037% Begleitergefäß 
+0.037% Doppelklingentalisman 
+0.037% Erbe der Zwei Finger 
+0.037% Aufwärts zeigen 
+0.037% Abwärts zeigen 
+0.037% Vorwärts zeigen 
+0.037% Mein Fürst 
+0.037% Medaillon des Brüllens 
+0.037% Heiliger Skorpionstalisman 
+0.037% Haligdrachentalisman 
+0.037% Shabriris Kummer 
+0.037% Äußere Ordnung 
+0.037% Arsenal des großen Gefäßes 
+0.037% Spreizen 
+0.037% Talisman des Ziegenbocks 
+0.037% Hammertalisman 
+0.037% Großschildtalisman 
+0.037% Kopf 
+0.037% Wie Ihr wünscht 
+0.037% Knicks 
+0.037% Patches' Hocke 
+0.037% Geflügelte Schwertinsignie 
+0.037% Freudensprung 
+0.037% Fingerschnipsen 
+0.037% Unbewaffnet 
+0.037% Begeisterung 
+0.037% Gesegneter Tautalisman 
+0.037% Ehrfürchtige Verbeugung 
+0.037% Scherbe eines Kriegergefäßes 
+0.037% Lockere Begrüßung 
+0.037% Radagons Narbensiegel 
+0.037% Bravo! 
+0.037% Winken 
+0.037% Kamee der Räuber 
+0.037% Seitlich sitzen 
+0.037% Verbeugung 
+0.037% Gesprenkelte Halskette 
+0.037% Axttalisman 
+0.037% Krummschwerttalisman 
+0.037% Was wollt Ihr? 
+0.037% Assassinen-Purpurklinge 
+0.037% Assassinen-Himmelsklinge 
+0.037% Schlachtruf 
+0.037% Herzliche Begrüßung 
+0.037% Zyste des Todesprinzen 
+0.037% Geschwür des Todesprinzen 
+0.037% Um Gnade betteln 
+0.037% Niedergeschlagenheit 
+0.037% Gelehrsamkeit 
+0.037% Urschimmersteinklinge 
+0.037% Feuriger Skorpionstalisman 
+0.037% Flammendrachentalisman 
+0.037% Gedankenversunken nicken 
+0.037% Knotentalisman des Schmelztiegels 
+0.037% Federtalisman des Schmelztiegels 
+0.037% Schuppentalisman des Schmelztiegels 
+0.037% Daedicars Kummer 
+0.037% Ritualschwerttalisman 
+0.037% Ritualschildtalisman 
+0.037% Marikas Narbensiegel 
+0.037% Perldrachentalisman 
+0.037% Horntalisman der Klarheit 
+0.037% Stärke! 
+0.037% Gekreuzte Beine 
+0.037% Mit gekreuzten Beinen dösen 
+0.037% Speertalisman 
+0.037% Dolchtalisman 
+0.037% Durchschuss-Talisman 
+0.037% Erbe der Sternengeißel 
+0.037% Gebet 
+0.037% Tuch der Götterskalpe 
+0.037% Ruhe 
+0.037% Halt! 
+0.037% Millicents Prothese 
+0.037% Purpursamentalisman 
+0.037% Rot gefiedertes Astschwert 
+0.037% Smaragdbernstein-Medaillon 
+0.037% Grüner Schildkrötentalisman 
+0.037% Eingerollt 
+0.037% Leinwandtalisman der Herde 
+0.037% Jubel des Sprosses der Fäulnis 
+0.037% Verrottende geflügelte Schwertinsignie 
+0.037% Arme 
+0.037% Beine 
+0.037% Aufrichtiger Dank 
+0.037% Himmelsbernstein-Medaillon 
+0.037% Himmelssamentalisman 
+0.037% Blau gefiedertes Astschwert 
+0.037% Blauer Tänzerintalisman 
+0.037% Erbe der Sterngucker 
+0.037% Parfümeurstalisman 
+0.037% Körper 
+0.037% Pirouette 
+0.037% Herbeiwinken 
+0.037% Weitschuss-Talisman 
+0.037% Höfliche Verbeugung 
+0.037% Goldskarabäus 
+0.037% Klauentalisman 
+0.037% Silberskarabäus 
+0.037% Langschwanzkatzentalisman 
+0.037% Verhüllender Schleier 
+0.037% Blitzender Skorpionstalisman 
+0.037% Blitzdrachentalisman 
+0.037% Hoslows Eid 
+0.037% Lanzentalisman 
+0.037% Götzenmasse-Talisman 
+0.037% Götzenschule-Talisman 
+0.037% Gesamtheit der Ordnung 
+0.037% Gunst des Erdenbaums 
+0.037% Drachenschildtalisman 
+0.043% [ERROR] 
+0.043% Edle Pagen-Kleidung 
+0.043% Edle Pagen-Kleidung (Geänd.) 
+0.043% Edle Pagen-Kapuze 
+0.043% Stab des Verlusts 
+0.043% Mönchsflammenschwert 
+0.043% Mönchsflammenstreitkolben 
+0.043% Stab der Halbmenschenkönigin 
+0.043% Turmschild der Verflechtung 
+0.043% Ramponierter Holzschild 
+0.043% Ramponierter Lederschild 
+0.043% Bestiengefäßschild 
+0.043% Beil des Bestienmenschen 
+0.043% Bestienkrummschwert 
+0.043% Stachelkeule 
+0.043% Bestien-Dreieckschild 
+0.043% Goldener Bestienschild 
+0.043% Eiswappenschild 
+0.043% Gegabeltes Großschwert 
+0.043% Gespaltene Sichel 
+0.043% Panzerbrecher 
+0.043% Gleve 
+0.043% Plündererkrummschwert 
+0.043% Dolch 
+0.043% Kreuz-Naginata 
+0.043% Spitzhacke 
+0.043% Schrottschild 
+0.043% Großes Messer 
+0.043% Carianischer Schimmerklingenstab 
+0.043% Carianischer Schimmersteinstab 
+0.043% Doppelklinge 
+0.043% Zweihänder 
+0.043% Edler Großschild 
+0.043% Großschwert der Getreuen 
+0.043% Schild der Getreuen 
+0.043% Schwert der Getreuen 
+0.043% Rundschild 
+0.043% Runenverzierter Rundschild 
+0.043% Haligbaumwappen-Großschild 
+0.043% Bollwerksturmschild 
+0.043% Grabsense 
+0.043% Soldatenarmbrust 
+0.043% Kompositbogen 
+0.043% Claymore 
+0.043% Großbogen 
+0.043% Große Keule 
+0.043% Großer Lederschild 
+0.043% Großer Degen 
+0.043% Sense 
+0.043% Schild des Sonnenreichs 
+0.043% Großschwert der Exilritter 
+0.043% Hellebarde der Exilritter 
+0.043% Schild der Exilritter 
+0.043% Akademie-Schimmersteinstab 
+0.043% Wächter-Schwertspeer 
+0.043% Schwert des Reinfäule-Ritters 
+0.043% Fußsoldaten-Eisenhelm 
+0.043% Faustschild 
+0.043% Goldenes Trollschwert 
+0.043% Banditenkrummschwert 
+0.043% Großschwert 
+0.043% Großmesser 
+0.043% Großstreitkolben 
+0.043% Großaxt 
+0.043% Zelebrantensichel 
+0.043% Zelebrantenbeil 
+0.043% Zelebrantenrippenharke 
+0.043% Halbmondaxt 
+0.043% Falchion 
+0.043% Geschwungene Großkeule 
+0.043% Geschwungene Keule 
+0.043% Wegelagerer-Stulpen 
+0.043% Wegelagerer-Stoffrüstung 
+0.043% Wegelagerer-Kapuze 
+0.043% Malbeil 
+0.043% Maltöter-Großbeil 
+0.043% Lange Handschuhe der Maltöter 
+0.043% Robe der Maltöter 
+0.043% Stiefel der Maltöter 
+0.043% Shotel der niederen Soldaten 
+0.043% Säge der niederen Soldaten 
+0.043% Misericordia 
+0.043% Streitaxt 
+0.043% Kriegsasche: Doppelschnitt 
+0.043% Kriegsasche: Eisspeer 
+0.043% Kriegsasche: Eiserner Wille 
+0.043% Kriegsasche: Raureifstampfer 
+0.043% Kriegsasche: Duell 
+0.043% Kriegsasche: Seppuku 
+0.043% Kriegsasche: Schwerttanz 
+0.043% Kriegsasche: Cariagroßschwert 
+0.043% Kriegsasche: Carianischer Gegenschlag 
+0.043% Kriegsasche: Sturmrufer 
+0.043% Kriegsasche: Wirbelhiebe 
+0.043% Kriegsasche: Wirbelhieb 
+0.043% Kriegsasche: Heilige Ordnung 
+0.043% Kriegsasche: Bodenschlag 
+0.043% Kriegsasche: Prahlendes Brüllen 
+0.043% Kriegsasche: Verzauberter Schuss 
+0.043% Kriegsasche: Frostnebel 
+0.043% Kriegsasche: Himmelsschuss 
+0.043% Kriegsasche: Iaido 
+0.043% Kriegsasche: Spektrallanze 
+0.043% Kriegsasche: Beharren 
+0.043% Kriegsasche: Kriegsgebrüll 
+0.043% Kriegsasche: Mächtiger Schuss 
+0.043% Kriegsasche: Erderschütterer 
+0.043% Kriegsasche: Kein Talent 
+0.043% Kriegsasche: Unbeugsamer Schwur 
+0.043% Kriegsasche: Schachzug des Assassinen 
+0.043% Kriegsasche: Parade 
+0.043% Kriegsasche: Flammender Schlag 
+0.043% Kriegsasche: Eruption 
+0.043% Kriegsasche: Löwenkralle 
+0.043% Kriegsasche: Wilde Schläge 
+0.043% Kriegsasche: Schildschlag 
+0.043% Kriegsasche: Schnellschritt 
+0.043% Kriegsasche: Gebetsschlag 
+0.043% Kriegsasche: Wuchtiger Ansturm 
+0.043% Kriegsasche: Schildaufprall 
+0.043% Kriegsasche: Stampfer (Aufwärtsschnitt) 
+0.043% Kriegsasche: Stampfer (Feger) 
+0.043% Kriegsasche: Donnerblitz 
+0.043% Kriegsasche: Aufspießender Stoß 
+0.043% Kriegsasche: Durch und durch 
+0.043% Kriegsasche: Tritt 
+0.043% Kriegsasche: Wirbelnde Waffe 
+0.043% Kriegsasche: Schimmerphalanx 
+0.043% Kriegsasche: Schimmersteinkiesel 
+0.043% Kriegsasche: Stoßhagel 
+0.043% Kriegsasche: Sperrfeuer 
+0.043% Kriegsasche: Barbarenbrüllen 
+0.043% Kriegsasche: Barrikadenschild 
+0.043% Kriegsasche: Blitzschnitt 
+0.043% Kriegsasche: Sturmklinge 
+0.043% Kriegsasche: Sturmangriff 
+0.043% Kriegsasche: Sturmstampfer 
+0.043% Kriegsasche: Sturmwall 
+0.043% Spaltaxt 
+0.043% Kriegsfalkenkralle 
+0.043% Hellebarde 
+0.043% Handaxt 
+0.043% Stockschwert 
+0.043% Uchigatana 
+0.043% Lazuli-Schimmersteinschwert 
+0.043% Lazuli-Robe 
+0.043% Katar 
+0.043% Finger-Siegel 
+0.043% Gräberstab 
+0.043% Caestus 
+0.043% Handballiste 
+0.043% Duellantengroßaxt 
+0.043% Streithammer 
+0.043% Henkergroßaxt 
+0.043% Eklipse-Dreieckschild 
+0.043% Sternfaust 
+0.043% Morgenstern 
+0.043% Holzgroßschild 
+0.043% Adeligenpanzerbrecher 
+0.043% Feines Adligenschwert 
+0.043% Kuckucksgroßschild 
+0.043% Prangerschild 
+0.043% Schimmersteinstab vom Gelmir 
+0.043% Parierdolch 
+0.043% Keule 
+0.043% Stachelcaestus 
+0.043% Stachelspeer 
+0.043% Verformte Axt 
+0.043% Stab des Todesprinzen 
+0.043% Tonmenschenharpune 
+0.043% Bastardschwert 
+0.043% Scheusalkurzbogen 
+0.043% Fackel 
+0.043% Holzschild mit Flammenwappen 
+0.043% Stabfackel 
+0.043% Kerzenbaum-Holzschild 
+0.043% Flamberge 
+0.043% Dreieckschild 
+0.043% Bluthundkrallen 
+0.043% Scharlachroter Tabard 
+0.043% Falkenschnabel 
+0.043% Bogen der Albinaurics 
+0.043% Albinauric-Stab 
+0.043% Schild der Albinaurics 
+0.043% Lederbesetzter Tabard 
+0.043% Großschwert des Bewachers 
+0.043% Speer 
+0.043% Kurzschwert 
+0.043% Kurzbogen 
+0.043% Krummsäbel 
+0.043% Kurzspeer 
+0.043% Gargoyle-Doppelklinge 
+0.043% Gargoyle-Großschwert 
+0.043% Gargoyle-Großaxt 
+0.043% Gargoyle-Hellebarde 
+0.043% Gargoyle-Doppelschwarzklinge 
+0.043% Gargoyle-Schwarzhellebarde 
+0.043% Gargoyle-Schwarzaxt 
+0.043% Steinkeule 
+0.043% Hammer 
+0.043% Ziegelhammer 
+0.043% Götterskalphäuter 
+0.043% Götterskalpnadel 
+0.043% Riesenbrecher 
+0.043% Rotholzkurzbogen 
+0.043% Rotdornrundschild 
+0.043% Rotmähnen-Großschild 
+0.043% Rotwappen-Dreieckschild 
+0.043% Rapier 
+0.043% Kristallmesser 
+0.043% Rogiers Rapier 
+0.043% Stab der Schuldigen 
+0.043% Altes Schwert 
+0.043% Wakizashi 
+0.043% Fäulnisgroßaxt 
+0.043% Fäulnisstreithammer 
+0.043% Dornenpeitsche 
+0.043% Fias Robe 
+0.043% Fias Robe (Geänd.) 
+0.043% Fias Kapuze 
+0.043% Blau-weißer Holzschild 
+0.043% Schwarzwappen-Dreieckschild 
+0.043% Blau-goldener Drachenschild 
+0.043% Schlangenmenschenschild 
+0.043% Skorpionsdrachenschild 
+0.043% Mantisklinge 
+0.043% Rissschild 
+0.043% Astrologenstab 
+0.043% Parfümeurschild 
+0.043% Elfenbeinsichel 
+0.043% Elfenbeinbesetzter Tabard 
+0.043% Shamshir 
+0.043% Peitsche 
+0.043% Leichte Armbrust 
+0.043% Schimmersteinstab 
+0.043% Flegel 
+0.043% Falkensturz-Turmschild 
+0.043% Falkensturz-Dreieckschild 
+0.043% Schwere Armbrust 
+0.043% Vergoldeter Großschild 
+0.043% Vergoldeter Eisenschild 
+0.043% Stachelpalisadenschild 
+0.043% Arbalest 
+0.043% Shotel 
+0.043% Hakenkrallen 
+0.043% Eisengroßschwert 
+0.043% Eisenspeer 
+0.043% Eisenrundschild 
+0.043% Kettenflegel 
+0.043% Eisenbeil 
+0.043% Dornengroßschild 
+0.043% Eisenkugel 
+0.043% Vernieteter Rundschild 
+0.043% Rostiger Anker 
+0.043% Streitkolben 
+0.043% Langschwert 
+0.043% Langbogen 
+0.043% Langstielbeil 
+0.043% Nagakiba 
+0.043% Pike 
+0.043% Breitschwert 
+0.043% Partisane 
+0.043% Meteoritenstab 
+0.043% Kieferknochen-Axt 
+0.043% Holzschild mit Pferdewappen 
+0.043% Lanze 
+0.043% Reitergeißel 
+0.043% Ritter-Zwillingsschwerter 
+0.043% Rittergroßschwert 
+0.043% Hochlandaxt 
+0.043% Golemgroßbogen 
+0.043% Golemhellebarde 
+0.043% Drachenschild 
+0.043% Holzschild mit Falkenwappen 
+0.043% Goldener Großschild 
+0.043% Messingschild 
+0.043% Erdenstahldolch 
+0.043% Gleve der Dunkelkavallerie 
+0.043% Flegel der Dunkelkavallerie 
+0.043% Schwarzer Lederschild 
+0.043% Drachenturmschild 
+0.049% [ERROR] 
+0.049% [ERROR] 
+0.049% [ERROR]Ijis Geständnis 
+0.049% [ERROR]Kampftracht des Tapferen 
+0.049% [ERROR]Kampftracht des Tapferen (Geänd.) 
+0.049% [ERROR]Lederhelm des Tapferen 
+0.049% [ERROR]Beinwickel des Tapferen 
+0.049% [ERROR]Armschutz des Tapferen 
+0.049% [ERROR]Kordelkranz des Tapferen 
+0.049% [ERROR] 
+0.049% [ERROR]Schrein-Glühwurminsigne 
+0.049% [ERROR] 
+0.049% Robe der Oberschicht 
+0.049% Schlüssel zum Kanalisationskerker 
+0.049% Ewiger Schild 
+0.049% Halbmenschenasche 
+0.049% Asche der Bestienmenschen von Azula 
+0.049% Marionettensoldaten-Helm 
+0.049% Marionettensoldaten-Rüstung 
+0.049% Marionettensoldaten-Vogelhelm 
+0.049% Asche der Marionettensoldaten 
+0.049% Irinas Brief 
+0.049% Kleidung der Gefährtin 
+0.049% Hose der Gefährtin 
+0.049% Diskus aus Licht 
+0.049% Bestienklaue 
+0.049% Bestialische Schlinge 
+0.049% Eisiger Blitzspeer 
+0.049% Eisiger Nebel 
+0.049% Asche des Kaiden-Söldners 
+0.049% Kaiden-Helm 
+0.049% Kaiden-Stulpen 
+0.049% Kaiden-Rüstung 
+0.049% Kaiden-Hose 
+0.049% Rasende Explosion 
+0.049% Assassinenschritt 
+0.049% Kriegerbeinschutz 
+0.049% Kriegerstulpen 
+0.049% Heldenstirnband 
+0.049% Heldengamaschen 
+0.049% Heldenschulterplatte 
+0.049% Heldenarmschutz 
+0.049% Dreifache Lichtringe 
+0.049% Unsichtbare Form 
+0.049% Cariagroßschwert 
+0.049% Carianischer Gegenschlag 
+0.049% Carianischer Aufspießer 
+0.049% Carianischer Schlitzer 
+0.049% Carianischer Ritterhelm 
+0.049% Carianischer Ritterbeinschutz 
+0.049% Carianische Ritterstulpen 
+0.049% Carianische Ritterrüstung 
+0.049% Carianische Ritterrüstung (Geänd.) 
+0.049% Asche des Zaubererzwillings 
+0.049% Asche des wahnsinnigen Kürbiskopfs 
+0.049% Grollruf 
+0.049% Redekopf: "Hallo" 
+0.049% Redekopf: "Wunderbar" 
+0.049% Redekopf: "Verzeiht" 
+0.049% Redekopf: "Dann mal los" 
+0.049% Redekopf: "Mein Liebling" 
+0.049% Redekopf: "Bitte helfen" 
+0.049% Redekopf: "Danke" 
+0.049% Gefangenenkleidung 
+0.049% Eiserne Gefangenenmaske 
+0.049% Gefangenenhose 
+0.049% Klinge der Ordnung 
+0.049% Heilung der Ordnung 
+0.049% Haligbaum-Soldatenwappenrock 
+0.049% Asche der Soldaten des Haligbaums 
+0.049% Haligbaum-Soldatenbeinschutz 
+0.049% Haligbaum-Soldatenstulpen 
+0.049% Haligbaum-Ritterbeinschutz 
+0.049% Haligbaum-Ritterstulpen 
+0.049% Haligbaum-Ritterrüstung 
+0.049% Haligbaum-Ritterrüstung (Geänd.) 
+0.049% Göttliche Festigung 
+0.049% Kopftuch des wahnsinnigen Parfümeurs 
+0.049% Handschuhe des wahnsinnigen Parfümeurs 
+0.049% Robe des wahnsinnigen Parfümeurs 
+0.049% Robe des wahnsinnigen Parfümeurs (Geänd.) 
+0.049% Hose des wahnsinnigen Parfümeurs 
+0.049% Große Heilung 
+0.049% Godrick-Soldatenwappenrock 
+0.049% Baumwappenrock 
+0.049% Asche der Großschildsoldaten 
+0.049% Riesenrattenasche 
+0.049% Großes gehörntes Stirnband 
+0.049% Helm der verbannten Ritter 
+0.049% Helm der verbannten Ritter (Geänd.) 
+0.049% Beinschutz der verbannten Ritter 
+0.049% Stulpen der verbannten Ritter 
+0.049% Rüstung der verbannten Ritter 
+0.049% Rüstung der verbannten Ritter (Geänd.) 
+0.049% Hinterhältiger Splitter 
+0.049% Wächtergewand 
+0.049% Wächterbeinschutz 
+0.049% Wächterarmschutz 
+0.049% Wächtermaske 
+0.049% Beamtenkleidung 
+0.049% Bekennerhandschuhe 
+0.049% Bekennerkleidung 
+0.049% Bekennerkleidung (Geänd.) 
+0.049% Bekennerstiefel 
+0.049% Bekennerkapuze 
+0.049% Bekennerkapuze (Geänd.) 
+0.049% Fußsoldaten-Beinschutz 
+0.049% Fußsoldaten-Stulpen 
+0.049% Fußsoldaten-Tabard 
+0.049% Vergoldete Fußsoldaten-Kappe 
+0.049% Fußsoldaten-Helm 
+0.049% Fußsoldaten-Kappe 
+0.049% Asche von Mirandas Spross 
+0.049% Asche der Vampirwichte 
+0.049% Bürgerkleidung 
+0.049% Bürgerkleidung (Geänd.) 
+0.049% Einfache Bürgerkleidung 
+0.049% Einfache Bürgerkleidung (Geänd.) 
+0.049% Bürgerstirnband 
+0.049% Bürgerstirnband (Geänd.) 
+0.049% Bürgerschuhe 
+0.049% Steinschleuder 
+0.049% Großhelm 
+0.049% Stoffkleidung 
+0.049% Stoffhose 
+0.049% Flugscheusalsasche 
+0.049% Kappe der jungen Gelehrten 
+0.049% Robe der jungen Gelehrten 
+0.049% Alte Aristokraten-Haube 
+0.049% Alte Aristokraten-Schuhe 
+0.049% Altes Aristokraten-Gewand 
+0.049% Festliche Kleidung 
+0.049% Festliche Kleidung (Geänd.) 
+0.049% Festliche blaue Kleidung 
+0.049% Festliche blaue Kapuze 
+0.049% Festliche Kapuze 
+0.049% Festliche Kapuze (Geänd.) 
+0.049% Asche der Wanderadligen 
+0.049% Heilung 
+0.049% Gunst des Segens 
+0.049% Helm der niederen Soldaten 
+0.049% Asche der niederen Soldaten 
+0.049% Beinschutz der niederen Soldaten 
+0.049% Handschuhe der niederen Soldaten 
+0.049% Rüstung der niederen Soldaten 
+0.049% Handschuhe der Feldchirurgen 
+0.049% Gewand der Feldchirurgen 
+0.049% Gewand der Feldchirurgen (Geänd.) 
+0.049% Hose der Feldchirurgen 
+0.049% Kriegsmagier-Beinwickel 
+0.049% Kriegsmagier-Manschetten 
+0.049% Kriegsmagier-Robe 
+0.049% Kriegsfalkenasche 
+0.049% Flammenschleuder 
+0.049% Stulpen 
+0.049% Rykards Große Rune 
+0.049% Radahn-Soldatenhelm 
+0.049% Asche der Soldaten von Radahn 
+0.049% Radahn-Soldatenbeinschutz 
+0.049% Radahn-Soldatenstulpen 
+0.049% Radahns Große Rune 
+0.049% Radagons Lichtringe 
+0.049% Zurückweisung 
+0.049% Zerlumpter Hut 
+0.049% Zerlumpter Hut (Geänd.) 
+0.049% Zerlumpte Handschuhe 
+0.049% Zerlumpter Lendenschurz 
+0.049% Zerlumpte Rüstung 
+0.049% Zerlumpte Rüstung (Geänd.) 
+0.049% Haarband der Fingerjungfer 
+0.049% Robe der Fingerjungfer 
+0.049% Robe der Fingerjungfer (Geänd.) 
+0.049% Schuhe der Fingerjungfer 
+0.049% Asche der Bogenschützen 
+0.049% Kleidung der Reisenden 
+0.049% Handschuhe der Wanderjungfer 
+0.049% Robe der Wanderjungfer 
+0.049% Robe der Wanderjungfer (Geänd.) 
+0.049% Stiefel der Wanderjungfer 
+0.049% Kapuze der Wanderjungfer 
+0.049% Hut des Reisenden 
+0.049% Handschuhe des Reisenden 
+0.049% Armschutz der Reisenden 
+0.049% Hose des Reisenden 
+0.049% Stiefel der Reisenden 
+0.049% Splitterspirale 
+0.049% Unsichtbare Klinge 
+0.049% Sternenlicht 
+0.049% Aristokraten-Kleidung 
+0.049% Aristokraten-Kleidung (Geänd.) 
+0.049% Aristokraten-Mantel 
+0.049% Aristokraten-Stirnband 
+0.049% Aristokraten-Hut 
+0.049% Aristokraten-Stiefel 
+0.049% Asche des Zaubereradligen 
+0.049% Kuckucks-Soldatenwappenrock 
+0.049% Kuckucks-Ritterhelm 
+0.049% Kuckucks-Ritterbeinschutz 
+0.049% Kuckucks-Ritterstulpen 
+0.049% Kuckucks-Ritterrüstung 
+0.049% Kuckucks-Ritterrüstung (Geänd.) 
+0.049% Corhyns Robe 
+0.049% Gelmir-Ritterhelm 
+0.049% Gelmir-Ritterbeinschutz 
+0.049% Gelmir-Ritterstulpen 
+0.049% Gelmir-Ritterrüstung 
+0.049% Gelmir-Ritterrüstung (Geänd.) 
+0.049% Geißelnde schwarze Flamme 
+0.049% Pelzkleidung 
+0.049% Pelzgamaschen 
+0.049% Tonmenschenasche 
+0.049% Beinschutz der Verbannten 
+0.049% Stulpen der Verbannten 
+0.049% Rüstung der Verbannten 
+0.049% Kapuze der Verbannten 
+0.049% Eisenmaske der Schwarzwache 
+0.049% Kleidung des nomadischen Händlers 
+0.049% Kleidung des nomadischen Händlers (Geänd.) 
+0.049% Hut des nomadischen Händlers 
+0.049% Hose des nomadischen Händlers 
+0.049% Nomadenasche 
+0.049% Vagabundenritter-Helm 
+0.049% Vagabundenritter-Beinschutz 
+0.049% Vagabundenritter-Stulpen 
+0.049% Vagabundenritter-Rüstung 
+0.049% Vagabundenritter-Rüstung (Geänd.) 
+0.049% Ronin-Beinschutz 
+0.049% Ronin-Stulpen 
+0.049% Ronin-Rüstung 
+0.049% Ronin-Rüstung (Geänd.) 
+0.049% Kochendes Magma 
+0.049% Flammenfestigung 
+0.049% Asche der Mausoleumssoldaten 
+0.049% Mausoleums-Soldatenbeinschutz 
+0.049% Mausoleums-Soldatenstulpen 
+0.049% Mausoleums-Soldatenwappenrock 
+0.049% Beinschutz der Ritter des Mausoleums 
+0.049% Stulpen der Ritter des Mausoleums 
+0.049% Rüstung der Ritter des Mausoleums 
+0.049% Rüstung der Ritter des Mausoleums (Geänd.) 
+0.049% Flasche der wundersamen Arznei 
+0.049% Asche der Geisterqualle 
+0.049% Magmaodem 
+0.049% Magmaschuss 
+0.049% Aspekt des Schmelztiegels: Hauch 
+0.049% Aspekt des Schmelztiegels: Schweif 
+0.049% Aspekt des Schmelztiegels: Hörner 
+0.049% Geht in Flammen auf 
+0.049% Steinsprenger 
+0.049% Erde erschüttern 
+0.049% Asche der Kriegergefäße 
+0.049% Opferzweig 
+0.049% Diallos' Maske 
+0.049% Bluthund-Ritterhelm 
+0.049% Bluthund-Ritterbeinschutz 
+0.049% Bluthund-Ritterstulpen 
+0.049% Bluthund-Ritterrüstung 
+0.049% Bluthund-Ritterrüstung (Geänd.) 
+0.049% Malenias Große Rune 
+0.049% Robe der Marais 
+0.049% Rostiger Schlüssel 
+0.049% Die Rasende Flamme 
+0.049% Albinauricasche 
+0.049% Lederhandschuhe 
+0.049% Lederrüstung 
+0.049% Lederhose 
+0.049% Lederstiefel 
+0.049% Banditenkleidung 
+0.049% Banditenmanschetten 
+0.049% Banditenmaske 
+0.049% Banditenstiefel 
+0.049% Augenwappenrock 
+0.049% Ahnenjüngerasche 
+0.049% Asche der Orakelgesandten 
+0.049% Große Orakelblase 
+0.049% Orakelblasen 
+0.049% Felle des Schamanen 
+0.049% Gamaschen des Schamanen 
+0.049% Asche der einsamen Wölfe 
+0.049% Manschetten des abtrünnigen Zauberers 
+0.049% Robe des abtrünnigen Zauberers 
+0.049% Robe des abtrünnigen Zauberers (Geänd.) 
+0.049% Stiefel des abtrünnigen Zauberers 
+0.049% Oktopuskopf 
+0.049% Gezielter Blitz 
+0.049% Dringende Heilung 
+0.049% Litanei des Wahren Tods 
+0.049% Radahn-Soldatenwappenrock 
+0.049% Radahn-Ritterhelm 
+0.049% Radahn-Ritterbeinschutz 
+0.049% Radahn-Ritterstulpen 
+0.049% Radahn-Ritterrüstung 
+0.049% Radahn-Ritterrüstung (Geänd.) 
+0.049% Flasche mit Purpurtränen 
+0.049% Eisige Waffe 
+0.049% Kristallianerasche 
+0.049% Kristallnova 
+0.049% Kristallsperrfeuer 
+0.049% Nähnadel 
+0.049% Leyndell-Soldatenhelm 
+0.049% Asche der Soldaten von Leyndell 
+0.049% Leyndell-Soldatenbeinschutz 
+0.049% Leyndell-Soldatenstulpen 
+0.049% Leyndell-Ritterhelm 
+0.049% Leyndell-Ritterbeinschutz 
+0.049% Leyndell-Ritterstulpen 
+0.049% Leyndell-Ritterrüstung 
+0.049% Leyndell-Ritterrüstung (Geänd.) 
+0.049% Kapuze der Schuldigen 
+0.049% Dornbusch der Sünde 
+0.049% Stinkende Leichenasche 
+0.049% Fauliger Atem 
+0.049% Asche des Sprosses der Fäulnis 
+0.049% Asche eines verrottenden Hunds 
+0.049% Tänzerkastagnetten 
+0.049% Schilflandhelm 
+0.049% Schilflandbeinschutz 
+0.049% Schilflandstulpen 
+0.049% Schilflandrüstung 
+0.049% Schilflandrüstung (Geänd.) 
+0.049% Blausilberne Armreife 
+0.049% Blausilberne Kettenrüstung 
+0.049% Blausilberne Kettenrüstung (Geänd.) 
+0.049% Blausilberner Kettenrock 
+0.049% Blausilberne Kettenhaube 
+0.049% Ryas Halskette 
+0.049% Godrick-Soldatenhelm 
+0.049% Asche der Soldaten von Godrick 
+0.049% Godrick-Soldatenbeinschutz 
+0.049% Godrick-Soldatenstulpen 
+0.049% Godricks Große Rune 
+0.049% Godrick-Ritterhelm 
+0.049% Godrick-Ritterbeinschutz 
+0.049% Godrick-Ritterstulpen 
+0.049% Godrick-Ritterrüstung 
+0.049% Godrick-Ritterrüstung (Geänd.) 
+0.049% Mohgs Große Rune 
+0.049% Morgotts Große Rune 
+0.049% Weste aus blauem Stoff 
+0.049% Haube aus blauem Stoff 
+0.049% Flasche mit Himmelstränen 
+0.049% Pilzkopf 
+0.049% Pilzarme 
+0.049% Pilzbeine 
+0.049% Pilzkörper 
+0.049% Ungezieferfäden 
+0.049% Schlangenmenschenasche 
+0.049% Fliegenschwarm 
+0.049% Astrologenhandschuhe 
+0.049% Astrologenrobe 
+0.049% Astrologenrobe (Geänd.) 
+0.049% Astrologenhose 
+0.049% Astrologenkapuze 
+0.049% Schattenköder 
+0.049% Nox-Armreife 
+0.049% Nox-Beinschutz 
+0.049% Noxmönch-Rüstung 
+0.049% Noxmönch-Rüstung (Geänd.) 
+0.049% Noxmönch-Kapuze 
+0.049% Noxmönch-Kapuze (Geänd.) 
+0.049% Schwertmaidkrone der Nox 
+0.049% Schwertmaidkrone der Nox (Geänd.) 
+0.049% Schwertmaidrüstung der Nox 
+0.049% Schwertmaidrüstung der Nox (Geänd.) 
+0.049% Parfümeurhandschuhe 
+0.049% Kleidung des Reisenden 
+0.049% Kleidung des Reisenden (Geänd.) 
+0.049% Parfümeursarong 
+0.049% Parfümeurrobe 
+0.049% Parfümeurrobe (Geänd.) 
+0.049% Parfümeurkapuze 
+0.049% Weisenrobe 
+0.049% Weisenhose 
+0.049% Weisenkapuze 
+0.049% Adligenhandschuhe 
+0.049% Adligenreisekleidung 
+0.049% Erhabene Präsenz 
+0.049% Schimmerphalanx 
+0.049% Schimmerstein-Eisbrocken 
+0.049% Schimmersteinhauch 
+0.049% Großer Schimmersteinsplitter 
+0.049% Schimmersteinbogen 
+0.049% Schimmersteinsterne 
+0.049% Schneller Schimmersteinsplitter 
+0.049% Asche des Schimmersteinzauberers 
+0.049% Schimmersteinkiesel 
+0.049% Ätzender Sprühnebel 
+0.049% Gravitationsfeld 
+0.049% Bestialische Robustheit 
+0.049% Bestialische Lebenskraft 
+0.049% Eisenhelm 
+0.049% Eisenstulpen 
+0.049% Kettenhaube 
+0.049% Kettenbesetzter Tabard 
+0.049% Kettenbeinschutz 
+0.049% Kettenrüstung 
+0.049% Klarheit 
+0.049% Asche der Landschleimer 
+0.049% Meteorit 
+0.049% Pagen-Kleidung 
+0.049% Pagen-Kleidung (Geänd.) 
+0.049% Pagen-Asche 
+0.049% Pagen-Hose 
+0.049% Pagen-Kapuze 
+0.049% Kuckucks-Soldatenhelm 
+0.049% Asche der Soldaten von Raya Lucaria 
+0.049% Kuckucks-Soldatenbeinschutz 
+0.049% Kuckucks-Soldatenstulpen 
+0.049% Robe von Raya Lucaria 
+0.049% Blitzschlag 
+0.049% Elektrifizierte Waffe 
+0.049% Blitzfestigung 
+0.049% Prophetenaugenbinde 
+0.049% Prophetenrobe 
+0.049% Prophetenrobe (Geänd.) 
+0.049% Prophetenhose 
+0.049% Herrscherrobe 
+0.049% Ritterhelm 
+0.049% Ritterbeinschutz 
+0.049% Ritterstulpen 
+0.049% Ritterrüstung 
+0.049% Schmutziger Kettenschutz 
+0.049% Asche des Skelettbanditen 
+0.049% Asche der Skelettmiliz 
+0.049% Zauberer-Beinwickel 
+0.049% Zauberer-Manschetten 
+0.049% Magische Schimmerklinge 
+0.049% Metallschuppenrüstung 
+0.049% Asche der Flugmarionettensoldaten 
+0.049% Goldener Schwur 
+0.049% Leyndell-Soldatenwappenrock 
+0.049% Goldene Blitzfestigung 
+0.049% Zwillingskrone der Nachtjungfern 
+0.049% Nebel der Nachtjungfer 
+0.049% Nachtjungfernrüstung 
+0.049% Nachtkomet 
+0.049% Dunkelkavalleristen-Helm 
+0.049% Dunkelkavalleristen-Helm (Geänd.) 
+0.049% Dunkelkavalleristen-Beinschutz 
+0.049% Dunkelkavalleristen-Stulpen 
+0.049% Dunkelkavalleristen-Rüstung 
+0.049% Dunkelkavalleristen-Rüstung (Geänd.) 
+0.049% Nachtsplitter 
+0.049% Schwarze Kapuze 
+0.049% Dunkelheit 
+0.049% Schwarze Flamme 
+0.049% Schwarzflammenmönch-Kapuze 
+0.049% Schwarzflammenmönch-Beinschutz 
+0.049% Schwarzflammenmönch-Stulpen 
+0.049% Schwarzflammenmönch-Rüstung 
+0.049% Klinge der schwarzen Flamme 
+0.049% Schutz der schwarzen Flamme 
+0.049% Dracheneis 
+0.049% Drachenschlund 
+0.049% Drachenfeuer 
+0.049% Drachenklaue 
+0.049% Segen des Drachenblitzes 
+0.055% Spektralrosspfeife 
+0.061% Rekusantenfinger 
+0.061% Spötterzunge 
+0.061% Winzige Ranni 
+0.061% Schimmersteinschlüssel der Akademie 
+0.061% Notiz: Das Geheimnis des Präzeptors 
+0.061% Brief des Hauses Vulkan 
+0.061% Gesprungene Kristallträne 
+0.061% Weißer Losungsring 
+0.061% Purpurrote Kristallträne 
+0.061% Kleine rote Statue 
+0.061% Abgenutzte Karte 
+0.061% Blauer Losungsring 
+0.061% Himmelblaue Kristallträne 
+0.061% Kleine goldene Statue 
+0.067% [ERROR]Notiz: Große Särge 
+0.067% Notiz: Pöbel der Halbmenschen 
+0.067% Notiz: Passage 
+0.067% Notiz: Wichtschatten 
+0.067% Notiz: Gespenster 
+0.067% Notiz: Steingräbertrolle 
+0.067% Notiz: Wanderndes Mausoleum 
+0.067% Notiz: Flasche der wundersamen Arznei 
+0.067% Notiz: Unter der Hauptstadt 
+0.067% Notiz: Dorf der Rasenden Flamme 
+0.067% Notiz: Unsichtbare Assassinen 
+0.067% Notiz: Vorteile der Gravitationsmagie 
+0.067% Notiz: Landschleimer 
+0.067% Notiz: Geheime Höhle 
+0.067% Notiz: Ruinen eines Wegpunkts 
+0.067% Krummfinger des Duellanten 
+0.067% Krummfinger des Befleckten 
+0.073% Der Ring 
+0.079% Giftfett 
+0.079% Blutknochenbolzen 
+0.079% Blutknochenpfeil 
+0.079% Blutknochenpfeil (Gefiedert) 
+0.079% Knochen-Giftbolzen 
+0.079% Knochen-Giftpfeil 
+0.079% Knochen-Giftpfeil (Gefiedert) 
+0.079% Giftknochenwurfpfeil 
+0.079% Zauberknochenbolzen 
+0.079% Zauberknochenpfeil 
+0.079% Zauberknochenpfeil (Gefiedert) 
+0.079% Blutfett 
+0.079% Uralter Drachenblitztopf 
+0.079% Blutfluchtopf 
+0.079% Sakramentsknospe 
+0.079% Giftiger Sprühnebel 
+0.079% Giftstein 
+0.079% Giftsteinklumpen 
+0.079% Blutgerinnsel eines Albinauric 
+0.079% Blutrose 
+0.079% Adligenhose 
+0.079% Giftfett mit Kordel 
+0.079% Blutfett mit Kordel 
+0.079% Magiefett mit Kordel 
+0.079% Blitzgroßbolzen 
+0.079% Blitzbolzen 
+0.079% Schlangenpfeil 
+0.079% Magischer Golempfeil 
+0.079% Magiefett 
+0.085% Neutralisierende Boli 
+0.085% Blutstillende Boli 
+0.085% Blutbefleckter Kot 
+0.085% Akademiemagietopf 
+0.085% Riesenfeuertopf 
+0.085% Gifttopf 
+0.085% Giftblüte 
+0.085% Giftpilz 
+0.085% Feuertopf 
+0.085% Feuerblüte 
+0.085% Rotmähnen-Feuertopf 
+0.085% Bestienblut 
+0.085% Gifttopf mit Kordel 
+0.085% Feuertopf mit Kordel 
+0.085% Blitztopf mit Kordel 
+0.085% Magietopf mit Kordel 
+0.085% Blitztopf 
+0.085% Fulgurblüte 
+0.085% Magietopf 
+0.092% Reine Goldnadel 
+0.098% [ERROR] 
+0.098% Krummfingermedizin 
+0.110% Adernblatt 
+0.110% Runenbogen 
+0.110% Trinas Lilie 
+0.110% Sternenlichtsplitter 
+0.110% Larventräne 
+0.110% Schotterstein 
+0.110% Miquellas Lilie 
+0.110% Auge von Yelough 
+0.110% Aeonischer Schmetterling 
+0.110% Heranwachsender Schmetterling 
+0.110% Goldtausendfüßler 
+0.116% [ERROR]Weihwasserfett 
+0.116% [ERROR]Frostfett mit Kordel 
+0.116% Geräuchertes belebendes weißes Fleisch 
+0.116% Geräuchertes immunisierendes weißes Fleisch 
+0.116% Haligknochenbolzen 
+0.116% Haligbaumpfeil 
+0.116% Haligbaumpfeil (Gefiedert) 
+0.116% Knochengroßpfeil 
+0.116% Knochengroßpfeil (Gefiedert) 
+0.116% Knochenballistenbolzen 
+0.116% Knochenbolzen 
+0.116% Knochen-Feuerbolzen 
+0.116% Knochen-Feuerpfeil 
+0.116% Knochen-Feuerpfeil (Gefiedert) 
+0.116% Knochenpfeil 
+0.116% Knochenpfeil (Gefiedert) 
+0.116% Eisknochenbolzen 
+0.116% Eisknochenpfeil 
+0.116% Eisknochenpfeil (Gefiedert) 
+0.116% Knochen-Blitzbolzen 
+0.116% Knochen-Blitzpfeil 
+0.116% Knochen-Blitzpfeil (Gefiedert) 
+0.116% Knochenwurfpfeil 
+0.116% Bolzen der Getreuen 
+0.116% Heiligfett 
+0.116% Gravitationssteinbrocken 
+0.116% Schildfett 
+0.116% Großer Schimmerstein-Überrest 
+0.116% Großpfeil 
+0.116% Verweilender Pfeil 
+0.116% Schimmerstein-Überrest 
+0.116% Kukri 
+0.116% Ballistenbolzen 
+0.116% Bolzen 
+0.116% Fächerdolche 
+0.116% Gravitationssteinfächer 
+0.116% Wurfdolch 
+0.116% Gnadenimitator 
+0.116% Kuckucks-Schimmerstein 
+0.116% Weiche Baumwolle 
+0.116% Feuerfett 
+0.116% Brandpfeil 
+0.116% Funkenaromat 
+0.116% Glühstein 
+0.116% Sprengstein 
+0.116% Sprengsteinklumpen 
+0.116% Flammenbolzen 
+0.116% Roher Fleischklops 
+0.116% Knochensplitterpfeil 
+0.116% Knochensplitterpfeil (Gefiedert) 
+0.116% Pfeil 
+0.116% Schriftstein 
+0.116% Frostfett 
+0.116% Kristallwurfpfeil 
+0.116% Seife 
+0.116% Regenbogenstein 
+0.116% Regenbogensteinpfeil 
+0.116% Regenbogensteinpfeil (Gefiedert) 
+0.116% Ruinenfragment 
+0.116% Heiligfett mit Kordel 
+0.116% Feuerfett mit Kordel 
+0.116% Blitzfett mit Kordel 
+0.116% Blitzfett 
+0.116% Sturmschwingen-Knochenpfeil 
+0.116% Golemgroßpfeil 
+0.116% Goldene Rune [1] 
+0.116% Goldene Rune [2] 
+0.116% Goldene Rune [3] 
+0.116% Goldene Rune [4] 
+0.116% Goldene Rune [5] 
+0.116% Goldbolzen 
+0.122% [ERROR] 
+0.122% Altus-Blüte 
+0.122% Menschenknochensplitter 
+0.122% Bohrbolzen 
+0.122% Geräuchertes belebendes Fleisch 
+0.122% Stimulierende Boli 
+0.122% Geräuchertes immunisierendes Fleisch 
+0.122% Knochen-Schlafbolzen 
+0.122% Knochen-Schlafpfeil 
+0.122% Knochen-Schlafpfeil (Gefiedert) 
+0.122% Fäulnisknochenbolzen 
+0.122% Fäulnisknochenpfeil 
+0.122% Fäulnisknochenpfeil (Gefiedert) 
+0.122% Gefrorene Rosine 
+0.122% Raureifkristallknospe 
+0.122% Frost tauende Boli 
+0.122% Verblasste Erdenblattblume 
+0.122% Federtierfuß mit vier Zehen 
+0.122% Weihwassertopf 
+0.122% Grabveilchen 
+0.122% Taubenetzte Herba 
+0.122% Kopf der großen Libelle 
+0.122% Gesprungener Kristall 
+0.122% Grolltopf 
+0.122% St. Trinas Pfeil 
+0.122% Heiligsichere Trockenleber 
+0.122% Feuersichere Trockenleber 
+0.122% Blitzsichere Trockenleber 
+0.122% Zaubersichere Trockenleber 
+0.122% Radahns Speer 
+0.122% Flugfeder 
+0.122% Wurzelharz 
+0.122% Öltopf 
+0.122% Höhlenmoos 
+0.122% Kristallhöhlenmoos 
+0.122% Sprießendes Höhlenmoos 
+0.122% Meteorbolzen 
+0.122% Vulkantopf 
+0.122% Vulkanstein 
+0.122% Schwelender Schmetterling 
+0.122% Geisterflammenpfeil 
+0.122% Gekochte Garnele 
+0.122% Gekochte Krabbe 
+0.122% Sprenggroßbolzen 
+0.122% Sprengbolzen 
+0.122% Glassplitter 
+0.122% Süße Rosine 
+0.122% Streifen weißen Fleisches 
+0.122% Schlummerndes Ei 
+0.122% Geschmolzener Pilz 
+0.122% Eierstock des Landoktopus 
+0.122% Mirandapulver 
+0.122% Schwere Bestienknochen 
+0.122% Stinktopf 
+0.122% Dünne Bestienknochen 
+0.122% Frosttopf 
+0.122% Kristallknospe 
+0.122% Faden 
+0.122% Raureifrowa 
+0.122% Rowafrucht 
+0.122% Rowarosine 
+0.122% Scheibe Fleisch 
+0.122% Eingelegter Schildkrötenhals 
+0.122% Schwarmtopf 
+0.122% Erdenblattblume 
+0.122% Pilz 
+0.122% Krabbeneier 
+0.122% Befleckte goldene Sonnenblume 
+0.122% Parfümeursbolzen 
+0.122% Herba 
+0.122% Schimmersteinglühwurm 
+0.122% Klumpen Fleisch 
+0.122% Bestienleber 
+0.122% Goldschimmernder Kot 
+0.122% Goldene Sonnenblume 
+0.122% Weihwassertopf mit Kordel 
+0.122% Öltopf mit Kordel 
+0.122% Vulkantopf mit Kordel 
+0.122% Stinktopf mit Kordel 
+0.122% Schwarmtopf mit Kordel 
+0.122% Goldener Großpfeil 
+0.122% Goldener Pfeil 
+0.122% Goldrowa 
+0.122% Seuchenbolzen 
+0.122% Schildkrötenhals-Fleisch 
+0.128% [ERROR] 
+0.128% [ERROR]Erhabenes Fleisch 
+0.128% Zwischenlandrune 
+0.128% Drachenwundenfett 
+0.128% Schlaftopf 
+0.128% Schlaffett 
+0.128% Besseres Fleisch 
+0.128% Klärende Boli 
+0.128% Alter Reißzahn 
+0.128% Topf der heiligen Ordnung 
+0.128% Gräbertallilie [1] 
+0.128% Gräbertallilie [2] 
+0.128% Gräbertallilie [3] 
+0.128% Gräbertallilie [4] 
+0.128% Gräbertallilie [5] 
+0.128% Gräbertallilie [6] 
+0.128% Gräbertallilie [7] 
+0.128% Gräbertallilie [8] 
+0.128% Gräbertallilie [9] 
+0.128% Verlorene Kriegsasche 
+0.128% Dunkelschmiedestein [1] 
+0.128% Dunkelschmiedestein [2] 
+0.128% Dunkelschmiedestein [3] 
+0.128% Dunkelschmiedestein [4] 
+0.128% Dunkelschmiedestein [5] 
+0.128% Dunkelschmiedestein [6] 
+0.128% Dunkelschmiedestein [7] 
+0.128% Dunkelschmiedestein [8] 
+0.128% Dunkelschmiedestein [9] 
+0.128% Segen des Firmaments 
+0.128% Bestienköder-Topf 
+0.128% Erbauliches Aromat 
+0.128% Geräuchertes gesprenkeltes weißes Fleisch 
+0.128% Geräuchertes gesprenkeltes Fleisch 
+0.128% Verjüngende Boli 
+0.128% Scherbe eines lebenden Gefäßes 
+0.128% Wärmender Stein 
+0.128% Geistertallilie [1] 
+0.128% Geistertallilie [2] 
+0.128% Geistertallilie [3] 
+0.128% Geistertallilie [4] 
+0.128% Geistertallilie [5] 
+0.128% Geistertallilie [6] 
+0.128% Geistertallilie [7] 
+0.128% Geistertallilie [8] 
+0.128% Geistertallilie [9] 
+0.128% Blutkochendes Aromat 
+0.128% Geräuchertes weißes Fleisch der Klarheit 
+0.128% Geräuchertes Fleisch der Klarheit 
+0.128% Rasender Flammenstein 
+0.128% Albinauric-Topf 
+0.128% Refugiumstein 
+0.128% Silberner Federtierfuß 
+0.128% Goldener Federtierfuß 
+0.128% Fäulnistopf 
+0.128% Fäulnisfett 
+0.128% Bewahrende Boli 
+0.128% Sprießendes Horn 
+0.128% Gasstein 
+0.128% Verlockender Topf 
+0.128% Goldenes Glühwürmchen 
+0.128% Eisengefäß-Aromat 
+0.128% Silbertränenhülle 
+0.128% Silbernes Glühwürmchen 
+0.128% Schmiedestein [1] 
+0.128% Schmiedestein [2] 
+0.128% Schmiedestein [3] 
+0.128% Schmiedestein [4] 
+0.128% Schmiedestein [5] 
+0.128% Schmiedestein [6] 
+0.128% Schmiedestein [7] 
+0.128% Schmiedestein [8] 
+0.128% Schlaffett mit Kordel 
+0.128% Fäulnisfett mit Kordel 
+0.128% Sturmfalkenfeder 
+0.128% Betörender Ast 
+0.128% Gelbe Glut 
+0.128% Goldene Rune [10] 
+0.128% Goldene Rune [11] 
+0.128% Goldene Rune [12] 
+0.128% Goldene Rune [13] 
+0.128% Goldene Rune [6] 
+0.128% Goldene Rune [7] 
+0.128% Goldene Rune [8] 
+0.128% Goldene Rune [9] 

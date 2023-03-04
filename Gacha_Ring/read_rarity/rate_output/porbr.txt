@@ -1,0 +1,2009 @@
+0.024% Cinzas de Kristoff, Cavaleiro do Dragão Ancião 
+0.024% Cinzas de Finlay, Cavaleira da Podridão Imaculada 
+0.024% Cinzas de Lhutel, a Sem-Cabeça 
+0.024% Cinzas de Ogha, Cavaleiro da Juba Vermelha 
+0.024% Pequena Faca Negra 
+0.024% Garra Blasfema 
+0.024% Lembrança do Não Conformista 
+0.024% Lâmina Blasfema 
+0.024% Cinzas de Lágrima Imitadora 
+0.024% Chuva de Estrelas Fundadora 
+0.024% Espada Grande com Lâmina Enxertada 
+0.024% Cetro Real Cariano 
+0.024% Talismã do Velho Lorde 
+0.024% Pedra de Forja Dracônica Sombria 
+0.024% Pedra de Forja de Dragão Ancião 
+0.024% Cetro do Devorador 
+0.024% Espada da Noite e da Chama 
+0.024% Grande Lírio-do-Vale de Túmulo 
+0.024% Lírio-do-Vale Fantasma Grande 
+0.024% Coroa Crescente da Rainha 
+0.024% Braceletes da Rainha 
+0.024% Robe da Rainha 
+0.024% Perneiras da Rainha 
+0.024% Runa de Reparo da Ordem Perfeita 
+0.024% Grande Chifre Alado 
+0.024% Trança Ruiva do Gigante 
+0.024% Estrelas do Bastardo 
+0.024% Lança de Relâmpago de Fortissax 
+0.024% Bólido Escuro 
+0.024% Runa de Reparo da Maldição Derrotada 
+0.024% Lembrança do Príncipe do Agouro 
+0.024% Cinza da Guerra: Chacoalhador de Terra de Hoarah Loux 
+0.024% Cinza da Guerra: Ondas de Trevas 
+0.024% Rancor de Rykard 
+0.024% Armadura de Leão de Radahn 
+0.024% Armadura de Leão de Radahn (Leve) 
+0.024% Elmo de Juba Vermelha de Radahn 
+0.024% Grevas de Radahn 
+0.024% Manoplas de Radahn 
+0.024% Selo da Ferida de Radagon 
+0.024% Ícone de Radagon 
+0.024% Uva Dactilar 
+0.024% Lembrança do Enxertado 
+0.024% Dragão Enxertado 
+0.024% Grande Runa do Vindouro 
+0.024% Shotel do Eclipse 
+0.024% Ruína de Placidusax 
+0.024% Espada Grande da Lua Sombria 
+0.024% Anel da Lua Sombria 
+0.024% Rugido de Greyoll 
+0.024% Marca Amaldiçoada da Morte 
+0.024% Relâmpago da Morte 
+0.024% Runa de Reparo do Príncipe da Morte 
+0.024% Lembrança do Dragão Lich 
+0.024% Plêiades 
+0.024% Lembrança da Rainha da Lua Cheia 
+0.024% Espada Grande do Matador de Deuses 
+0.024% Arco Grande de Leão 
+0.024% Lâmina de Matador de Dedos 
+0.024% Aeonia Escarlate 
+0.024% Runa do Lorde 
+0.024% Criança Agouro Real 
+0.024% Elmo de Maliketh 
+0.024% Lâmina Negra de Maliketh 
+0.024% Grevas de Maliketh 
+0.024% Manoplas de Maliketh 
+0.024% Armadura de Maliketh 
+0.024% Armadura de Maliketh (Leve) 
+0.024% Martelo de Marika 
+0.024% Selo da Ferida de Marika 
+0.024% A Mão de Malenia 
+0.024% Grevas de Malenia 
+0.024% Manoplas de Malenia 
+0.024% Armadura de Malenia 
+0.024% Armadura de Malenia (Leve) 
+0.024% Elmo com Asas de Malenia 
+0.024% Espada de Carrasco de Marais 
+0.024% Luz Estelar Âmbar 
+0.024% Bebida de Âmbar 
+0.024% Espada Grande do Flagelo Estelar 
+0.024% Lembrança do Flagelo Estelar 
+0.024% Lembrança do Ancestral Real 
+0.024% Chifre de Espírito Ancestral 
+0.024% Espada Sagrada da Relíquia 
+0.024% Agulha de Miquella 
+0.024% Lembrança da Deusa da Podridão 
+0.024% Coroa do Lorde Prístino 
+0.024% Grevas do Lorde Prístino 
+0.024% Braçadeiras do Lorde Prístino 
+0.024% Armadura do Lorde Prístino 
+0.024% Armadura do Lorde Prístino (Leve) 
+0.024% Estrelas Prístinas 
+0.024% Lembrança do Prístino 
+0.024% Lembrança de Hoarah Loux 
+0.024% Lua Sombria de Ranni 
+0.024% Machado de Godfrey 
+0.024% Ícone de Godfrey 
+0.024% Machado de Godrick 
+0.024% Lança Sagrada de Mohgwyn 
+0.024% Espada Amaldiçoada de Morgott 
+0.024% Lua Cheia de Rennala 
+0.024% Lua de Nokstella 
+0.024% Memória da Graça 
+0.024% Espada Grande das Ruínas 
+0.024% Espada Grande da Ordem Áurea 
+0.024% Facas Negras 
+0.024% Lâmina Negra 
+0.024% Lembrança da Lâmina Negra 
+0.024% Lembrança do Bastardo 
+0.024% Talismã de Escudo Grande com Brasão de Dragão 
+0.024% Lâmina de Pedra do Rei Dragão 
+0.024% Lembrança do Lorde Dragão 
+0.031% [ERROR] 
+0.031% [ERROR] 
+0.031% [ERROR]Livro de Receitas do Armeiro (5) 
+0.031% [ERROR]Sino de Mercador Nômade [11] 
+0.031% [ERROR]Oração de Miranda 
+0.031% [ERROR] 
+0.031% [ERROR] 
+0.031% [ERROR] 
+0.031% [ERROR]Princípios da Ordem Áurea 
+0.031% Cinzas de Carmaan, Perfumista Caído 
+0.031% Oleg, Cavaleiro Banido 
+0.031% Cavaleiro Banido, Engvall 
+0.031% Marionete de Dolores, a Flecha Adormecida 
+0.031% Cinzas de Floh, Cavaleiro Cão de Caça 
+0.031% Martelo de Incêndio do Prelado 
+0.031% Cinquedea 
+0.031% Escuridão Eterna 
+0.031% Cajado de Pedrilhante de Azur 
+0.031% Mangas de Azur 
+0.031% Coroa Pedrilhante de Azur 
+0.031% Robe Pedrilhante de Azur 
+0.031% Entranhas de Alexander 
+0.031% Lâmina Lunar de Adula 
+0.031% Coroa Pedrilhante de Hierodas 
+0.031% Máscara Esquelética 
+0.031% Pote Cerimonial 
+0.031% Espada Reta Ornamental 
+0.031% Sino de Iji 
+0.031% Elmo de Espelho de Iji 
+0.031% Coroa de Enviado 
+0.031% Grande Chifre do Enviado 
+0.031% Chifre do Enviado 
+0.031% Chifre Comprido do Enviado 
+0.031% Mapa do Local de Encontro 
+0.031% Livro de Receitas do Missionário [1] 
+0.031% Livro de Receitas do Missionário [2] 
+0.031% Livro de Receitas do Missionário [3] 
+0.031% Livro de Receitas do Missionário [4] 
+0.031% Livro de Receitas do Missionário [5] 
+0.031% Livro de Receitas do Missionário [6] 
+0.031% Livro de Receitas do Missionário [7] 
+0.031% Lâmina do Chamado 
+0.031% Braceletes de Apóstolo da Pele Divina 
+0.031% Calças de Apóstolo da Pele Divina 
+0.031% Máscara de Consorte 
+0.031% Adaga Desgastada 
+0.031% Lágrima de Cristal Nó-de-Fé 
+0.031% Foice da Auréola 
+0.031% Máscara de Ouro Radiante 
+0.031% Testeira com Chifre Brilhante 
+0.031% Besta da Tecla Negra de Crepus 
+0.031% Gládio de Lansseax 
+0.031% Grande Martelo da Garra de Leão 
+0.031% Sino do Mascate de Carne 
+0.031% Sino do Mascate de Ossos 
+0.031% Machadinha Glacial 
+0.031% Livro de Orações do Assassino 
+0.031% Lágrima de Cristal Nó-de-Força 
+0.031% Cajado do Avatar 
+0.031% Elmo de Abóbora 
+0.031% Falange Cariana 
+0.031% Estátua Cariana Invertida 
+0.031% Espada de Cavaleiro Cariano 
+0.031% Escudo de Cavaleiro Cariano 
+0.031% Coroa Pedrilhante de Karolos 
+0.031% Cajado de Pedrilhante de Lusat 
+0.031% Mangas de Lusat 
+0.031% Coroa Pedrilhante de Lusat 
+0.031% Robe de Lusat 
+0.031% Livro de Orações dos Dois Dedos 
+0.031% Coroa Pedrilhante de Sábio Gêmeo 
+0.031% Escudo Gota de Pássaros Gêmeos 
+0.031% Frenesi Inescapável 
+0.031% Sino de Mercador Aprisionado 
+0.031% Dedo Não Conformista Fantasma 
+0.031% Garra de Fera de Gurranq 
+0.031% Pedra de Gurranq 
+0.031% Rancor da Morte Anciã 
+0.031% Faixas de Perna do Velho Feiticeiro 
+0.031% Livro de Receitas do Apóstolo do Dragão Ancião [1] 
+0.031% Livro de Receitas do Apóstolo do Dragão Ancião [2] 
+0.031% Livro de Receitas do Apóstolo do Dragão Ancião [3] 
+0.031% Livro de Receitas do Apóstolo do Dragão Ancião [4] 
+0.031% Livro de Orações do Dragão Ancião 
+0.031% Golpe de Relâmpago do Dragão Ancião 
+0.031% Lança de Relâmpago do Dragão Ancião 
+0.031% Sino Chamador de Aparição 
+0.031% Sino Chamador de Espíritos 
+0.031% Sopro de Pedrilhante de Smarag 
+0.031% Véu da Lua 
+0.031% Sino de Kalé 
+0.031% Tocha da Sentinela 
+0.031% Cachola Tagarela "Você é uma lindeza" 
+0.031% Lei da Regressão 
+0.031% Lei da Causalidade 
+0.031% Besta da Lua Cheia 
+0.031% Espada de Escama do Wyrm de Magma 
+0.031% Elmo da Coroa Sagrada 
+0.031% Lágrima Sagrada 
+0.031% Elmo da Árvore Sacra 
+0.031% Medalhão Secreto da Árvore Sacra (Direita) 
+0.031% Medalhão Secreto da Árvore Sacra (Esquerda) 
+0.031% Elmo de Cavaleiro da Árvore Sacra 
+0.031% Mapa: Platô Altus 
+0.031% Mapa: Liurnia, Leste 
+0.031% Mapa: Liurnia, Norte 
+0.031% Mapa: Liurnia, Oeste 
+0.031% Mapa: Campo de Neve Consagrado 
+0.031% Mapa: Península das Lágrimas 
+0.031% Mapa: Limgrave, Leste 
+0.031% Mapa: Limgrave, Oeste 
+0.031% Mapa: Rio Ainsel 
+0.031% Mapa: Montanha dos Gigantes, Leste 
+0.031% Mapa: Montanha dos Gigantes, Oeste 
+0.031% Mapa: Rio Siofra 
+0.031% Mapa: Monte Gelmir 
+0.031% Mapa: Abismos da Raiz Profunda 
+0.031% Mapa: Leyndell, Capital Real 
+0.031% Mapa: Caelid 
+0.031% Mapa: Lago da Podridão 
+0.031% Mapa: Palácio de Mohgwyn 
+0.031% Mapa: Fenda do Dragão 
+0.031% Roda de Ghiza 
+0.031% Canhão de Jarro 
+0.031% Jarro 
+0.031% Marionete de Jarro 
+0.031% Uivo de Shabriri 
+0.031% Uva Shabriri 
+0.031% Carapaça Grande 
+0.031% Lágrima Rachada com Espinhos 
+0.031% Grande Runa Fantasma 
+0.031% Elmo do Touro-Cabra 
+0.031% Grevas do Touro-Cabra 
+0.031% Manoplas do Touro-Cabra 
+0.031% Armadura do Touro-Cabra 
+0.031% Elmo da Sentinela da Árvore 
+0.031% Grevas da Sentinela da Árvore 
+0.031% Manoplas da Sentinela da Árvore 
+0.031% Armadura da Sentinela da Árvore 
+0.031% Armadura da Sentinela da Árvore (Leve) 
+0.031% Lança da Árvore 
+0.031% Caçador de Serpentes 
+0.031% Martelo com Grande Chifre 
+0.031% Capuz Grande 
+0.031% Garra Grande de Dragão 
+0.031% Sino do Minerador de Pedra Sombria [1] 
+0.031% Sino do Minerador de Pedra Sombria [2] 
+0.031% Sino do Minerador de Pedra Sombria [3] 
+0.031% Sino do Minerador de Pedra Sombria [4] 
+0.031% Sino do Minerador de Pedra Sombria [5] 
+0.031% Mangas de Excêntrico 
+0.031% Armadura de Excêntrico 
+0.031% Calções de Excêntrico 
+0.031% Capuz de Excêntrico 
+0.031% Capuz de Excêntrico (Alterada) 
+0.031% Torrente de Cristal 
+0.031% Coroa Pedrilhante de Olivinus 
+0.031% Espada Grande de Ordovis 
+0.031% Prótese de Valquíria 
+0.031% Pergaminho da Academia 
+0.031% Elmo Gêmeo 
+0.031% Grevas Gêmeas 
+0.031% Manoplas Gêmeas 
+0.031% Armadura Gêmea 
+0.031% Armadura Gêmea (Leve) 
+0.031% Traje de Guardião (Florescer Completo) 
+0.031% Capa de Guardião de Tumba 
+0.031% Capa de Guardião de Tumba (Alterada) 
+0.031% Chave do Quarto de Hóspedes 
+0.031% Cabeças de Família 
+0.031% Castiçal Craniano 
+0.031% Elmo da Podridão Imaculada 
+0.031% Elmo da Podridão Imaculada (Leve) 
+0.031% Lança de Cavaleiro da Podridão Imaculada 
+0.031% Grevas da Podridão Imaculada 
+0.031% Manoplas da Podridão Imaculada 
+0.031% Armadura da Podridão Imaculada 
+0.031% Armadura da Podridão Imaculada (Leve) 
+0.031% Cabeça de Demônio (Com Presas) 
+0.031% Cabeça de Demônio (Lobo) 
+0.031% Cabeça de Demônio (Gato) 
+0.031% Cabeça de Demônio (Língua) 
+0.031% Cabeça de Demônio (Corpo) 
+0.031% Cabeça de Demônio (Ancião) 
+0.031% Foice Alada 
+0.031% Martelo de Troll 
+0.031% Espada de Cavaleiro Troll 
+0.031% Lágrima Rachada com Espinhos de Pedra 
+0.031% Kit de Produção 
+0.031% Selo do Gigante 
+0.031% Livro de Orações do Gigante 
+0.031% Falange de Lâmina Grande 
+0.031% Clava Imensa 
+0.031% Estrelas Grandes 
+0.031% Grevas de Blaidd 
+0.031% Manoplas de Blaidd 
+0.031% Armadura de Blaidd 
+0.031% Armadura de Blaidd (Leve) 
+0.031% Sino de Patches 
+0.031% Cometa 
+0.031% Lágrima Rachada Envolvida por Santidade 
+0.031% Lágrima Rachada Envolvida por Chamas 
+0.031% Lágrima Rachada Envolvida por Eletricidade 
+0.031% Magma de Theodorix 
+0.031% Grande Crânio de Festival 
+0.031% Elmo de Dragão Malformado 
+0.031% Grevas de Dragão Malformado 
+0.031% Manoplas de Dragão Malformado 
+0.031% Armadura de Dragão Malformado 
+0.031% Grevas de Junco Branco 
+0.031% Manoplas de Junco Branco 
+0.031% Armadura de Junco Branco 
+0.031% Elmo de Agouro 
+0.031% Grevas de Agouro 
+0.031% Manoplas de Agouro 
+0.031% Armadura de Agouro 
+0.031% Árvore de Siluria 
+0.031% Capa do Agouro Caído 
+0.031% Criança Agouro 
+0.031% Rollo, Assassino de Agouros 
+0.031% Máscara de Sorriso do Agouro 
+0.031% Dedo com Anel 
+0.031% Hugues, Mago de Batalha 
+0.031% Escaravelho de Cinzas da Guerra 
+0.031% Cinza da Guerra: Investida do Prelado 
+0.031% Cinza da Guerra: Grandeza Cariana 
+0.031% Cinza da Guerra: Determinação do Cavaleiro Real 
+0.031% Cinza da Guerra: Ordem Compartilhada 
+0.031% Cinza da Guerra: Solo Sagrado 
+0.031% Cinza da Guerra: Punho Ladrão de Vida 
+0.031% Cinza da Guerra: Rugido do Troll 
+0.031% Cinza da Guerra: Lâmina de Pedra 
+0.031% Cinza da Guerra: Corte Fantasma 
+0.031% Cinza da Guerra: Barreira de Thops 
+0.031% Cinza da Guerra: Ave de Rapina das Brumas 
+0.031% Cinza da Guerra: Caça de Gigantes 
+0.031% Cinza da Guerra: Passo do Cão de Caça 
+0.031% Cinza da Guerra: Isca de Sombra Branca 
+0.031% Cinza da Guerra: Corte de Vácuo 
+0.031% Cinza da Guerra: Presa Perfurante 
+0.031% Cinza da Guerra: Chuva de Flechas 
+0.031% Cinza da Guerra: Corte de Loretta 
+0.031% Cinza da Guerra: Gravitas 
+0.031% Cinza da Guerra: Rugido da Fera 
+0.031% Cinza da Guerra: Pancada Dourada 
+0.031% Cinza da Guerra: Terra Dourada 
+0.031% Cinza da Guerra: Voto Dourado 
+0.031% Cinza da Guerra: Aparagem Dourada 
+0.031% Cinza da Guerra: Tornado de Chama Negra 
+0.031% Elmo de Lobo Feroz 
+0.031% Grevas de Lobo Feroz 
+0.031% Manoplas de Lobo Feroz 
+0.031% Armadura de Lobo Feroz 
+0.031% Armadura de Lobo Sangrento (Leve) 
+0.031% Barreira de Thops 
+0.031% Sino de Thops 
+0.031% Espada de Sta. Trina 
+0.031% Tocha de Sta. Trina 
+0.031% Bolsa de Talismã 
+0.031% Coroa Pedrilhante de Lazuli 
+0.031% Véu de Mímico 
+0.031% Castiçal do Inquisidor 
+0.031% Marionete de Therolina, Donzela dos Dedos 
+0.031% Elmo de Brasão de Dedo 
+0.031% Grevas de Brasão de Dedo 
+0.031% Manoplas de Brasão de Dedo 
+0.031% Armadura de Brasão de Dedo 
+0.031% Armadura de Brasão de Dedo (Leve) 
+0.031% Escudo de Pedra com Brasão de Dedo 
+0.031% Chamado de Tibia 
+0.031% Lampião 
+0.031% Osso Pegajoso 
+0.031% Pergaminho de Conspecto 
+0.031% Bilhete: O Lorde da Chama Frenética 
+0.031% Bilhete: Agulha de Miquella 
+0.031% Lágrima Maciça Salpicada 
+0.031% Elmo de Duelista 
+0.031% Grevas de Duelista 
+0.031% Decepadora de Dedos 
+0.031% Escudo de Chifre Espiral 
+0.031% Escudo Grande do Brasão de Eclipse 
+0.031% Glaive da Praga 
+0.031% Mandíbula de Fera da Estrela Cadente 
+0.031% Orvalho Celestial 
+0.031% Lágrima de Cristal Nó-de-Inteligência 
+0.031% Capuz Carmesin 
+0.031% Telescópio 
+0.031% Sino de Corhyn 
+0.031% Sino de Gowry 
+0.031% Fúria de Gelmir 
+0.031% Buquê de Varré 
+0.031% Regalia de Eochaid 
+0.031% Livro de Receitas do Armeiro [1] 
+0.031% Livro de Receitas do Armeiro [2] 
+0.031% Livro de Receitas do Armeiro [3] 
+0.031% Livro de Receitas do Armeiro [4] 
+0.031% Livro de Receitas do Armeiro [5] 
+0.031% Livro de Receitas do Armeiro [6] 
+0.031% Livro de Receitas do Armeiro [7] 
+0.031% Lança do Ritual da Morte 
+0.031% Atiçador da Morte 
+0.031% Raízes da Morte 
+0.031% Vestido do Leito de Morte 
+0.031% Alabarda Ondulada da Lua Crescente 
+0.031% Sino de Pidia 
+0.031% Escudo de Água-Viva 
+0.031% Livro de Receitas do Fevor [1] 
+0.031% Livro de Receitas de Fevor [2] 
+0.031% Livro de Receitas de Fevor [3] 
+0.031% Lâmina Ondulada 
+0.031% Carta de Zorayas 
+0.031% Medalhão dos Rolds 
+0.031% Machado de Sacrifício 
+0.031% Chuva de Estrelas 
+0.031% Sino de Arruaceiro 
+0.031% Espada Curva do Riacho 
+0.031% Sino de Mercador Nômade [1] 
+0.031% Sino de Mercador Nômade [10] 
+0.031% Sino de Mercador Nômade [2] 
+0.031% Sino de Mercador Nômade [3] 
+0.031% Sino de Mercador Nômade [4] 
+0.031% Sino de Mercador Nômade [5] 
+0.031% Sino de Mercador Nômade [6] 
+0.031% Sino de Mercador Nômade [7] 
+0.031% Sino de Mercador Nômade [8] 
+0.031% Sino de Mercador Nômade [9] 
+0.031% Livro de Receitas do Guerreiro Nômade [1] 
+0.031% Livro de Receitas do Guerreiro Nômade [10] 
+0.031% Livro de Receitas do Guerreiro Nômade [11] 
+0.031% Livro de Receitas do Guerreiro Nômade [12] 
+0.031% Livro de Receitas do Guerreiro Nômade [13] 
+0.031% Livro de Receitas do Guerreiro Nômade [14] 
+0.031% Livro de Receitas do Guerreiro Nômade [15] 
+0.031% Livro de Receitas do Guerreiro Nômade [16] 
+0.031% Livro de Receitas do Guerreiro Nômade [17] 
+0.031% Livro de Receitas do Guerreiro Nômade [18] 
+0.031% Livro de Receitas do Guerreiro Nômade [19] 
+0.031% Livro de Receitas do Guerreiro Nômade [2] 
+0.031% Livro de Receitas do Guerreiro Nômade [20] 
+0.031% Livro de Receitas do Guerreiro Nômade [21] 
+0.031% Livro de Receitas do Guerreiro Nômade [22] 
+0.031% Livro de Receitas do Guerreiro Nômade [23] 
+0.031% Livro de Receitas do Guerreiro Nômade [24] 
+0.031% Livro de Receitas do Guerreiro Nômade [3] 
+0.031% Livro de Receitas do Guerreiro Nômade [4] 
+0.031% Livro de Receitas do Guerreiro Nômade [5] 
+0.031% Livro de Receitas do Guerreiro Nômade [6] 
+0.031% Livro de Receitas do Guerreiro Nômade [7] 
+0.031% Livro de Receitas do Guerreiro Nômade [8] 
+0.031% Livro de Receitas do Guerreiro Nômade [9] 
+0.031% Enigma da Miragem 
+0.031% Malho de Haima 
+0.031% Canhão de Haima 
+0.031% Coroa Pedrilhante de Haima 
+0.031% Marionete de Nepheli Loux 
+0.031% Lágrima de Cristal Rajada de Carmesim 
+0.031% Lágrima de Cristal Rajada de Verde 
+0.031% Capuz Azul-Marinho 
+0.031% Maldição do Alfobre 
+0.031% Arco com Polia 
+0.031% Besta com Polia 
+0.031% Lâmina de Amolar Preta 
+0.031% Lágrima de Cristal Transbordando Carmesim 
+0.031% Lágrima de Cristal Transbordando Verde 
+0.031% Convite da Mansão Vulcânica 
+0.031% Espada de Milos 
+0.031% Sino do Catador de Lírio-do-Vale Fantasma [1] 
+0.031% Sino do Catador de Lírio-do-Vale Fantasma [2] 
+0.031% Sino do Catador de Lírio-do-Vale Fantasma [3] 
+0.031% Lágrima de Cristal Nó-de-Destreza 
+0.031% Tocha de Chama Espectral 
+0.031% Lâmina de Amolar Vermelha 
+0.031% Pista do Entalhe de Faca 
+0.031% Escudo Fumegante 
+0.031% Lâmina de Magma 
+0.031% Castiçal do Chicote de Magma 
+0.031% Elmo de Machado do Crisol 
+0.031% Armadura de Machado do Crisol 
+0.031% Armadura de Machado do Crisol (Leve) 
+0.031% Elmo de Árvore do Crisol 
+0.031% Armadura de Árvore do Crisol 
+0.031% Armadura de Árvore do Crisol (Leve) 
+0.031% Grevas do Crisol 
+0.031% Manoplas do Crisol 
+0.031% Escudo de Chifre do Crisol 
+0.031% Cristal Estilhaçado 
+0.031% Selo da Marca de Garra 
+0.031% Selo do Matador de Deuses 
+0.031% Escudo de Um Olho 
+0.031% Presa do Cão de Caça 
+0.031% Garras de Rapina 
+0.031% Penas Negras de Ave de Rapina 
+0.031% Fortificação Divina do Lorde 
+0.031% Regeneração do Lorde 
+0.031% Cura do Lorde 
+0.031% Pergaminho da Casa Real 
+0.031% Espada Grande Real 
+0.031% Elmo de Restos Reais 
+0.031% Grevas de Restos Reais 
+0.031% Manoplas de Restos Reais 
+0.031% Armadura de Restos Reais 
+0.031% Algema de Margit 
+0.031% Máscara de Marais 
+0.031% Névoa de Borealis 
+0.031% Bolha de Lágrima Opala 
+0.031% Lágrima Maciça Opala 
+0.031% Quebra-Selo Selliano 
+0.031% Segredo de Sellia 
+0.031% Pedrilhante Primordial de Sellen 
+0.031% Sino de Sellen 
+0.031% Selo da Chama Frenética 
+0.031% Espada do Lorde de Alabastro 
+0.031% Latenna, a Albináurica 
+0.031% Máscara Albináurica 
+0.031% Escudo-Espelho de Prata 
+0.031% Máscara Branca 
+0.031% Elmo do Sabe-Tudo 
+0.031% Cetro do Sabe-Tudo 
+0.031% Grevas do Sabe-Tudo 
+0.031% Manoplas do Sabe-Tudo 
+0.031% Armadura do Sabe-Tudo 
+0.031% Armadura do Sabe-Tudo (Leve) 
+0.031% Escudo da Cobra 
+0.031% Báculo de Cão de Guarda 
+0.031% Lâmina Negra da Gárgula 
+0.031% Chave de Espada de Pedra 
+0.031% Faca de Amolação 
+0.031% Estrelas em Colapso 
+0.031% Selo de Pedra de Cascalho 
+0.031% Robe de Apóstolo da Pele Divina 
+0.031% Capuz de Apóstolo da Pele Divina 
+0.031% Livro de Orações da Pele Divina 
+0.031% Robe de Nobre da Pele Divina 
+0.031% Capuz de Nobre da Pele Divina 
+0.031% Escaravelho da Oração 
+0.031% Elmo de Cavaleiro Real 
+0.031% Grevas de Cavaleiro Real 
+0.031% Manoplas de Cavaleiro Real 
+0.031% Armadura de Cavaleiro Real 
+0.031% Armadura de Cavaleiro Real (Leve) 
+0.031% Espada com Códigos 
+0.031% Pata com Cifras 
+0.031% Runa de Numen 
+0.031% Antiga Cabeça de Infante 
+0.031% Arco de Harpa 
+0.031% Espada de Cavaleiro de Miquella 
+0.031% Sino de Miriel 
+0.031% Espada Inseparável 
+0.031% Bolha de Lágrima Carmesim 
+0.031% Bolha de Lágrima Espiral Carmesim 
+0.031% Escaravelho da Lágrima Carmesim 
+0.031% Lágrima Rachada Ramosa 
+0.031% Agulha Congelada 
+0.031% Espada de Cristal 
+0.031% Cajado de Cristal 
+0.031% Lança de Cristal 
+0.031% Pintura "Pássaro Sem Voo" 
+0.031% Pintura "Ressurreição" 
+0.031% Pintura "Instinto de Regresso ao Lar" 
+0.031% Pintura "Juba Vermelha" 
+0.031% Pintura "Música do Campeão" 
+0.031% Pintura "Profecia" 
+0.031% Pintura "Feiticeiro" 
+0.031% Carta para Patches 
+0.031% Carta para Bernahl 
+0.031% Lança de Guerra de Vyke 
+0.031% Seta de Dragão de Vyke 
+0.031% Carta de Rogier 
+0.031% Sino de Rogier 
+0.031% Machado de Rosus 
+0.031% Arco Grande de Loretta 
+0.031% Foice de Guerra de Loretta 
+0.031% Maestria de Loretta 
+0.031% Escudo do Culpado 
+0.031% Livro de Receitas do Frenético [1] 
+0.031% Livro de Receitas do Frenético [2] 
+0.031% Lágrima de Cristal Alada 
+0.031% Elmo de Veterano 
+0.031% Prótese de Veterano 
+0.031% Estandarte do Comandante 
+0.031% Grevas de Veterano 
+0.031% Manoplas de Veterano 
+0.031% Armadura de Veterano 
+0.031% Armadura de Veterano (Leve) 
+0.031% Máscara de Okina 
+0.031% Elmo do Campeão Bestial 
+0.031% Grevas do Campeão Bestial 
+0.031% Manoplas do Campeão Bestial 
+0.031% Armadura do Campeão Bestial 
+0.031% Armadura do Campeão Bestial (Leve) 
+0.031% Faca de Dissecação 
+0.031% Cajado Apodrecido 
+0.031% Manto de Duelista Apodrecido 
+0.031% Capa Podre de Guardião de Tumba (Leve) 
+0.031% Elmo de Duelista Apodrecido 
+0.031% Grevas de Duelista Apodrecido 
+0.031% Espada de Cristal Apodrecida 
+0.031% Cajado de Cristal Apodrecido 
+0.031% Lança de Cristal Apodrecida 
+0.031% Asa de Astel 
+0.031% Meteorito de Astel 
+0.031% Decadência de Ekzykes 
+0.031% Lança Cortante de Eleonora 
+0.031% Sino do Mascate de Remédio 
+0.031% Runa do Herói [1] 
+0.031% Runa do Herói [2] 
+0.031% Runa do Herói [3] 
+0.031% Runa do Herói [4] 
+0.031% Runa do Herói [5] 
+0.031% Elmo de Lionel 
+0.031% Grevas de Lionel 
+0.031% Manoplas de Lionel 
+0.031% Armadura de Lionel 
+0.031% Armadura de Lionel (Leve) 
+0.031% Neblina da Fia 
+0.031% Tempestade de Gelo de Zamor 
+0.031% Espada Curva de Zamor 
+0.031% Faixas de Perna de Zamor 
+0.031% Braceletes de Zamor 
+0.031% Armadura de Zamor 
+0.031% Máscara de Zamor 
+0.031% Sino de Gostoc 
+0.031% Algema de Mohg 
+0.031% Lágrima Oculta Cerúlea 
+0.031% Escaravelho da Lágrima Cerúlea 
+0.031% Coroa de Cogumelo 
+0.031% Rapieira de Espinha de Formiga 
+0.031% Chapa de Crânio de Formiga 
+0.031% Arco de Serpente 
+0.031% Âmnio da Serpente 
+0.031% Espada Curva do Deus-Serpente 
+0.031% Lâmina de Osso de Serpente 
+0.031% Lembrança de Crisálidas 
+0.031% Ferrão de Escorpião 
+0.031% Chave do Palácio Descartada 
+0.031% Ferramentas de Alfaiataria 
+0.031% Dedo Enrugado do Maculado 
+0.031% Sino de Mercador Abandonado 
+0.031% Arco de Chifre 
+0.031% Pedra de Memória 
+0.031% Espada Fluida de Nox 
+0.031% Martelo do Fluxo de Nox 
+0.031% Elmo de Espelho de Nox 
+0.031% Cinzas da Perfumista Tricia 
+0.031% Livro de Receitas do Perfumista [1] 
+0.031% Livro de Receitas do Perfumista [2] 
+0.031% Livro de Receitas do Perfumista [3] 
+0.031% Livro de Receitas do Perfumista [4] 
+0.031% Frasco de Perfume 
+0.031% Sino de Bernahl 
+0.031% Sarças da Punição 
+0.031% Braceletes de Nobre da Pele Divina 
+0.031% Introdução de Seluvis 
+0.031% Poção de Seluvis 
+0.031% Sino de Seluvis 
+0.031% Campanário de Helphen 
+0.031% Urumi 
+0.031% Kris Pedrilhante 
+0.031% Livro de Receitas do Artesão de Pedrilhante [1] 
+0.031% Livro de Receitas do Artesão de Pedrilhante [2] 
+0.031% Livro de Receitas do Artesão de Pedrilhante [3] 
+0.031% Livro de Receitas do Artesão de Pedrilhante [4] 
+0.031% Livro de Receitas do Artesão de Pedrilhante [5] 
+0.031% Livro de Receitas do Artesão de Pedrilhante [6] 
+0.031% Livro de Receitas do Artesão de Pedrilhante [7] 
+0.031% Livro de Receitas do Artesão de Pedrilhante [8] 
+0.031% Fragmento de Cometa Pedrilhante 
+0.031% Lâmina de Amolar Pedrilhante 
+0.031% Escaravelho Pedrilhante 
+0.031% Lágrima Rachada Espinhosa 
+0.031% Medalhão de Dectus (Direita) 
+0.031% Medalhão de Dectus (Esquerda) 
+0.031% Chama Espectral Explosiva 
+0.031% Reduvia 
+0.031% Bênção Radiante do Baldaquino 
+0.031% Sino de Mercador Eremita [1] 
+0.031% Sino de Mercador Eremita [2] 
+0.031% Sino de Mercador Eremita [3] 
+0.031% Tônico do Esquecimento 
+0.031% Sino do Mascate de Pedras da Gravidade 
+0.031% Olho de Fera 
+0.031% Braceletes de Ouro 
+0.031% Faixa de Cintura de Ouro 
+0.031% Trapos da Máscara de Ouro 
+0.031% Tocha de Fio de Aço 
+0.031% Lâmina de Amolar de Ferro 
+0.031% Elmo de Espinhos 
+0.031% Grevas de Espinhos 
+0.031% Manoplas de Espinhos 
+0.031% Armadura de Espinhos 
+0.031% Armadura de Espinhos (Leve) 
+0.031% Kasa de Ferro 
+0.031% Lâmina da Estrela Cadente 
+0.031% Sino do Catador de Lírio-do-Vale [1] 
+0.031% Sino do Catador de Lírio-do-Vale [2] 
+0.031% Sino do Catador de Lírio-do-Vale [3] 
+0.031% Lágrima Maciça de Chumbo 
+0.031% Máscara de Lágrima Prateada 
+0.031% Sino do Minerador de Pedra de Forja [1] 
+0.031% Sino do Minerador de Pedra de Forja [2] 
+0.031% Sino do Minerador de Pedra de Forja [3] 
+0.031% Sino do Minerador de Pedra de Forja [4] 
+0.031% Robe de Alberich 
+0.031% Robe de Alberich (Leve) 
+0.031% Chapéu Pontudo de Alberich 
+0.031% Chapéu Pontudo de Alberich (Leve) 
+0.031% Mangas de Alberich 
+0.031% Calças de Alberich 
+0.031% Máscara da Confiança 
+0.031% Sino de Mercador Isolado [1] 
+0.031% Sino de Mercador Isolado [2] 
+0.031% Sino de Mercador Isolado [3] 
+0.031% Frenesi Insuportável 
+0.031% Chapéu de Bruxa da Neve 
+0.031% Robe de Bruxa da Neve 
+0.031% Traje de Bruxa da Neve (Leve) 
+0.031% Saia de Bruxa da Neve 
+0.031% Elmo de Hoslow 
+0.031% Grevas de Hoslow 
+0.031% Manoplas de Hoslow 
+0.031% Chicote de Pétalas de Hoslow 
+0.031% Armadura de Hoslow 
+0.031% Armadura de Hoslow (Leve) 
+0.031% Máscara de Governante 
+0.031% Escudo da Face 
+0.031% O Rei Falcão da Tempestade 
+0.031% Machado de Falcão da Tempestade 
+0.031% Falcão da Tempestade Deenh 
+0.031% Lágrima de Cristal Ventosa 
+0.031% Liberação de Cristal 
+0.031% Marionete do Comedor de Estrume 
+0.031% Tocha Repelente de Feras 
+0.031% Coroa Pedrilhante da Bruxa 
+0.031% Terra Mágica 
+0.031% Chapéu Pontudo de Espadamago 
+0.031% Luvas de Espadamago 
+0.031% Traje de Viagem de Espadamago 
+0.031% Traje de Viagem de Espadamago (Leve) 
+0.031% Calças de Espadamago 
+0.031% Chapéu Grande de Preceptor 
+0.031% Luvas de Preceptor 
+0.031% Traje Longo de Preceptor 
+0.031% Robe Longo de Professor (Leve) 
+0.031% Calças de Preceptor 
+0.031% Chave de Espada Imbuída 
+0.031% Carta Vermelha 
+0.031% Elmo de Escamas 
+0.031% Grevas de Escamas 
+0.031% Manoplas de Escamas 
+0.031% Armadura de Escamas 
+0.031% Armadura de Escamas (Leve) 
+0.031% A Fúria do Ouro 
+0.031% Epitáfio Dourado 
+0.031% Princípios da Ordem Áurea 
+0.031% Selo da Ordem Áurea 
+0.031% Alabarda Dourada 
+0.031% Códice da Térvore 
+0.031% Selo da Térvore 
+0.031% Arco Grande da Térvore 
+0.031% Escudo Grande da Térvore 
+0.031% Proteção da Térvore 
+0.031% Arco da Térvore 
+0.031% Cura da Térvore 
+0.031% Bênção da Térvore 
+0.031% Livro de Orações da Térvore 
+0.031% Semente Dourada 
+0.031% Agulha de Costura de Ouro 
+0.031% Ferramentas de Alfaiataria de Ouro 
+0.031% Entalhe de Faca Negra 
+0.031% Grevas de Faca Negra 
+0.031% Manoplas de Faca Negra 
+0.031% Armadura de Faca Negra 
+0.031% Armadura de Faca Negra (Leve) 
+0.031% Capuz de Faca Negra 
+0.031% Marionetes de Donzelas da Noite e Espadachim 
+0.031% Saco Preto 
+0.031% Arco Negro 
+0.031% Cinzas de Amon, Monge da Chama Negra 
+0.031% Ritual da Chama Negra 
+0.031% Máscara de Lobo Preto 
+0.031% Espada Grande do Lorde de Ônix 
+0.031% Livro de Orações do Culto do Dragão 
+0.031% Coração de Dragão 
+0.031% Alabarda de Dragão 
+0.031% Escudo de Garra de Dragão 
+0.031% Selo da Comunhão do Dragão 
+0.031% Elmo de Cavaleiro Draco 
+0.031% Elmo de Cavaleiro Draco (Leve) 
+0.031% Grevas de Cavaleiro Draco 
+0.031% Manoplas de Cavaleiro Draco 
+0.031% Armadura de Cavaleiro Draco 
+0.031% Armadura de Cavaleiro Draco (Leve) 
+0.031% Lâmina de Escama de Dragão 
+0.031% Pote Rachado 
+0.031% Sino de D 
+0.037% [ERROR]Cordão Umbilical Entrelaçado 
+0.037% Arrependimento extremo 
+0.037% Oração desesperada 
+0.037% Espelho Falso do Anfitrião 
+0.037% Deleite triunfante 
+0.037% Herança de Usuário de Prótese 
+0.037% Fragmento de Alexander 
+0.037% Pela Minha Espada 
+0.037% Amuleto de Arsenal 
+0.037% Talismã de Tela do Fiel 
+0.037% Amuleto de Chifre Robusto 
+0.037% Frasco de Crepus 
+0.037% Amuleto de Chifre Imunizante 
+0.037% Grito encorajador 
+0.037% Ordem interna 
+0.037% Acalme-se! 
+0.037% Espelho Falso do Dedo Enrolado 
+0.037% Brasão de Filigrana Cariano 
+0.037% Jarro Companheiro 
+0.037% Talismã de Lâminas-Gêmeas 
+0.037% Herança de Dois Dedos 
+0.037% Aponta para cima 
+0.037% Aponta para baixo 
+0.037% Aponta para a frente 
+0.037% Meu Lorde 
+0.037% Medalhão do Rugido 
+0.037% Talismã de Escorpião Sagrado 
+0.037% Talismã de Draco Sagrado 
+0.037% Pesar de Shabriri 
+0.037% Ordem externa 
+0.037% Arsenal do Grande Jarro 
+0.037% Relaxar 
+0.037% Talismã do Touro-Cabra 
+0.037% Talismã de Martelo 
+0.037% Talismã de Escudo Grande 
+0.037% Cabeça 
+0.037% Como desejar 
+0.037% Mesura 
+0.037% Agachamento de Patches 
+0.037% Insígnia de Espada Alada 
+0.037% Pular de alegria 
+0.037% Estalo de dedo 
+0.037% Desarmado 
+0.037% Êxtase 
+0.037% Talismã de Orvalho Abençoado 
+0.037% Reverência Cortês 
+0.037% Fragmento de Jarro Guerreiro 
+0.037% Saudação casual 
+0.037% Selo da Cicatriz de Radagon 
+0.037% Bravo! 
+0.037% Acenar 
+0.037% Camafeu do Saqueador 
+0.037% Sentando de lado 
+0.037% Curvar-se 
+0.037% Colar Manchado 
+0.037% Talismã de Machado 
+0.037% Talismã de Espada Curva 
+0.037% O Que Você Quer? 
+0.037% Adaga de Assassino Carmesim 
+0.037% Adaga de Assassino Cerúlea 
+0.037% Grito de guerra 
+0.037% Boas-vindas calorosas 
+0.037% Cisto do Príncipe da Morte 
+0.037% Pústula do Príncipe da Morte 
+0.037% Implorar por misericórdia 
+0.037% Desânimo 
+0.037% Erudição 
+0.037% Lâmina de Pedrilhante Primordial 
+0.037% Talismã de Escorpião de Fogo 
+0.037% Talismã de Draco de Fogo 
+0.037% Aceno com a cabeça 
+0.037% Talismã de Nó do Crisol 
+0.037% Talismã de Pena do Crisol 
+0.037% Talismã de Escama do Crisol 
+0.037% Pesar de Daedicar 
+0.037% Talismã de Espada de Ritual 
+0.037% Talismã de Escudo de Ritual 
+0.037% Selo da Cicatriz de Marika 
+0.037% Talismã de Draco de Pérola 
+0.037% Amuleto de Chifre de Clarificação 
+0.037% Força! 
+0.037% Pernas cruzadas 
+0.037% Cochilar de pernas cruzadas 
+0.037% Talismã de Lança 
+0.037% Talismã de Adaga 
+0.037% Talismã do Pungir da Flecha 
+0.037% Herança do Flagelo Estelar 
+0.037% Reza 
+0.037% Bandagem da Pele Divina 
+0.037% Descansar 
+0.037% Espere! 
+0.037% Prótese de Millicent 
+0.037% Talismã de Semente Carmesim 
+0.037% Espada de Ramo com Penas Vermelhas 
+0.037% Medalhão de Âmbar Viridiano 
+0.037% Talismã de Tartaruga Verde 
+0.037% Enrolar-se 
+0.037% Talismã de Tela do Bando 
+0.037% Exultação do Companheiro da Podridão 
+0.037% Insígnia de Espada Alada Apodrecida 
+0.037% Braços 
+0.037% Pernas 
+0.037% Meus agradecimentos 
+0.037% Medalhão de Âmbar Cerúleo 
+0.037% Talismã de Semente Cerúlea 
+0.037% Espada de Ramo com Penas Azuis 
+0.037% Talismã de Dançarino Azul 
+0.037% Herança de Observador de Estrelas 
+0.037% Talismã do Perfumista 
+0.037% Corpo 
+0.037% Giro elegante 
+0.037% Aceno 
+0.037% Talismã de Alcance de Flecha 
+0.037% Curvar-se educadamente 
+0.037% Escaravelho de Ouro 
+0.037% Talismã de Garra 
+0.037% Escaravelho de Prata 
+0.037% Talismã de Gato de Cauda Longa 
+0.037% Véu Ocultador 
+0.037% Talismã de Escorpião Elétrico 
+0.037% Talismã de Draco Elétrico 
+0.037% Juramento de Hoslow 
+0.037% Talismã de Lança de Cavalaria 
+0.037% Talismã da Massa da Pedra 
+0.037% Talismã da Escola da Pedra 
+0.037% Totalidade da Ordem Áurea 
+0.037% Bênção da Térvore 
+0.037% Talismã de Escudo com Brasão de Dragão 
+0.043% [ERROR] 
+0.043% Roupas de Pajem Maior 
+0.043% Roupas de Pajem Maior (Leves) 
+0.043% Capuz de Pajem Maior 
+0.043% Cajado da Perda 
+0.043% Lâmina Cintilante do Monge 
+0.043% Maça Cintilante do Monge 
+0.043% Cajado da Rainha Semi-Humana 
+0.043% Escudo Torre da Árvore Cruzada 
+0.043% Escudo de Madeira Gasto 
+0.043% Escudo de Couro Gasto 
+0.043% Escudo de Jarro de Homem-Fera 
+0.043% Espada Grande Curva de Homem-Fera 
+0.043% Espada Curva de Homem-Fera 
+0.043% Clava com Espinhos 
+0.043% Escudo Radiador com Brasão de Fera 
+0.043% Escudo Dourado com Brasão de Fera 
+0.043% Escudo do Brasão de Gelo 
+0.043% Espada Grande Bifurcada 
+0.043% Foice Bifurcada 
+0.043% Estoque 
+0.043% Glaive 
+0.043% Espada Curva do Ladrão de Túmulos 
+0.043% Adaga 
+0.043% Naginata em Cruz 
+0.043% Picareta 
+0.043% Escudo Precário 
+0.043% Faca Grande 
+0.043% Cajado de Espadrilhante Cariano 
+0.043% Cajado Cariano de Pedrilhante 
+0.043% Lâminas-Gêmeas 
+0.043% Zweihänder 
+0.043% Escudo Grande de Cavaleiro 
+0.043% Espada Grande do Lorde 
+0.043% Escudo Grande de Madeira 
+0.043% Espada Reta do Lorde 
+0.043% Escudo Redondo 
+0.043% Escudo de Madeira com Inscrições 
+0.043% Escudo Grande do Brasão da Árvore Sacra 
+0.043% Escudo Torre de Mansão 
+0.043% Foice do Túmulo 
+0.043% Besta do Soldado 
+0.043% Arco Composto 
+0.043% Claymore 
+0.043% Arco Grande 
+0.043% Clava Grande 
+0.043% Escudo de Couro Grande 
+0.043% Grande Épée 
+0.043% Foice 
+0.043% Escudo do Reino do Sol 
+0.043% Espada Grande de Cavaleiro Banido 
+0.043% Alabarda de Cavaleiro Banido 
+0.043% Escudo do Cavaleiro Banido 
+0.043% Cajado de Pedrilhante da Academia 
+0.043% Espada-Lança do Guardião 
+0.043% Espada de Cavaleiro da Podridão Imaculada 
+0.043% Elmo de Soldado de Infantaria 
+0.043% Broquel 
+0.043% Espada Dourada de Troll 
+0.043% Espada Curva de Bandido 
+0.043% Espada Grande 
+0.043% Grosse Messer 
+0.043% Maça Grande 
+0.043% Machado Grande 
+0.043% Foice do Festival 
+0.043% Cutelo de Festival 
+0.043% Arado de Festival 
+0.043% Machado da Lua Crescente 
+0.043% Alfange 
+0.043% Clava Grande Curva 
+0.043% Clava Curva 
+0.043% Manoplas de Salteador 
+0.043% Armadura de Tecido de Salteador 
+0.043% Capuz de Salteador 
+0.043% Cutelo de Agouro 
+0.043% Grande Cutelo de Assassino de Agouros 
+0.043% Luvas Longas de Assassino de Agouros 
+0.043% Robe de Assassino de Agouros 
+0.043% Botas de Assassino de Agouros 
+0.043% Shotel da Milícia Vulgar 
+0.043% Serra da Milícia Vulgar 
+0.043% Miséricorde 
+0.043% Machado de Batalha 
+0.043% Cinza da Guerra: Corte Duplo 
+0.043% Cinza da Guerra: Lança de Gelo 
+0.043% Cinza da Guerra: Determinação 
+0.043% Cinza da Guerra: Pisão da Geada 
+0.043% Cinza da Guerra: Enfrentar 
+0.043% Cinza da Guerra: Seppuku 
+0.043% Cinza da Guerra: Dança da Espada 
+0.043% Cinza da Guerra: Espada Grande Cariana 
+0.043% Cinza da Guerra: Retaliação Cariana 
+0.043% Cinza da Guerra: Invocador da Tempestade 
+0.043% Cinza da Guerra: Golpes Giratórios 
+0.043% Cinza da Guerra: Corte Giratório 
+0.043% Cinza da Guerra: Ordem Sagrada 
+0.043% Cinza da Guerra: Pancada no Solo 
+0.043% Cinza da Guerra: Grito do Exibido 
+0.043% Cinza da Guerra: Disparo Encantado 
+0.043% Cinza da Guerra: Névoa Refrigeradora 
+0.043% Cinza da Guerra: Disparo do Céu 
+0.043% Cinza da Guerra: Desembainhar 
+0.043% Cinza da Guerra: Lança Espectral 
+0.043% Cinza da Guerra: Resistência 
+0.043% Cinza da Guerra: Grito de Guerra 
+0.043% Cinza da Guerra: Disparo Poderoso 
+0.043% Cinza da Guerra: Chacoalhador de Terra 
+0.043% Cinza da Guerra: nenhuma habilidade 
+0.043% Cinza da Guerra: Voto do Indomável 
+0.043% Cinza da Guerra: Gambito do Assassino 
+0.043% Cinza da Guerra: Aparar 
+0.043% Cinza da Guerra: Golpe Flamejante 
+0.043% Cinza da Guerra: Erupção 
+0.043% Cinza da Guerra: Garra de Leão 
+0.043% Cinza da Guerra: Golpes Selvagens 
+0.043% Cinza da Guerra: Batida com Escudo 
+0.043% Cinza da Guerra: Passo Ágil 
+0.043% Cinza da Guerra: Golpe Devoto 
+0.043% Cinza da Guerra: Investida Frontal 
+0.043% Cinza da Guerra: Colisão de Escudo 
+0.043% Cinza da Guerra: Esmagamento (Corte para Cima) 
+0.043% Cinza da Guerra: Esmagamento (Em Arco) 
+0.043% Cinza da Guerra: Relâmpago 
+0.043% Cinza da Guerra: Impulso Perfurante 
+0.043% Cinza da Guerra: Disparo Penetrante 
+0.043% Cinza da Guerra: Chute 
+0.043% Cinza da Guerra: Arma Giratória 
+0.043% Cinza da Guerra: Falange de Laminante 
+0.043% Cinza da Guerra: Calhau Pedrilhante 
+0.043% Cinza da Guerra: Impulso Repetitivo 
+0.043% Cinza da Guerra: Barragem 
+0.043% Cinza da Guerra: Rugido Bárbaro 
+0.043% Cinza da Guerra: Escudo-Barricada 
+0.043% Cinza da Guerra: Corte de Relâmpago 
+0.043% Cinza da Guerra: Lâmina Tempestuosa 
+0.043% Cinza da Guerra: Ataque da Tormenta 
+0.043% Cinza da Guerra: Pisão Tempestuoso 
+0.043% Cinza da Guerra: Parede de Tormenta 
+0.043% Marreta de Guerra 
+0.043% Garra de Falcão de Guerra 
+0.043% Alabarda 
+0.043% Machado de Mão 
+0.043% Bastão com Lâmina 
+0.043% Uchigatana 
+0.043% Espada de Pedrilhante Lazuli 
+0.043% Robe Lazuli 
+0.043% Katar 
+0.043% Selo de Dedo 
+0.043% Cajado do Escavador 
+0.043% Cestus 
+0.043% Balista de Mão 
+0.043% Machado Grande do Gladiador 
+0.043% Martelo de Batalha 
+0.043% Machado Grande do Carrasco 
+0.043% Escudo Radiador do Brasão de Eclipse 
+0.043% Esfera Estelar 
+0.043% Estrela da Manhã 
+0.043% Escudo do Lorde 
+0.043% Estoque do Nobre 
+0.043% Espada Esguia do Nobre 
+0.043% Escudo Grande de Cuco 
+0.043% Escudo de Pelourinho 
+0.043% Cajado Pedrilhante de Gelmir 
+0.043% Adaga de Aparagem 
+0.043% Clava 
+0.043% Cestus Espinhenta 
+0.043% Lança com Espinhos 
+0.043% Machado Distorcido 
+0.043% Cajado do Príncipe da Morte 
+0.043% Arpão do Homem de Barro 
+0.043% Espada Bastarda 
+0.043% Arco Curto do Bastardo 
+0.043% Tocha 
+0.043% Escudo de Madeira com Brasão de Chama 
+0.043% Tocha com Cabo 
+0.043% Escudo de Madeira da Árvore de Velas 
+0.043% Flambérgia 
+0.043% Escudo Radiador 
+0.043% Garras de Cão de Caça 
+0.043% Tabardo Escarlate 
+0.043% Lucerne 
+0.043% Arco Prateado 
+0.043% Cajado Albináurico 
+0.043% Escudo Albináurico 
+0.043% Tabardo Drapeado de Couro 
+0.043% Espada Grande de Cão de Guarda 
+0.043% Lança 
+0.043% Espada Curta 
+0.043% Arco Curto 
+0.043% Cimitarra 
+0.043% Lança Curta 
+0.043% Lâminas-Gêmeas da Gárgula 
+0.043% Espada Grande da Gárgula 
+0.043% Machado Grande da Gárgula 
+0.043% Alabarda da Gárgula 
+0.043% Lâminas-Gêmeas Negras da Gárgula 
+0.043% Alabarda Negra da Gárgula 
+0.043% Machado Negro da Gárgula 
+0.043% Clava de Pedra 
+0.043% Martelo 
+0.043% Martelo de Pedra 
+0.043% Esfolador de Pele Divina 
+0.043% Sutura da Pele Divina 
+0.043% Esmagador de Gigante 
+0.043% Arco Curto do Ramo Vermelho 
+0.043% Escudo Redondo do Espinho Vermelho 
+0.043% Escudo Grande da Juba Vermelha 
+0.043% Escudo Radiador com Brasão Vermelho 
+0.043% Florete 
+0.043% Faca de Cristal 
+0.043% Rapieira de Rogier 
+0.043% Cajado do Culpado 
+0.043% Espada Reta Desgastada 
+0.043% Wakizashi 
+0.043% Machado Grande da Podridão 
+0.043% Martelo de Batalha Apodrecido 
+0.043% Chicote Espinhento 
+0.043% Robe de Fia 
+0.043% Robe de Fia (Leve) 
+0.043% Capuz de Fia 
+0.043% Escudo de Madeira Branco e Azul 
+0.043% Escudo Radiador com Brasão Azul 
+0.043% Escudo Gota Dourado-Azulado 
+0.043% Escudo de Homem-Serpente 
+0.043% Escudo Gota de Escorpião 
+0.043% Katana de Louva-a-Deus 
+0.043% Escudo da Fenda 
+0.043% Cajado do Astrólogo 
+0.043% Escudo de Perfumista 
+0.043% Foice de Marfim 
+0.043% Tabardo Drapeado de Marfim 
+0.043% Shamshir 
+0.043% Chicote 
+0.043% Besta Leve 
+0.043% Cajado Pedrilhante 
+0.043% Mangual 
+0.043% Escudo Torre do Falcão Invertido 
+0.043% Escudo Radiador do Falcão Invertido 
+0.043% Besta Pesada 
+0.043% Escudo Grande Dourado 
+0.043% Escudo de Ferro Dourado 
+0.043% Escudo de Paliçada com Espinhos 
+0.043% Balestra 
+0.043% Shotel 
+0.043% Garras 
+0.043% Espada Grande de Ferro 
+0.043% Lança de Ferro 
+0.043% Escudo Redondo de Ferro 
+0.043% Bastão Articulado 
+0.043% Cutelo de Ferro 
+0.043% Escudo Grande de Espinhos 
+0.043% Esfera de Ferro 
+0.043% Escudo de Madeira Reforçado 
+0.043% Âncora Enferrujada 
+0.043% Maça 
+0.043% Espada Longa 
+0.043% Arco Longo 
+0.043% Machadinha de Haste Longa 
+0.043% Nagakiba 
+0.043% Pique 
+0.043% Espada Larga 
+0.043% Partasana 
+0.043% Cajado de Meteorito 
+0.043% Machado de Maxilar 
+0.043% Escudo de Madeira com Brasão de Cavalo 
+0.043% Lança de Cavalaria 
+0.043% Cutelo Curvado 
+0.043% Espadas-Gêmeas do Cavaleiro 
+0.043% Espada Grande de Cavaleiro 
+0.043% Machado do Planalto 
+0.043% Arco Grande de Golem 
+0.043% Alabarda de Golem 
+0.043% Escudo Gota 
+0.043% Escudo de Madeira com Brasão de Falcão 
+0.043% Escudo Grande de Ouro 
+0.043% Escudo de Latão 
+0.043% Adaga de Aço Dourado 
+0.043% Glaive do Cavaleiro Noturno 
+0.043% Mangual do Cavaleiro Noturno 
+0.043% Escudo de Couro Negro 
+0.043% Escudo Torre de Dragão 
+0.049% [ERROR] 
+0.049% [ERROR] 
+0.049% [ERROR]Confissão de Iji 
+0.049% [ERROR]Traje de Batalha do Corajoso 
+0.049% [ERROR]Traje de Batalha do Corajoso (Leve) 
+0.049% [ERROR]Elmo de Couro do Corajoso 
+0.049% [ERROR]Faixas de Perna do Corajoso 
+0.049% [ERROR]Braçadeiras do Corajoso 
+0.049% [ERROR]Coroa de Corda do Corajoso 
+0.049% [ERROR] 
+0.049% [ERROR]Selo do Vaga-lume do Santuário 
+0.049% [ERROR] 
+0.049% Robe Superior 
+0.049% Chave do Esgoto 
+0.049% Escudo Imutável 
+0.049% Cinzas de Semi-Humano 
+0.049% Cinzas de Homem-Fera de Azula 
+0.049% Elmo de Soldado Marionete 
+0.049% Armadura de Soldado Marionete 
+0.049% Elmo de Pássaro de Soldado Marionete 
+0.049% Cinzas de Soldados Marionetes 
+0.049% Carta de Irina 
+0.049% Traje de Consorte 
+0.049% Calças de Consorte 
+0.049% Disco de Luz 
+0.049% Garra de Fera 
+0.049% Funda da Besta 
+0.049% Lança de Relâmpago Congelada 
+0.049% Névoa Congelante 
+0.049% Cinzas de Mercenário Kaiden 
+0.049% Elmo Kaideniano 
+0.049% Manoplas Kaidenianas 
+0.049% Armadura Kaideniana 
+0.049% Calças Kaidenianas 
+0.049% Estouro de Frenesi 
+0.049% Abordagem do Assassino 
+0.049% Grevas de Guerreiro 
+0.049% Manoplas de Guerreiro 
+0.049% Testeira de Campeão 
+0.049% Polainas de Campeão 
+0.049% Ombreiras de Campeão 
+0.049% Braçadeiras de Campeão 
+0.049% Anéis de Luz Triplos 
+0.049% Forma Oculta 
+0.049% Espada Grande Cariana 
+0.049% Retaliação Cariana 
+0.049% Perfurador Cariano 
+0.049% Fatiadora Cariana 
+0.049% Elmo de Cavaleiro Cariano 
+0.049% Grevas de Cavaleiro Cariano 
+0.049% Manoplas de Cavaleiro Cariano 
+0.049% Armadura de Cavaleiro Cariano 
+0.049% Armadura de Cavaleiro Cariano (Leve) 
+0.049% Cinzas de Feiticeiro Sábio Gêmeo 
+0.049% Cinzas de Cabeça de Abóbora Louco 
+0.049% Chamada de Rancor 
+0.049% Cachola Tagarela "Olá" 
+0.049% Cachola Tagarela "Maravilhoso" 
+0.049% Cachola Tagarela "Perdão" 
+0.049% Cachola Tagarela "Vamos ao trabalho" 
+0.049% Cachola Tagarela "Meu amor" 
+0.049% Cachola Tagarela "Por favor, ajude" 
+0.049% Cachola Tagarela "Obrigado" 
+0.049% Traje de Prisioneiro 
+0.049% Máscara de Ferro de Prisioneiro 
+0.049% Calças de Prisioneiro 
+0.049% Lâmina da Ordem 
+0.049% Cura da Ordem 
+0.049% Túnica com Brasão da Árvore Sacra 
+0.049% Cinzas de Soldado da Árvore Sacra 
+0.049% Grevas da Árvore Sacra 
+0.049% Manoplas da Árvore Sacra 
+0.049% Grevas de Cavaleiro da Árvore Sacra 
+0.049% Manoplas de Cavaleiro da Árvore Sacra 
+0.049% Armadura de Cavaleiro da Árvore Sacra 
+0.049% Armadura de Cavaleiro da Árvore Sacra (Leve) 
+0.049% Fortificação Divina 
+0.049% Lenço de Perfumista Depravado 
+0.049% Luvas de Perfumista Depravado 
+0.049% Robe de Perfumista Depravado 
+0.049% Robe de Perfumista Depravado (Leve) 
+0.049% Calças de Perfumista Depravado 
+0.049% Cura Grande 
+0.049% Túnica de Árvore e Fera 
+0.049% Túnica de Árvore 
+0.049% Cinzas de Soldado de Escudo Grande 
+0.049% Cinzas de Rato Gigante 
+0.049% Grande Testeira com Chifre 
+0.049% Elmo de Cavaleiro Banido 
+0.049% Elmo de Cavaleiro Banido (Leve) 
+0.049% Grevas de Cavaleiro Banido 
+0.049% Manoplas de Cavaleiro Banido 
+0.049% Armadura de Cavaleiro Banido 
+0.049% Armadura de Cavaleiro Banido (Leve) 
+0.049% Fragmento de Emboscada 
+0.049% Traje de Guardião 
+0.049% Grevas de Guardião 
+0.049% Braçadeiras de Guardião 
+0.049% Máscara de Guardião 
+0.049% Traje de Oficial 
+0.049% Luvas de Confessor 
+0.049% Traje de Confessor 
+0.049% Traje de Confessor (Leve) 
+0.049% Botas de Confessor 
+0.049% Capuz de Confessor 
+0.049% Capuz de Confessor (Leve) 
+0.049% Grevas de Soldado de Infantaria 
+0.049% Manoplas de Soldado de Infantaria 
+0.049% Tabardo de Soldado de Infantaria 
+0.049% Elmo Dourado de Soldado de Infantaria 
+0.049% Testeira de Soldado de Infantaria 
+0.049% Barrete de Soldado de Infantaria 
+0.049% Cinzas de Broto de Miranda 
+0.049% Cinzas de Demônio com Presas 
+0.049% Traje de Plebeu 
+0.049% Traje de Plebeu (Leve) 
+0.049% Traje Simples de Plebeu 
+0.049% Traje Simples de Plebeu (Leve) 
+0.049% Testeira de Plebeu 
+0.049% Testeira de Plebeu (Leve) 
+0.049% Sapatos de Plebeu 
+0.049% Funda de Pedra 
+0.049% Elmo Grande 
+0.049% Traje de Tecido 
+0.049% Calças de Tecido 
+0.049% Cinzas do Bastardo Alado 
+0.049% Barrete de Neófito 
+0.049% Robe de Neófito 
+0.049% Capuz Aristocrático Velho 
+0.049% Sapatos Aristocráticos Velhos 
+0.049% Vestes Aristocráticas Velhas 
+0.049% Traje Festivo 
+0.049% Traje Festivo (Leve) 
+0.049% Traje Festivo Azul 
+0.049% Capuz Festivo Azul 
+0.049% Capuz Festivo 
+0.049% Capuz Festivo (Leve) 
+0.049% Cinzas de Nobre Errante 
+0.049% Cura 
+0.049% Pedido da Benção 
+0.049% Elmo de Milícia Vulgar 
+0.049% Cinzas de Milícia Vulgar 
+0.049% Grevas de Milícia Vulgar 
+0.049% Manoplas de Milícia Vulgar 
+0.049% Armadura de Milícia Vulgar 
+0.049% Luvas de Cirurgião de Guerra 
+0.049% Vestes de Cirurgião de Guerra 
+0.049% Vestes de Médico de Guerra (Leves) 
+0.049% Calças de Cirurgião de Guerra 
+0.049% Faixas de Perna de Mago de Batalha 
+0.049% Mangas de Mago de Batalha 
+0.049% Robe de Mago de Batalha 
+0.049% Cinzas de Falcão de Guerra 
+0.049% Banquete de Chamas 
+0.049% Manoplas 
+0.049% Grande Runa de Rykard 
+0.049% Elmo de Soldado de Radahn 
+0.049% Cinzas de Soldado de Radahn 
+0.049% Grevas de Soldado de Radahn 
+0.049% Manoplas de Soldado de Radahn 
+0.049% Grande Runa de Radahn 
+0.049% Anéis de Luz de Radagon 
+0.049% Rejeição 
+0.049% Chapéu Esfarrapado 
+0.049% Chapéu Esfarrapado (Leve) 
+0.049% Luvas Esfarrapadas 
+0.049% Tanga Esfarrapada 
+0.049% Armadura Esfarrapada 
+0.049% Armadura Esfarrapada (Leve) 
+0.049% Faixa de Donzela dos Dedos 
+0.049% Robe de Donzela dos Dedos 
+0.049% Robe de Donzela dos Dedos (Leve) 
+0.049% Sapatos de Donzela dos Dedos 
+0.049% Cinzas de Arqueiro 
+0.049% Roupas do Viajante 
+0.049% Luvas de Donzela Viajante 
+0.049% Robe de Donzela Viajante 
+0.049% Robe de Donzela Viajante (Leve) 
+0.049% Botas de Donzela Viajante 
+0.049% Capuz de Donzela Viajante 
+0.049% Chapéu do Viajante 
+0.049% Luvas do Viajante 
+0.049% Mangas do Viajante 
+0.049% Calção do Viajante 
+0.049% Botas do Viajante 
+0.049% Espiral de Fragmento 
+0.049% Lâmina Oculta 
+0.049% Luz Estelar 
+0.049% Traje Aristocrático 
+0.049% Traje Aristocrático (leve) 
+0.049% Casaco Aristocrático 
+0.049% Testeira Aristocrática 
+0.049% Chapéu Aristocrático 
+0.049% Botas Aristocráticas 
+0.049% Cinzas de Nobre Feiticeiro 
+0.049% Túnica de Cuco 
+0.049% Elmo de Cavaleiro Cuco 
+0.049% Grevas de Cavaleiro Cuco 
+0.049% Manoplas de Cavaleiro Cuco 
+0.049% Armadura de Cavaleiro Cuco 
+0.049% Armadura de Cavaleiro Cuco (Leve) 
+0.049% Robe de Corhyn 
+0.049% Elmo de Cavaleiro de Gelmir 
+0.049% Grevas de Cavaleiro de Gelmir 
+0.049% Manoplas de Cavaleiro de Gelmir 
+0.049% Armadura de Cavaleiro de Gelmir 
+0.049% Armadura de Cavaleiro de Gelmir (Leve) 
+0.049% Chama Negra da Purificação 
+0.049% Vestimenta de Pele 
+0.049% Perneiras de Pele 
+0.049% Cinzas de Homem de Barro 
+0.049% Grevas do Exilado 
+0.049% Manoplas do Exilado 
+0.049% Armadura do Exilado 
+0.049% Capuz do Exilado 
+0.049% Máscara de Ferro de Arruaceiro 
+0.049% Adorno de Mercador Nômade 
+0.049% Adorno de Mercador Nômade (Leve) 
+0.049% Chapéu de Mercador Nômade 
+0.049% Calças de Mercador Nômade 
+0.049% Cinzas de Nômade 
+0.049% Elmo de Cavaleiro Errante 
+0.049% Grevas de Cavaleiro Errante 
+0.049% Manoplas de Cavaleiro Errante 
+0.049% Armadura de Cavaleiro Errante 
+0.049% Armadura de Cavaleiro Errante (Leve) 
+0.049% Grevas de Ronin 
+0.049% Manoplas de Ronin 
+0.049% Armadura de Ronin 
+0.049% Armadura de Ronin (Leve) 
+0.049% Magma Turvo 
+0.049% Fortificação de Fogo 
+0.049% Cinzas de Soldado do Mausoléu 
+0.049% Grevas de Mausoléu 
+0.049% Manoplas de Mausoléu 
+0.049% Túnica de Mausoléu 
+0.049% Grevas de Cavaleiro do Mausoléu 
+0.049% Manoplas de Cavaleiro do Mausoléu 
+0.049% Armadura de Cavaleiro do Mausoléu 
+0.049% Armadura de Cavaleiro do Mausoléu (Leve) 
+0.049% Elixir Magnífico 
+0.049% Cinzas de Espírito de Água-Viva 
+0.049% Sopro de Magma 
+0.049% Disparo de Magma 
+0.049% Aspectos do Crisol: Sopro 
+0.049% Aspectos do Crisol: Cauda 
+0.049% Aspectos do Crisol: Chifres 
+0.049% Ah, Chamas! 
+0.049% Explosão de Rocha 
+0.049% Terra Partida 
+0.049% Cinzas de Soldjar do Destino 
+0.049% Ramo do Sacrifício 
+0.049% Máscara de Diallos 
+0.049% Elmo de Cavaleiro Cão de Caça 
+0.049% Grevas de Cavaleiro Cão de Caça 
+0.049% Manoplas de Cavaleiro Cão de Caça 
+0.049% Armadura de Cavaleiro Cão de Caça 
+0.049% Armadura de Cavaleiro Cão de Caça (Leve) 
+0.049% Grande Runa de Malenia 
+0.049% Robe de Marais 
+0.049% Chave Enferrujada 
+0.049% A Chama do Frenesi 
+0.049% Cinzas Albináuricas 
+0.049% Luvas de Couro 
+0.049% Armadura de Couro 
+0.049% Calças de Couro 
+0.049% Botas de Couro 
+0.049% Traje de Bandido 
+0.049% Mangas de Bandido 
+0.049% Máscara de Bandido 
+0.049% Botas de Bandido 
+0.049% Túnica de Olho 
+0.049% Cinzas de Seguidor Ancestral 
+0.049% Cinzas do Enviado do Oráculo 
+0.049% Grande Bolha Oracular 
+0.049% Bolhas de Oráculo 
+0.049% Peles de Xamã 
+0.049% Perneiras de Xamã 
+0.049% Cinzas de Lobo Solitário 
+0.049% Mangas de Feiticeiro Errante 
+0.049% Robe de Feiticeiro Errante 
+0.049% Robe de Feiticeiro Errante (Leve) 
+0.049% Botas de Feiticeiro Errante 
+0.049% Cabeça de Polvo 
+0.049% Seta Afiada 
+0.049% Cura Urgente 
+0.049% Litania da Morte Apropriada 
+0.049% Túnica de Juba Vermelha 
+0.049% Elmo de Cavaleiro da Juba Vermelha 
+0.049% Grevas de Cavaleiro da Juba Vermelha 
+0.049% Manoplas de Cavaleiro da Juba Vermelha 
+0.049% Armadura de Cavaleiro da Juba Vermelha 
+0.049% Armadura de Cavaleiro da Juba Vermelha (Leve) 
+0.049% Frasco de Lágrimas Carmesins 
+0.049% Arma Congelada 
+0.049% Cinzas de Cristaliano 
+0.049% Estouro de Cristal 
+0.049% Barragem de Cristal 
+0.049% Agulha de Costura 
+0.049% Elmo de Soldado de Leyndell 
+0.049% Cinzas de Soldado de Leyndell 
+0.049% Grevas de Soldado de Leyndell 
+0.049% Manoplas de Soldado de Leyndell 
+0.049% Elmo de Cavaleiro de Leyndell 
+0.049% Grevas de Cavaleiro de Leyndell 
+0.049% Manoplas de Cavaleiro de Leyndell 
+0.049% Armadura de Cavaleiro de Leyndell 
+0.049% Armadura de Cavaleiro de Leyndell (Leve) 
+0.049% Capuz do Culpado 
+0.049% Sarça Pecadora 
+0.049% Cinzas de Cadáveres Pútridos 
+0.049% Sopro Podre 
+0.049% Cinzas do Companheiro da Podridão 
+0.049% Cinzas de Errante Apodrecido 
+0.049% Castanholas de Dançarina 
+0.049% Elmo da Terra dos Juncos 
+0.049% Grevas da Terra dos Juncos 
+0.049% Manoplas da Terra dos Juncos 
+0.049% Armadura da Terra dos Juncos 
+0.049% Armadura da Terra dos Juncos (Leve) 
+0.049% Braceletes de Prata Azul 
+0.049% Armadura de Malha de Prata Azul 
+0.049% Armadura de Malha de Prata (Leve) 
+0.049% Saia de Malha de Prata Azul 
+0.049% Capuz de Malha de Prata Azul 
+0.049% Colar de Rya 
+0.049% Elmo de Soldado de Godrick 
+0.049% Cinzas de Soldado de Godrick 
+0.049% Grevas de Soldado de Godrick 
+0.049% Manoplas de Soldado de Godrick 
+0.049% Grande Runa de Godrick 
+0.049% Elmo de Cavaleiro de Godrick 
+0.049% Grevas de Cavaleiro de Godrick 
+0.049% Manoplas de Cavaleiro de Godrick 
+0.049% Armadura de Cavaleiro de Godrick 
+0.049% Armadura de Cavaleiro de Godrick (Leve) 
+0.049% Grande Runa de Mohg 
+0.049% Grande Runa de Morgott 
+0.049% Colete de Tecido Azul 
+0.049% Capuz de Tecido Azul 
+0.049% Frasco de Lágrimas Cerúleas 
+0.049% Cabeça de Cogumelo 
+0.049% Braços de Cogumelo 
+0.049% Pernas de Cogumelo 
+0.049% Corpo de Cogumelo 
+0.049% Fios de Praga 
+0.049% Cinzas de Homem-Serpente 
+0.049% Enxame de Moscas 
+0.049% Luvas de Astrólogo 
+0.049% Robe de Astrólogo 
+0.049% Robe de Astrólogo (Leve) 
+0.049% Calças de Astrólogo 
+0.049% Capuz de Astrólogo 
+0.049% Isca da Sombra 
+0.049% Braceletes de Nox 
+0.049% Grevas de Nox 
+0.049% Armadura de Monge Nox 
+0.049% Armadura de Monge Nox (Leve) 
+0.049% Capuz de Monge Nox 
+0.049% Capuz de Monge Nox (Leve) 
+0.049% Coroa de Cavaleira Nox 
+0.049% Coroa de Cavaleiro Nox (Leve) 
+0.049% Armadura de Cavaleira Nox 
+0.049% Armadura de Cavaleiro Nox (Leve) 
+0.049% Luvas de Perfumista 
+0.049% Traje de Viagem do Perfumista 
+0.049% Traje de Viagem do Perfumista (Leve) 
+0.049% Sarongue de Perfumista 
+0.049% Robe de Perfumista 
+0.049% Robe de Perfumista (Leve) 
+0.049% Capuz de Perfumista 
+0.049% Robe de Sábio 
+0.049% Calças de Sábio 
+0.049% Capuz de Sábio 
+0.049% Luvas do Nobre 
+0.049% Traje de Viagem do Nobre 
+0.049% Presença Nobre 
+0.049% Falange de Laminante 
+0.049% Penhasco de Gelo de Pedrilhante 
+0.049% Sopro de Pedrilhante 
+0.049% Grande Fragmento Pedrilhante 
+0.049% Arco Pedrilhante 
+0.049% Estrelas Pedrilhantes 
+0.049% Fragmento Pedrilhante Veloz 
+0.049% Cinzas de Feiticeiro Pedrilhante 
+0.049% Calhau Pedrilhante 
+0.049% Névoa de Ácido 
+0.049% Poço da Gravidade 
+0.049% Constituição Bestial 
+0.049% Vitalidade Bestial 
+0.049% Capacete de Ferro 
+0.049% Manoplas de Ferro 
+0.049% Elmo de Cota de Malha 
+0.049% Tabardo Drapeado de Cota de Malha 
+0.049% Perneiras de Cota de Malha 
+0.049% Armadura de Cota de Malha 
+0.049% Lucidez 
+0.049% Cinzas de Ascídia Terrestre 
+0.049% Meteorito 
+0.049% Traje de Pajem 
+0.049% Traje de Pajem (Leve) 
+0.049% Cinzas de Pajem 
+0.049% Calças de Pajem 
+0.049% Capuz de Pajem 
+0.049% Elmo de Raya Lucaria 
+0.049% Cinzas de Soldado de Raya Lucaria 
+0.049% Grevas de Raya Lucaria 
+0.049% Manoplas de Raya Lucaria 
+0.049% Robe de Raya Lucaria 
+0.049% Golpe de Relâmpago 
+0.049% Eletrificar Arma 
+0.049% Fortificação de Eletricidade 
+0.049% Venda de Profeta 
+0.049% Robe de Profeta 
+0.049% Robe de Profeta (Leve) 
+0.049% Calças de Profeta 
+0.049% Robe de Governante 
+0.049% Elmo de Cavaleiro 
+0.049% Grevas de Cavaleiro 
+0.049% Manoplas de Cavaleiro 
+0.049% Armadura de Cavaleiro 
+0.049% Cota de Malha Suja 
+0.049% Cinzas de Salteador Esquelético 
+0.049% Cinzas de Esqueleto Miliciano 
+0.049% Perneiras de Feiticeiro 
+0.049% Mangas de Feiticeiro 
+0.049% Laminante Mágica 
+0.049% Armadura de Escamas 
+0.049% Cinzas de Soldados Avionetes 
+0.049% Voto Dourado 
+0.049% Túnica da Térvore 
+0.049% Fortificação Dourada de Eletricidade 
+0.049% Tiara de Gêmea Donzela da Noite 
+0.049% Névoa da Donzela da Noite 
+0.049% Armadura de Donzela da Noite 
+0.049% Cometa Noturno 
+0.049% Elmo da Cavalaria da Noite 
+0.049% Elmo da Cavalaria da Noite (Leve) 
+0.049% Grevas da Cavalaria da Noite 
+0.049% Manoplas da Cavalaria da Noite 
+0.049% Armadura da Cavalaria da Noite 
+0.049% Armadura da Cavalaria da Noite (Leve) 
+0.049% Fragmento da Noite 
+0.049% Capuz Preto 
+0.049% Escuridão 
+0.049% Chama Negra 
+0.049% Capuz de Monge da Chama Negra 
+0.049% Grevas de Monge da Chama Negra 
+0.049% Manoplas de Monge da Chama Negra 
+0.049% Armadura de Monge da Chama Negra 
+0.049% Lâmina da Chama Negra 
+0.049% Proteção da Chama Negra 
+0.049% Gelo de Dragão 
+0.049% Mandíbula de Dragão 
+0.049% Fogo de Dragão 
+0.049% Garra de Dragão 
+0.049% Bênção de Seta de Dragão 
+0.055% Apito de Corcel Espectral 
+0.061% Dedo Não Conformista 
+0.061% Língua do Provocador 
+0.061% Ranni Miniatura 
+0.061% Chave Pedrilhante da Academia 
+0.061% Bilhete: O Segredo do Preceptor 
+0.061% Carta da Mansão Vulcânica 
+0.061% Lágrima de Cristal Rompida 
+0.061% Anel de Cifra Branco 
+0.061% Lágrima de Cristal Carmesim 
+0.061% Efígie Vermelha Pequena 
+0.061% Mapa Desgastado 
+0.061% Anel de Cifra Azul 
+0.061% Lágrima de Cristal Cerúlea 
+0.061% Efígie Dourada Pequena 
+0.067% [ERROR]Bilhete: Caixões Grandes 
+0.067% Bilhete: Multidões de Semi-Humanos 
+0.067% Bilhete: Acesso 
+0.067% Bilhete: Sombras Demoníacas 
+0.067% Bilhete: Fantasmas 
+0.067% Bilhete: Troll Escavador de Pedras 
+0.067% Bilhete: Mausoléu Errante 
+0.067% Bilhete: Frasco do Elixir Magnífico 
+0.067% Bilhete: Abaixo da Capital 
+0.067% Bilhete: Vilarejo da Chama Frenética 
+0.067% Bilhete: Assassinos Invisíveis 
+0.067% Bilhete: Vantagem Gravitacional 
+0.067% Bilhete: Ascídia Terrestre 
+0.067% Bilhete: Caverna Oculta 
+0.067% Bilhete: Ruínas do Ponto de Paragem 
+0.067% Dedo Enrolado do Duelista 
+0.067% Dedo Enrolado do Maculado 
+0.073% O Anel 
+0.079% Sebo Venenoso 
+0.079% Seta Óssea de Sangue 
+0.079% Flecha Óssea de Sangue 
+0.079% Flecha Óssea de Sangue (Com Penas) 
+0.079% Seta Óssea Venenosa 
+0.079% Flecha Óssea Venenosa 
+0.079% Flecha Óssea Venenosa (Com Penas) 
+0.079% Dardo Ósseo Venenoso 
+0.079% Seta Óssea Mágica 
+0.079% Flecha Óssea Mágica 
+0.079% Flecha Óssea Mágica (Com Penas) 
+0.079% Sebo de Sangue 
+0.079% Pote de Seta de Dragão Ancião 
+0.079% Pote de Sangue Amaldiçoado 
+0.079% Broto Sacramental 
+0.079% Névoa Dispersa Venenosa 
+0.079% Pedra Venenosa 
+0.079% Amontoado de Pedras Venenosas 
+0.079% Coágulo Sanguíneo Albináurico 
+0.079% Rosa de Sangue 
+0.079% Calças do Nobre 
+0.079% Sebo Venenoso com Cordão 
+0.079% Sebo de Sangue com Cordão 
+0.079% Sebo Mágico com Cordão 
+0.079% Seta Grande de Relâmpago 
+0.079% Seta de Relâmpago 
+0.079% Flecha Serpente 
+0.079% Flecha Grande de Golem Mágica 
+0.079% Sebo Mágico 
+0.085% Bolus Neutralizante 
+0.085% Bolus Hemostático 
+0.085% Excremento com Sangue 
+0.085% Pote Mágico da Academia 
+0.085% Pote de Fogo da Chama dos Gigantes 
+0.085% Pote de Veneno 
+0.085% Flor Venenosa 
+0.085% Cogumelo Tóxico 
+0.085% Pote de Fogo 
+0.085% Flor de Fogo 
+0.085% Pote de Fogo da Juba Vermelha 
+0.085% Sangue de Fera 
+0.085% Pote de Veneno com Cordão 
+0.085% Pote de Fogo com Corda 
+0.085% Pote de Relâmpago com Corda 
+0.085% Pote Mágico com Cordão 
+0.085% Pote de Relâmpago 
+0.085% Flor Brilhante 
+0.085% Pote Mágico 
+0.092% Agulha de Ouro Puro 
+0.098% [ERROR] 
+0.098% Remédio de Dedo Invocador Enrolado 
+0.110% Folha de Artéria 
+0.110% Arco de Runa 
+0.110% Lírio de Trina 
+0.110% Fragmentos de Luz Estelar 
+0.110% Lágrima Larval 
+0.110% Pedra Composta 
+0.110% Lírio de Miquella 
+0.110% Olho de Yelough 
+0.110% Borboleta Ancestral 
+0.110% Borboleta Nascente 
+0.110% Centopeia Dourada 
+0.116% [ERROR]Sebo de Água Benta 
+0.116% [ERROR]Sebo Congelante com Cordão 
+0.116% Carne-Seca Branca Revigorante 
+0.116% Carne-Seca Branca Imunizante 
+0.116% Seta Óssea Sagrada 
+0.116% Flecha Óssea Sagrada 
+0.116% Flecha Óssea Sagrada (Com Penas) 
+0.116% Flecha Grande Óssea 
+0.116% Flecha Grande Óssea (Com Penas) 
+0.116% Seta Óssea de Balista 
+0.116% Seta Óssea 
+0.116% Seta Óssea de Fogo 
+0.116% Flecha Óssea de Fogo 
+0.116% Flecha Óssea de Fogo (Com Penas) 
+0.116% Flecha Óssea 
+0.116% Flecha Óssea (Com Penas) 
+0.116% Seta Óssea do Frio 
+0.116% Flecha Óssea do Frio 
+0.116% Flecha Óssea do Frio (Com Penas) 
+0.116% Seta Óssea Elétrica 
+0.116% Flecha Óssea Elétrica 
+0.116% Flecha Óssea Elétrica (Com Penas) 
+0.116% Dardo Ósseo 
+0.116% Seta do Lorde 
+0.116% Sebo Sagrado 
+0.116% Pedaço de Pedra da Gravidade 
+0.116% Sebo de Escudo 
+0.116% Grande Pedaço de Pedrilhante 
+0.116% Flecha Grande 
+0.116% Flecha Habitada 
+0.116% Pedaço de Pedrilhante 
+0.116% Kukri 
+0.116% Seta de Balista 
+0.116% Seta 
+0.116% Adagas em Leque 
+0.116% Leque de Pedra da Gravidade 
+0.116% Adaga de Arremesso 
+0.116% Imitação da Graça 
+0.116% Pedrilhante de Cuco 
+0.116% Algodão Macio 
+0.116% Sebo Inflamável 
+0.116% Flecha de Fogo 
+0.116% Faísca Aromática 
+0.116% Pedra Luminescente 
+0.116% Pedra Explosiva 
+0.116% Amontoado de Pedras Explosivas 
+0.116% Seta Flamejante 
+0.116% Bolinho de Carne Crua 
+0.116% Flecha Estilhaçante 
+0.116% Flecha Estilhaçante (Com Penas) 
+0.116% Flecha 
+0.116% Pedra da Palavra 
+0.116% Sebo Congelante 
+0.116% Dardo de Cristal 
+0.116% Sabão 
+0.116% Pedra Arco-Íris 
+0.116% Flecha de Pedra Arco-Íris 
+0.116% Flecha de Pedra Arco-Íris (Com Penas) 
+0.116% Fragmento de Ruína 
+0.116% Sebo Sagrado com Cordão 
+0.116% Sebo Inflamável com Cordão 
+0.116% Sebo Elétrico com Cordão 
+0.116% Sebo Elétrico 
+0.116% Flecha de Osso da Asa da Tempestade 
+0.116% Flecha Grande de Golem 
+0.116% Runa Dourada [1] 
+0.116% Runa Dourada [2] 
+0.116% Runa Dourada [3] 
+0.116% Runa Dourada [4] 
+0.116% Runa Dourada [5] 
+0.116% Seta de Ouro 
+0.122% [ERROR] 
+0.122% Flor de Altus 
+0.122% Fragmento de Osso Humano 
+0.122% Seta de Rebarba 
+0.122% Carne-Seca Revigorante 
+0.122% Bolus Estimulantes 
+0.122% Carne-Seca Imunizante 
+0.122% Seta Óssea de Sono 
+0.122% Flecha Óssea de Sono 
+0.122% Flecha Óssea de Sono (Com Penas) 
+0.122% Seta Óssea Podre 
+0.122% Flecha Óssea Podre 
+0.122% Flecha Óssea Podre (Com Penas) 
+0.122% Passas Congeladas 
+0.122% Broto de Cristal com Orvalho 
+0.122% Bolus de Descongelamento 
+0.122% Flor de Folha Caída Desbotada 
+0.122% Pé de Ave com Quatro Dedos 
+0.122% Pote de Água Benta 
+0.122% Violeta do Túmulo 
+0.122% Erva do Orvalho Noturno 
+0.122% Cabeça de Libélula Gigante 
+0.122% Cristal Rachado 
+0.122% Pote de Rancor 
+0.122% Flecha de Santa Trina 
+0.122% Fígado Desidratado à Prova de Santidade 
+0.122% Fígado Desidratado à Prova de Fogo 
+0.122% Fígado Desidratado à Prova de Eletricidade 
+0.122% Fígado Desidratado à Prova de Feitiços 
+0.122% Lança de Radahn 
+0.122% Pluma de Voo 
+0.122% Resina de Raiz 
+0.122% Pote de Óleo 
+0.122% Musgo de Caverna 
+0.122% Musgo de Caverna de Cristal 
+0.122% Musgo de Caverna em Crescimento 
+0.122% Seta de Meteoro 
+0.122% Pote Vulcânico 
+0.122% Pedra Vulcânica 
+0.122% Borboleta Latente 
+0.122% Flecha de Chama Espiritual 
+0.122% Camarão Cozido 
+0.122% Caranguejo Cozido 
+0.122% Seta Grande Explosiva 
+0.122% Seta Explosiva 
+0.122% Fragmento de Vidro 
+0.122% Passas Doces 
+0.122% Tira de Carne Branca 
+0.122% Ovo Lunar 
+0.122% Cogumelo Derretido 
+0.122% Ovário de Polvo Terrestre 
+0.122% Pó de Miranda 
+0.122% Osso de Fera Robusta 
+0.122% Pote Fétido 
+0.122% Ossos Finos de Animal 
+0.122% Pote Congelante 
+0.122% Broto de Cristal 
+0.122% Corda 
+0.122% Rowa com Orvalho 
+0.122% Fruta de Rowa 
+0.122% Passas de Rowa 
+0.122% Filete de Carne 
+0.122% Pescoço de Tartaruga em Conserva 
+0.122% Pote de Enxame 
+0.122% Flor de Folha Caída 
+0.122% Cogumelo 
+0.122% Ovos de Caranguejo 
+0.122% Girassol Dourado Maculado 
+0.122% Seta de Perfumista 
+0.122% Erva 
+0.122% Vagalume Pedrilhante 
+0.122% Pedaço de Carne 
+0.122% Fígado de Fera 
+0.122% Excremento Dourado 
+0.122% Girassol Dourado 
+0.122% Pote de Água Benta com Cordão 
+0.122% Pote de Óleo com Cordão 
+0.122% Pote Vulcânico com Cordão 
+0.122% Pote Fétido com Corda 
+0.122% Pote Voador com Cordão 
+0.122% Flecha Grande de Ouro 
+0.122% Flecha de Ouro 
+0.122% Rowa Dourada 
+0.122% Seta da Chave Negra 
+0.122% Carne de Pescoço de Tartaruga 
+0.128% [ERROR] 
+0.128% [ERROR]Carne Exaltada 
+0.128% Runa das Terras Intermédias 
+0.128% Sebo de Ferida de Dragão 
+0.128% Pote de Sono 
+0.128% Sebo Soporífero 
+0.128% Carne Exaltada 
+0.128% Bolus de Clarificação 
+0.128% Presa Antiga 
+0.128% Pote da Ordem Sagrada 
+0.128% Lírio-do-Vale de Túmulo [1] 
+0.128% Lírio-do-Vale de Túmulo [2] 
+0.128% Lírio-do-Vale de Túmulo [3] 
+0.128% Lírio-do-Vale de Túmulo [4] 
+0.128% Lírio-do-Vale de Túmulo [5] 
+0.128% Lírio-do-Vale de Túmulo [6] 
+0.128% Lírio-do-Vale de Túmulo [7] 
+0.128% Lírio-do-Vale de Túmulo [8] 
+0.128% Lírio-do-Vale de Túmulo [9] 
+0.128% Cinzas da Guerra Perdidas 
+0.128% Pedra de Forja Sombria [1] 
+0.128% Pedra de Forja Sombria [2] 
+0.128% Pedra de Forja Sombria [3] 
+0.128% Pedra de Forja Sombria [4] 
+0.128% Pedra de Forja Sombria [5] 
+0.128% Pedra de Forja Sombria [6] 
+0.128% Pedra de Forja Sombria [7] 
+0.128% Pedra de Forja Sombria [8] 
+0.128% Pedra de Forja Sombria [9] 
+0.128% Bênção do Baldaquino 
+0.128% Pote de Iscas de Feras 
+0.128% Aromático Inspirador 
+0.128% Carne-Seca Branca Manchada 
+0.128% Carne-Seca Manchada 
+0.128% Bolus Rejuvenescedores 
+0.128% Fragmento de Jarro Vivo 
+0.128% Pedra de Aquecimento 
+0.128% Lírio-do-Vale Fantasma [1] 
+0.128% Lírio-do-Vale Fantasma [2] 
+0.128% Lírio-do-Vale Fantasma [3] 
+0.128% Lírio-do-Vale Fantasma [4] 
+0.128% Lírio-do-Vale Fantasma [5] 
+0.128% Lírio-do-Vale Fantasma [6] 
+0.128% Lírio-do-Vale Fantasma [7] 
+0.128% Lírio-do-Vale Fantasma [8] 
+0.128% Lírio-do-Vale Fantasma [9] 
+0.128% Aromático de Fervura de Sangue 
+0.128% Carne-Seca Branca de Clarificação 
+0.128% Carne-Seca de Clarificação 
+0.128% Pedra da Chama de Frenesi 
+0.128% Pote Albináurico 
+0.128% Pedra de Santuário 
+0.128% Pé de Ave em Conserva Prateada 
+0.128% Pé de Ave em Conserva Dourada 
+0.128% Pote de Podridão 
+0.128% Sebo de Podridão 
+0.128% Bolus da Preservação 
+0.128% Chifre Nascente 
+0.128% Pedra Vulcânica Oxidada 
+0.128% Pote Encantador 
+0.128% Vaga-Lume de Ouro 
+0.128% Aromático de Jarro de Ferro 
+0.128% Casca de Lágrima Prateada 
+0.128% Vaga-Lume de Prata 
+0.128% Pedra de Forja [1] 
+0.128% Pedra de Forja [2] 
+0.128% Pedra de Forja [3] 
+0.128% Pedra de Forja [4] 
+0.128% Pedra de Forja [5] 
+0.128% Pedra de Forja [6] 
+0.128% Pedra de Forja [7] 
+0.128% Pedra de Forja [8] 
+0.128% Sebo Soporífero com Cordão 
+0.128% Sebo de Podridão com Cordão 
+0.128% Pena de Falcão da Tempestade 
+0.128% Ramo Encantador 
+0.128% Braseiro Amarelado 
+0.128% Runa Dourada [10] 
+0.128% Runa Dourada [11] 
+0.128% Runa Dourada [12] 
+0.128% Runa Dourada [13] 
+0.128% Runa Dourada [6] 
+0.128% Runa Dourada [7] 
+0.128% Runa Dourada [8] 
+0.128% Runa Dourada [9] 

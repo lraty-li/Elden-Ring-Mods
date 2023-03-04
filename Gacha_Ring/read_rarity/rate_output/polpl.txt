@@ -1,0 +1,2009 @@
+0.024% Kristoff, rycerz starożytnych smoków 
+0.024% Rycerz czystej zgnilizny Finlay 
+0.024% Bezgłowa Lhutel 
+0.024% Ogha, rycerz Lwiej Grzywy 
+0.024% Tiche, Czarny Nóż 
+0.024% Bluźnierczy szpon 
+0.024% Wizerunek Bluźniercy 
+0.024% Bluźniercze ostrze 
+0.024% Prochy łzy naśladowcy 
+0.024% Pierwotny deszcz gwiazd 
+0.024% Wielki miecz Pozszywanego 
+0.024% Karyjskie berło królewskie 
+0.024% Talizman starego władcy 
+0.024% Ponury kamień kowalski starożytnego smoka 
+0.024% Kamień kowalski starożytnego smoka 
+0.024% Berło pożeracza 
+0.024% Miecz nocy i ognia 
+0.024% Wielka nagrobna konwalia 
+0.024% Wielka upiorna konwalia 
+0.024% Korona królowej w kształcie półksiężyca 
+0.024% Manszety królowej 
+0.024% Szata królowej 
+0.024% Nogawice królowej 
+0.024% Run naprawy idealnego porządku 
+0.024% Uskrzydlony wielki cierń 
+0.024% Rudy warkocz olbrzyma 
+0.024% Gwiazdy bękarta 
+0.024% Włócznia błyskawic Fortissaxa 
+0.024% Kometa Azura 
+0.024% Run naprawy upadłej klątwy 
+0.024% Wizerunek Króla Omenów 
+0.024% Popiół wojny: Tąpnięcie Hoarah Louxa 
+0.024% Popiół wojny: Fale ciemności 
+0.024% Animozje Rykarda 
+0.024% Lwia zbroja Radahna 
+0.024% Lwia zbroja Radahna (przerobiona) 
+0.024% Hełm Radahna Lwiej Grzywy 
+0.024% Nagolenniki Radahna 
+0.024% Rękawice Radahna 
+0.024% Bolesna pieczęć Radagona 
+0.024% Ikona Radagona 
+0.024% Opuszkowe winogrono 
+0.024% Wizerunek Zszywańca 
+0.024% Pozszywany smok 
+0.024% Wielki run nienarodzonych 
+0.024% Szotel zaćmienia 
+0.024% Ruina Placidusaxa 
+0.024% Wielki miecz ciemnego księżyca 
+0.024% Pierścień ciemnego księżyca 
+0.024% Ryk Greyoll 
+0.024% Przeklęty znak śmierci 
+0.024% Błyskawica śmierci 
+0.024% Run naprawy Księcia Śmierci 
+0.024% Wizerunek drakolicza 
+0.024% Gwiazdy Ruiny 
+0.024% Wizerunek Królowej Pełni Księżyca 
+0.024% Wielki miecz zabójczyni bogów 
+0.024% Lwi wielki łuk 
+0.024% Ostrze zabójcy palców 
+0.024% Szkarłatna Aeonia 
+0.024% Run Władcy 
+0.024% Królewska lalka Omenu 
+0.024% Hełm Maliketha 
+0.024% Czarne ostrze Maliketha 
+0.024% Nagolenniki Maliketha 
+0.024% Rękawice Maliketha 
+0.024% Zbroja Maliketha 
+0.024% Zbroja Maliketha (przerobiona) 
+0.024% Młot Mariki 
+0.024% Bolesna pieczęć Mariki 
+0.024% Dłoń Malenii 
+0.024% Nagolenniki Malenii 
+0.024% Rękawica Malenii 
+0.024% Zbroja Malenii 
+0.024% Zbroja Malenii (przerobiona) 
+0.024% Uskrzydlony hełm Malenii 
+0.024% Miecz kata Maraisa 
+0.024% Bursztynowe światło gwiazd 
+0.024% Bursztynowa mikstura 
+0.024% Wielkie miecze Gwiezdnej Plagi 
+0.024% Wizerunek Gwiezdnej Plagi 
+0.024% Wizerunek Królewskiego Przodka 
+0.024% Róg ducha przodków 
+0.024% Miecz świętego reliktu 
+0.024% Igła Miquelli 
+0.024% Wizerunek Bogini Zgnilizny 
+0.024% Korona Eldeńskiego Władcy 
+0.024% Nagolenniki Eldeńskiego Władcy 
+0.024% Karwasze Eldeńskiego Władcy 
+0.024% Zbroja Eldeńskiego Władcy 
+0.024% Zbroja Eldeńskiego Władcy (przerobiona) 
+0.024% Eldeńskie gwiazdy 
+0.024% Eldeński Wizerunek 
+0.024% Wizerunek Hoarah Louxa 
+0.024% Ciemny Księżyc Ranni 
+0.024% Topór Godfreya 
+0.024% Ikona Godfreya 
+0.024% Topór Godricka 
+0.024% Święta włócznia Mohgwynów 
+0.024% Przeklęty miecz Morgotta 
+0.024% Pełnia Księżyca Rennali 
+0.024% Księżyc Nokstelli 
+0.024% Wspomnienie łaski 
+0.024% Wielki miecz ruin 
+0.024% Wielki miecz Złotego Porządku 
+0.024% Czarny nóż 
+0.024% Czarne ostrze 
+0.024% Wizerunek Czarnej Klingi 
+0.024% Wizerunek Zrodzonego z Pustki 
+0.024% Talizman olbrzymiego starożytnego smoka 
+0.024% Wyszczerbione ostrze smoczego króla 
+0.024% Wizerunek Władcy Smoków 
+0.031% [ERROR] 
+0.031% [ERROR]Książka z przepisami misjonarza (3) 
+0.031% [ERROR]Książka z przepisami płatnerza (5) 
+0.031% [ERROR]Dzwonek kulisty koczowniczego kupca [11] 
+0.031% [ERROR]Modlitwa Mirandy 
+0.031% [ERROR]Książka z przepisami perfumiarza (1) 
+0.031% [ERROR]Książka z przepisami perfumiarza (13) 
+0.031% [ERROR]Książka z przepisami perfumiarza (2) 
+0.031% [ERROR]Zasady Złotego Porządku 
+0.031% Zdeprawowany perfumiarz Carmaan 
+0.031% Wypędzony rycerz Oleg 
+0.031% Wypędzony rycerz Engvall 
+0.031% Lalka Dolores, Śpiącej Strzały  
+0.031% Wasalny rycerz Floh 
+0.031% Piekielny pastorał prałata 
+0.031% Cinquedea 
+0.031% Wieczna ciemność 
+0.031% Błyskamienny kostur Azura 
+0.031% Owijki Azura 
+0.031% Błyskamienna korona Azura 
+0.031% Błyskamienna szata Azura 
+0.031% Wnętrzności Alexandra 
+0.031% Księżycowe ostrze Aduli 
+0.031% Błyskamienna korona Hierodasa 
+0.031% Szkieletowa maska 
+0.031% Rytualny garnek 
+0.031% Ozdobny prosty miecz 
+0.031% Dzwonek kulisty Ijiego 
+0.031% Lustrzany hełm Ijiego 
+0.031% Korona wysłannika 
+0.031% Wielki róg wysłannika 
+0.031% Róg wysłannika 
+0.031% Długi róg wysłannika 
+0.031% Mapa miejsca spotkania 
+0.031% Książka z przepisami misjonarza [1] 
+0.031% Książka z przepisami misjonarza [2] 
+0.031% Książka z przepisami misjonarza [3] 
+0.031% Książka z przepisami misjonarza [4] 
+0.031% Książka z przepisami misjonarza [5] 
+0.031% Książka z przepisami misjonarza [6] 
+0.031% Książka z przepisami misjonarza [7] 
+0.031% Klinga przywołania 
+0.031% Karwasze apostoła boskiej skóry 
+0.031% Spodnie apostoła boskiej skóry 
+0.031% Maska małżonki 
+0.031% Podniszczony sztylet 
+0.031% Kryształowa łza splotu wiary 
+0.031% Kosa aureoli 
+0.031% Promieniująca złota maska 
+0.031% Lśniąca obręcz z rogami 
+0.031% Kusza czarnego klucza Crepusa 
+0.031% Glewia Lansseax 
+0.031% Wielki młot szponów bestii 
+0.031% Dzwonek kulisty kupca mięsa 
+0.031% Dzwonek kulisty kupca kości 
+0.031% Mroźny topór 
+0.031% Modlitewnik zabójcy 
+0.031% Kryształowa łza splotu siły 
+0.031% Kostur awatara 
+0.031% Dyniowy hełm 
+0.031% Karyjska falanga 
+0.031% Karyjski odwrócony posąg 
+0.031% Miecz karyjskiego rycerza 
+0.031% Tarcza karyjskiego rycerza 
+0.031% Błyskamienna korona Karolosa 
+0.031% Błyskamienny kostur Lusata 
+0.031% Owijki Lusata 
+0.031% Błyskamienna korona Lusata 
+0.031% Szata Lusata 
+0.031% Modlitewnik Dwóch Palców 
+0.031% Błyskamienna korona bliźnioksiężnika 
+0.031% Tarcza z dwugłowym ptakiem 
+0.031% Nieuchronny szał 
+0.031% Dzwonek kulisty uwięzionego kupca 
+0.031% Upiorny palec odszczepieńca 
+0.031% Szpon bestii Gurranqa 
+0.031% Kamień Gurranqa 
+0.031% Starożytna śmiertelna animozja 
+0.031% Owijacze starego czarodzieja 
+0.031% Książka z przepisami apostoła staroż. smoka [1] 
+0.031% Książka z przepisami apostoła staroż. smoka [2] 
+0.031% Książka z przepisami apostoła staroż. smoka [3] 
+0.031% Książka z przepisami apostoła staroż. smoka [4] 
+0.031% Modlitewnik starożytnego smoka 
+0.031% Uderzenie pioruna starożytnych smoków 
+0.031% Włócznia błyskawic starożytnych smoków 
+0.031% Dzwonek przyzwania upiorów 
+0.031% Dzwonek przyzwania duchów 
+0.031% Błyskamienne zionięcie Smaraga 
+0.031% Księżycowy woal 
+0.031% Dzwonek kulisty Kalégo 
+0.031% Pochodnia strażnika 
+0.031% Gadająca głowa „Piękność z ciebie” 
+0.031% Prawo regresji 
+0.031% Prawo przyczynowości 
+0.031% Kusza pełni księżyca 
+0.031% Łuskowy miecz magmowego żmija 
+0.031% Morion świętej korony 
+0.031% Święta Łza 
+0.031% Hełm Świętego Drzewa 
+0.031% Sekretny medalion Świętego Drzewa (prawy) 
+0.031% Sekretny medalion Świętego Drzewa (lewy) 
+0.031% Hełm rycerza Świętego Drzewa 
+0.031% Mapa: Płaskowyż Altus 
+0.031% Mapa: wschodnia Liurnia 
+0.031% Mapa: północna Liurnia 
+0.031% Mapa: zachodnia Liurnia 
+0.031% Mapa: Uświęcona śnieżna dolina 
+0.031% Mapa: Płaczący Półwysep 
+0.031% Mapa: wschodnie Pogrobno 
+0.031% Mapa: zachodnie Pogrobno 
+0.031% Mapa: Rzeka Ainsel 
+0.031% Mapa: wschodnie Szczyty Olbrzymów 
+0.031% Mapa: zachodnie Szczyty Olbrzymów 
+0.031% Mapa: Rzeka Siofra 
+0.031% Mapa: Góra Gelmir 
+0.031% Mapa: Głębiny 
+0.031% Mapa: Leyndell, królewska stolica 
+0.031% Mapa: Caelid 
+0.031% Mapa: Jezioro Zgnilizny 
+0.031% Mapa: Pałac Mohgwynów 
+0.031% Mapa: Smocze Kurhany 
+0.031% Koło Ghizy 
+0.031% Słojomiot 
+0.031% Słoik 
+0.031% Lalka Słojowca 
+0.031% Skowyt Shabririego 
+0.031% Winogrono Shabririego 
+0.031% Wielka skorupa żółwia 
+0.031% Kolczasta pęknięta łza 
+0.031% Upiorny wielki run 
+0.031% Hełm kozobyka 
+0.031% Nagolenniki kozobyka 
+0.031% Rękawice kozobyka 
+0.031% Zbroja kozobyka 
+0.031% Hełm strażnika Drzewa 
+0.031% Nagolenniki strażnika Drzewa 
+0.031% Rękawice strażnika Drzewa 
+0.031% Zbroja strażnika Drzewa 
+0.031% Zbroja strażnika Drzewa (przerobiona) 
+0.031% Drzewna włócznia 
+0.031% Łowca węży 
+0.031% Młot wielkiego rogu 
+0.031% Wielki kaptur 
+0.031% Wielki smoczy pazur 
+0.031% Dzwonek kulisty górnika ponurego kamienia [1] 
+0.031% Dzwonek kulisty górnika ponurego kamienia [2] 
+0.031% Dzwonek kulisty górnika ponurego kamienia [3] 
+0.031% Dzwonek kulisty górnika ponurego kamienia [4] 
+0.031% Dzwonek kulisty górnika ponurego kamienia [5] 
+0.031% Owijki ekscentryka 
+0.031% Zbroja ekscentryka 
+0.031% Bryczesy ekscentryka 
+0.031% Maska ekscentryka 
+0.031% Maska ekscentryka (przerobiona) 
+0.031% Kryształowa struga 
+0.031% Błyskamienna korona Olivinusa 
+0.031% Wielki miecz Ordovisa 
+0.031% Proteza walkirii 
+0.031% Zwój Akademii 
+0.031% Bliźniaczy hełm 
+0.031% Bliźniacze nagolenniki 
+0.031% Bliźniacze rękawice 
+0.031% Bliźniacza zbroja 
+0.031% Bliźniacza zbroja (przerobiona) 
+0.031% Szata strażnika (w pełnym rozkwicie) 
+0.031% Płaszcz strażnika grobów 
+0.031% Strój gladiatora 
+0.031% Klucz do pracowni 
+0.031% Głowy klanu 
+0.031% Czaszkowy świecznik 
+0.031% Hełm czystej zgnilizny 
+0.031% Hełm czystej zgnilizny (przerobiony) 
+0.031% Włócznia czystej zgnilizny 
+0.031% Nagolenniki czystej zgnilizny 
+0.031% Rękawice czystej zgnilizny 
+0.031% Zbroja czystej zgnilizny 
+0.031% Zbroja czystej zgnilizny (przerobiona) 
+0.031% Głowa zębatego chochlika 
+0.031% Głowa wilczego chochlika 
+0.031% Głowa kociego chochlika 
+0.031% Głowa chochlika z jęzorem 
+0.031% Głowa trupiego chochlika 
+0.031% Głowa pradawnego chochlika 
+0.031% Skrzydlata kosa 
+0.031% Młot trolla 
+0.031% Miecz rycerza trolli 
+0.031% Kamiennołuska pęknięta łza 
+0.031% Zestaw do wytwarzania 
+0.031% Pieczęć olbrzyma 
+0.031% Modlitewnik olbrzymów 
+0.031% Falanga wielkiego ostrza 
+0.031% Wielka pałka 
+0.031% Wielkie gwiazdy 
+0.031% Nagolenniki Blaidda 
+0.031% Rękawice Blaidda 
+0.031% Zbroja Blaidda 
+0.031% Zbroja Blaidda (przerobiona) 
+0.031% Dzwonek kulisty Łaty 
+0.031% Kometa 
+0.031% Pęknięta łza całunu świętości 
+0.031% Pęknięta łza całunu płomieni 
+0.031% Pęknięta łza całunu błyskawic 
+0.031% Magma Theodorixa 
+0.031% Czaszka celebranta 
+0.031% Zdeformowany smoczy hełm 
+0.031% Nagolenniki zdeformowanego smoka 
+0.031% Rękawice zdeformowanego smoka 
+0.031% Zbroja zdeformowanego smoka 
+0.031% Nagolenniki Białej Trzciny 
+0.031% Rękawice Białej Trzciny 
+0.031% Zbroja Białej Trzciny 
+0.031% Hełm Omenu 
+0.031% Nagolenniki Omenu 
+0.031% Rękawice Omenu 
+0.031% Zbroja Omenu 
+0.031% Drzewo Silurii 
+0.031% Peleryna Upadłego Omenu 
+0.031% Lalka Omenu 
+0.031% Rollo, Zabójca Omenów 
+0.031% Maska złowieszczego uśmiechu 
+0.031% Palec z pierścieniami 
+0.031% Mag bitewny Hugues 
+0.031% Skarabeusz popiołów wojny 
+0.031% Popiół wojny: Szarża prałata 
+0.031% Popiół wojny: Karyjski majestat 
+0.031% Popiół wojny: Rycerski hart 
+0.031% Popiół wojny: Wspólny Porządek 
+0.031% Popiół wojny: Uświęcona ziemia 
+0.031% Popiół wojny: Pięść kradzieży życia 
+0.031% Popiół wojny: Ryk trolla 
+0.031% Popiół wojny: Wyszczerbione ostrze 
+0.031% Popiół wojny: Widmowe cięcie 
+0.031% Popiół wojny: Bariera Thopsa 
+0.031% Popiół wojny: Drapieżnik z mgieł 
+0.031% Popiół wojny: Polowanie na olbrzymy 
+0.031% Popiół wojny: Krok wasalnego rycerza 
+0.031% Popiół wojny: Przynęta białego cienia 
+0.031% Popiół wojny: Cięcie próżni 
+0.031% Popiół wojny: Przebijający kieł 
+0.031% Popiół wojny: Deszcz strzał 
+0.031% Popiół wojny: Cięcie Loretty 
+0.031% Popiół wojny: Gravitas 
+0.031% Popiół wojny: Ryk bestii 
+0.031% Popiół wojny: Złoty rzut 
+0.031% Popiół wojny: Złota kraina 
+0.031% Popiół wojny: Złota przysięga 
+0.031% Popiół wojny: Złote parowanie 
+0.031% Popiół wojny: Tornado czarnego płomienia 
+0.031% Hełm Rozszalałego Wilka 
+0.031% Nagolenniki Rozszalałego Wilka 
+0.031% Rękawice Rozszalałego Wilka 
+0.031% Zbroja Rozszalałego Wilka 
+0.031% Zbroja Rozszalałego Wilka (przerobiona) 
+0.031% Bariera Thopsa 
+0.031% Dzwonek kulisty Thopsa 
+0.031% Miecz św. Triny 
+0.031% Pochodnia św. Triny 
+0.031% Sakwa na talizman 
+0.031% Błyskamienna korona Lazuli 
+0.031% Woal naśladowcy 
+0.031% Kandelabr inkwizytora 
+0.031% Lalka Theroliny, służki palców 
+0.031% Opuszkowy hełm 
+0.031% Opuszkowe nagolenniki 
+0.031% Opuszkowe rękawice 
+0.031% Opuszkowa zbroja 
+0.031% Opuszkowa zbroja (przerobiona) 
+0.031% Kamienna opuszkowa tarcza 
+0.031% Przyzwanie Kościeja 
+0.031% Latarnia 
+0.031% Przywierająca kość 
+0.031% Zwój kodeksu 
+0.031% List: Władca Oszalałego Płomienia 
+0.031% List: Igła Miquelli 
+0.031% Cętkowana twardo-łza 
+0.031% Hełm pojedynkowicza 
+0.031% Nagolenniki pojedynkowicza 
+0.031% Obcinacz palców 
+0.031% Tarcza kręconego rogu 
+0.031% Wielka tarcza z herbem zaćmienia 
+0.031% Glewia szkodnika 
+0.031% Szczęka bestii spadającej gwiazdy 
+0.031% Niebiańska rosa 
+0.031% Kryształowa łza splotu inteligencji 
+0.031% Szkarłatny kaptur 
+0.031% Teleskop 
+0.031% Dzwonek kulisty Corhyna 
+0.031% Dzwonek kulisty Gowry’ego 
+0.031% Furia Gelmir 
+0.031% Bukiet Varrégo 
+0.031% Regalia z Eochaid 
+0.031% Książka z przepisami płatnerza [1] 
+0.031% Książka z przepisami płatnerza [2] 
+0.031% Książka z przepisami płatnerza [3] 
+0.031% Książka z przepisami płatnerza [4] 
+0.031% Książka z przepisami płatnerza [5] 
+0.031% Książka z przepisami płatnerza [6] 
+0.031% Książka z przepisami płatnerza [7] 
+0.031% Włócznia rytuału śmierci 
+0.031% Pogrzebacz śmierci 
+0.031% Morowe korzenie 
+0.031% Suknia na łoże śmierci 
+0.031% Halabarda półksiężyca 
+0.031% Dzwonek kulisty Pidii 
+0.031% Tarcza z meduzy 
+0.031% Książka z przepisami Fevora [1] 
+0.031% Książka z przepisami Fevora [2] 
+0.031% Książka z przepisami Fevora [3] 
+0.031% Falowane ostrze 
+0.031% List Zorayas 
+0.031% Medalion Rold 
+0.031% Topór ofiarny 
+0.031% Deszcz gwiazd 
+0.031% Dzwonek kulisty szubrawca 
+0.031% Dynamiczny zakrzywiony miecz 
+0.031% Dzwonek kulisty koczowniczego kupca [1] 
+0.031% Dzwonek kulisty koczowniczego kupca [10] 
+0.031% Dzwonek kulisty koczowniczego kupca [2] 
+0.031% Dzwonek kulisty koczowniczego kupca [3] 
+0.031% Dzwonek kulisty koczowniczego kupca [4] 
+0.031% Dzwonek kulisty koczowniczego kupca [5] 
+0.031% Dzwonek kulisty koczowniczego kupca [6] 
+0.031% Dzwonek kulisty koczowniczego kupca [7] 
+0.031% Dzwonek kulisty koczowniczego kupca [8] 
+0.031% Dzwonek kulisty koczowniczego kupca [9] 
+0.031% Książka z przepisami wojowników nomadów [1] 
+0.031% Książka z przepisami wojowników nomadów [10] 
+0.031% Książka z przepisami wojowników nomadów [11] 
+0.031% Książka z przepisami wojowników nomadów [12] 
+0.031% Książka z przepisami wojowników nomadów [13] 
+0.031% Książka z przepisami wojowników nomadów [14] 
+0.031% Książka z przepisami wojowników nomadów [15] 
+0.031% Książka z przepisami wojowników nomadów [16] 
+0.031% Książka z przepisami wojowników nomadów [17] 
+0.031% Książka z przepisami wojowników nomadów [18] 
+0.031% Książka z przepisami wojowników nomadów [19] 
+0.031% Książka z przepisami wojowników nomadów [2] 
+0.031% Książka z przepisami wojowników nomadów [20] 
+0.031% Książka z przepisami wojowników nomadów [21] 
+0.031% Książka z przepisami wojowników nomadów [22] 
+0.031% Książka z przepisami wojowników nomadów [23] 
+0.031% Książka z przepisami wojowników nomadów [24] 
+0.031% Książka z przepisami wojowników nomadów [3] 
+0.031% Książka z przepisami wojowników nomadów [4] 
+0.031% Książka z przepisami wojowników nomadów [5] 
+0.031% Książka z przepisami wojowników nomadów [6] 
+0.031% Książka z przepisami wojowników nomadów [7] 
+0.031% Książka z przepisami wojowników nomadów [8] 
+0.031% Książka z przepisami wojowników nomadów [9] 
+0.031% Zagadka mirażu 
+0.031% Młotek Haimy 
+0.031% Armata Haimy 
+0.031% Błyskamienna korona Haimy 
+0.031% Lalka Nepheli Loux 
+0.031% Szkarłatnopęka kryształowa łza 
+0.031% Zielonopęka kryształowa łza 
+0.031% Granatowy kaptur 
+0.031% Klątwa siewu 
+0.031% Łuk rolkowy 
+0.031% Kusza rolkowa 
+0.031% Czarne ostrze 
+0.031% Szkarłatnociekła kryształowa łza 
+0.031% Zielonociekła kryształowa łza 
+0.031% Zaproszenie do Wulkanicznego Dworu 
+0.031% Miecz Milosa 
+0.031% Dzwonek kulisty zbieracza upiornych konwalii [1] 
+0.031% Dzwonek kulisty zbieracza upiornych konwalii [2] 
+0.031% Dzwonek kulisty zbieracza upiornych konwalii [3] 
+0.031% Kryształowa łza splotu zręczności 
+0.031% Pochodnia ognia duchów 
+0.031% Rozżarzone ostrze 
+0.031% Wskazówka śladu noża 
+0.031% Tarcza dymu 
+0.031% Magmowe ostrze 
+0.031% Magmowy bicz w kształcie świecznika 
+0.031% Hełm Tygla z motywem topora 
+0.031% Zbroja Tygla z motywem topora 
+0.031% Zbroja Tygla z motywem topora (przerobiona) 
+0.031% Hełm Tygla z motywem drzewa 
+0.031% Zbroja Tygla z motywem drzewa 
+0.031% Zbroja Tygla z motywem drzewa (przerobiona) 
+0.031% Nagolenniki Tygla 
+0.031% Rękawice Tygla 
+0.031% Rogata tarcza Tygla 
+0.031% Druzgocący kryształ 
+0.031% Pieczęć Bestii 
+0.031% Pieczęć zabójcy bogów 
+0.031% Jednooka tarcza 
+0.031% Kieł wasalnego rycerza 
+0.031% Drapieżne szpony 
+0.031% Czarne pióra drapieżnika 
+0.031% Boskie fortyfikacje władcy 
+0.031% Leczenie władcy 
+0.031% Pomoc władcy 
+0.031% Zwój rodu królewskiego 
+0.031% Królewski wielki miecz 
+0.031% Hełm królewskich szczątków 
+0.031% Nagolenniki królewskich szczątków 
+0.031% Rękawice królewskich szczątków 
+0.031% Zbroja królewskich szczątków 
+0.031% Kajdany Margita 
+0.031% Maska Maraisa 
+0.031% Mgła Borealisa 
+0.031% Opalizująca bańko-łza 
+0.031% Opalizująca twardo-łza 
+0.031% Selliański łamacz pieczęci 
+0.031% Selliański sekret 
+0.031% Pierwotny błyskamień Sellen 
+0.031% Dzwonek kulisty Sellen 
+0.031% Pieczęć Oszalałego Płomienia 
+0.031% Miecz alabastrowego władcy 
+0.031% Latenna, albinauryka 
+0.031% Maska albinauryków 
+0.031% Srebrna lustrzana tarcza 
+0.031% Biała maska 
+0.031% Hełm Wszechwiedzącego 
+0.031% Berło Wszechwiedzącego 
+0.031% Nagolenniki Wszechwiedzącego 
+0.031% Rękawice Wszechwiedzącego 
+0.031% Zbroja Wszechwiedzącego 
+0.031% Wszechwiedząca zbroja (przerobiona) 
+0.031% Wężowa tarcza 
+0.031% Kostur ogara 
+0.031% Czarne ostrze gargulca 
+0.031% Klucz kamiennego miecza 
+0.031% Osełka 
+0.031% Umierające gwiazdy 
+0.031% Żwirowa pieczęć 
+0.031% Szata apostoła boskiej skóry 
+0.031% Kaptur apostoła boskiej skóry 
+0.031% Modlitewnik boskiej skóry 
+0.031% Szata szlachcica boskiej skóry 
+0.031% Kaptur szlachcica boskiej skóry 
+0.031% Skarabeusz inkantacji 
+0.031% Hełm królewskiego rycerza 
+0.031% Nagolenniki królewskiego rycerza 
+0.031% Rękawice królewskiego rycerza 
+0.031% Zbroja królewskiego rycerza 
+0.031% Zbroja królewskiego rycerza (przerobiona) 
+0.031% Zaszyfrowany miecz 
+0.031% Zaszyfrowana pata 
+0.031% Run numena 
+0.031% Głowa niemowlęcego przodka 
+0.031% Łuk w kształcie harfy 
+0.031% Miecz rycerza Miquelli 
+0.031% Dzwonek kulisty Miriela 
+0.031% Nierozłączny miecz 
+0.031% Szkarłatna bańko-łza 
+0.031% Szkarłatnowzorna bańko-łza 
+0.031% Skarabeusz szkarłatnej łzy 
+0.031% Szczapowata pęknięta łza 
+0.031% Zamarznięta igła 
+0.031% Kryształowy miecz 
+0.031% Kryształowy kostur 
+0.031% Kryształowa włócznia 
+0.031% Obraz „Ptak nielot” 
+0.031% Obraz „Zmartwychwstanie” 
+0.031% Obraz „Wyczucie kierunku” 
+0.031% Obraz „Lwia Grzywa” 
+0.031% Obraz „Pieśń czempiona” 
+0.031% Obraz „Proroctwo” 
+0.031% Obraz „Czarodziej” 
+0.031% List do Łaty 
+0.031% List do Bernahla 
+0.031% Wojenna włócznia Vykego 
+0.031% Smoczy piorun Vykego 
+0.031% List Rogiera 
+0.031% Dzwonek kulisty Rogiera 
+0.031% Topór Rosusa 
+0.031% Wielki łuk Loretty 
+0.031% Sierp bojowy Loretty 
+0.031% Mistrzostwo Loretty 
+0.031% Tarcza winowajców 
+0.031% Książka z przepisami szaleńców [1] 
+0.031% Książka z przepisami szaleńców [2] 
+0.031% Skrzydlata kryształowa łza 
+0.031% Hełm weterana 
+0.031% Proteza weterana 
+0.031% Sztandar dowódcy 
+0.031% Nagolenniki weterana 
+0.031% Rękawice weterana 
+0.031% Zbroja weterana 
+0.031% Zbroja weterana (przerobiona) 
+0.031% Maska Okiny 
+0.031% Hełm czempiona bestii 
+0.031% Nagolenniki czempiona bestii 
+0.031% Rękawice czempiona bestii 
+0.031% Zbroja czempiona bestii 
+0.031% Zbroja menażerysty (przerobiona) 
+0.031% Nóż rzeźnika 
+0.031% Spróchniały kostur 
+0.031% Przegniły płaszcz strażnika grobów 
+0.031% Przegniły strój gladiatora 
+0.031% Przegniły hełm pojedynkowicza 
+0.031% Przegniłe nagolenniki pojedynkowicza 
+0.031% Zgniły kryształowy miecz 
+0.031% Zgniły kryształowy kostur 
+0.031% Zgniła kryształowa włócznia 
+0.031% Skrzydło Astela 
+0.031% Meteoryt Astela 
+0.031% Rozkład Ekzykesa 
+0.031% Drzewcowe ostrze Eleonory 
+0.031% Dzwonek kulisty aptekarza 
+0.031% Run bohatera [1] 
+0.031% Run bohatera [2] 
+0.031% Run bohatera [3] 
+0.031% Run bohatera [4] 
+0.031% Run bohatera [5] 
+0.031% Hełm Lionela 
+0.031% Nagolenniki Lionela 
+0.031% Rękawice Lionela 
+0.031% Zbroja Lionela 
+0.031% Zbroja Lionela (przerobiona) 
+0.031% Mgła Fii 
+0.031% Burza lodowa z Zamor 
+0.031% Zakrzywiony miecz z Zamor 
+0.031% Owijacze z Zamor 
+0.031% Owijki z Zamor 
+0.031% Zbroja z Zamor 
+0.031% Maska z Zamor 
+0.031% Dzwonek kulisty Gostoca 
+0.031% Kajdany Mohga 
+0.031% Modra ukryta łza 
+0.031% Skarabeusz modrej łzy 
+0.031% Grzybowa korona 
+0.031% Rapier z ostrogami mrówek 
+0.031% Mrówcza tarczaszka 
+0.031% Wężowy łuk 
+0.031% Worek owodniowy węża 
+0.031% Miecz wężowego boga 
+0.031% Ostrze z wężowej kości 
+0.031% Pamiątka poczwarki 
+0.031% Żądło skorpiona 
+0.031% Porzucony klucz do skrzyni 
+0.031% Przybory krawieckie 
+0.031% Pomarszczony palec zmatowieńca 
+0.031% Dzwonek kulisty opuszczonego kupca 
+0.031% Kolczasty łuk 
+0.031% Kamień pamięci 
+0.031% Dynamiczny miecz Noxów 
+0.031% Dynamiczna buława Noxów 
+0.031% Lustrzany hełm Noxów 
+0.031% Perfumiarka Tricia 
+0.031% Książka z przepisami perfumiarza [1] 
+0.031% Książka z przepisami perfumiarza [2] 
+0.031% Książka z przepisami perfumiarza [3] 
+0.031% Książka z przepisami perfumiarza [4] 
+0.031% Butelka perfum 
+0.031% Dzwonek kulisty Bernahla 
+0.031% Ciernie kary 
+0.031% Karwasze szlachcica boskiej skóry 
+0.031% Wstęp Seluvisa 
+0.031% Eliksir Seluvisa 
+0.031% Dzwonek kulisty Seluvisa 
+0.031% Iglica Helphena 
+0.031% Urumi 
+0.031% Błyskamienny kris 
+0.031% Książka z przepisami mistrza błyskamieni [1] 
+0.031% Książka z przepisami mistrza błyskamieni [2] 
+0.031% Książka z przepisami mistrza błyskamieni [3] 
+0.031% Książka z przepisami mistrza błyskamieni [4] 
+0.031% Książka z przepisami mistrza błyskamieni [5] 
+0.031% Książka z przepisami mistrza błyskamieni [6] 
+0.031% Książka z przepisami mistrza błyskamieni [7] 
+0.031% Książka z przepisami mistrza błyskamieni [8] 
+0.031% Odłamek błyskamiennej komety 
+0.031% Błyskamienne ostrze 
+0.031% Błyskamienny skarabeusz 
+0.031% Cierniowa pęknięta łza 
+0.031% Medalion Dectus (prawa połówka) 
+0.031% Medalion Dectus (lewa połówka) 
+0.031% Wybuchowy ogień duchów 
+0.031% Reduvia 
+0.031% Błogosławieństwo lśniącego baldachimu 
+0.031% Dzwonek kulisty pustelniczego kupca [1] 
+0.031% Dzwonek kulisty pustelniczego kupca [2] 
+0.031% Dzwonek kulisty pustelniczego kupca [3] 
+0.031% Napój zapomnienia 
+0.031% Dzwonek kulisty kupca grawigłazu 
+0.031% Oko bestii 
+0.031% Złote bransolety 
+0.031% Złoty pas 
+0.031% Łachmany Złotej Maski 
+0.031% Pochodnia ze stalowym drutem 
+0.031% Żelazne ostrze 
+0.031% Hełm głogu 
+0.031% Nagolenniki głogu 
+0.031% Rękawice głogu 
+0.031% Zbroja głogu 
+0.031% Zbroja głogu (przerobiona) 
+0.031% Żelazna kasa 
+0.031% Ostrze z rudy meteorytu 
+0.031% Dzwonek kulisty zbieracza konwalii [1] 
+0.031% Dzwonek kulisty zbieracza konwalii [2] 
+0.031% Dzwonek kulisty zbieracza konwalii [3] 
+0.031% Ziemista twardo-łza 
+0.031% Maska srebrnej łzy 
+0.031% Dzwonek kulisty górnika-kowala [1] 
+0.031% Dzwonek kulisty górnika-kowala [2] 
+0.031% Dzwonek kulisty górnika-kowala [3] 
+0.031% Dzwonek kulisty górnika-kowala [4] 
+0.031% Szata Albericha 
+0.031% Szata Albericha (przerobiona) 
+0.031% Spiczasty kapelusz Albericha 
+0.031% Spiczasty kapelusz Albericha (przerobiony) 
+0.031% Karwasze Albericha 
+0.031% Spodnie Albericha 
+0.031% Maska pewności siebie 
+0.031% Dzwonek kulisty odosobnionego kupca [1] 
+0.031% Dzwonek kulisty odosobnionego kupca [2] 
+0.031% Dzwonek kulisty odosobnionego kupca [3] 
+0.031% Nieznośny szał 
+0.031% Kapelusz Śnieżnej Wiedźmy 
+0.031% Szata Śnieżnej Wiedźmy 
+0.031% Szata Śnieżnej Wiedźmy (przerobiona) 
+0.031% Spódnica Śnieżnej Wiedźmy 
+0.031% Hełm rodu Hoslow 
+0.031% Nagolenniki rodu Hoslow 
+0.031% Rękawice rodu Hoslow 
+0.031% Bicz płatkowy rodu Hoslow 
+0.031% Zbroja rodu Hoslow 
+0.031% Zbroja rodu Hoslow (przerobiona) 
+0.031% Maska władcy 
+0.031% Tarcza z obliczem 
+0.031% Król burzowych jastrzębi 
+0.031% Topór burzowego jastrzębia 
+0.031% Deenh, Burzowy Jastrząb 
+0.031% Wietrzna kryształowa łza 
+0.031% Uwolnienie kryształu 
+0.031% Lalka Łajnożercy 
+0.031% Pochodnia odganiająca bestie 
+0.031% Błyskamienna korona wiedźmy 
+0.031% Terra Magica 
+0.031% Spiczasty kapelusz zaklinacza ostrzy 
+0.031% Rękawice zaklinacza ostrzy 
+0.031% Strój podróżny zaklinacza ostrzy 
+0.031% Strój podróżny zaklinacza ostrzy (przerobiony) 
+0.031% Spodnie zaklinacza ostrzy 
+0.031% Duży kapelusz mistrza 
+0.031% Rękawice mistrza 
+0.031% Długa szata mistrza 
+0.031% Długa szata mistrza (przerobiona) 
+0.031% Spodnie mistrza 
+0.031% Klucz nasyconego miecza 
+0.031% Czerwony list 
+0.031% Hełm łuskowy 
+0.031% Nagolenniki łuskowe 
+0.031% Rękawice łuskowe 
+0.031% Zbroja łuskowa 
+0.031% Zbroja łuskowa (przerobiona) 
+0.031% Gniew złota 
+0.031% Złote epitafium 
+0.031% Zasady Złotego Porządku 
+0.031% Pieczęć Złotego Porządku 
+0.031% Złota halabarda 
+0.031% Kodeks Złotego Drzewa 
+0.031% Pieczęć Złotego Drzewa 
+0.031% Wielki łuk Złotego Drzewa 
+0.031% Wielka tarcza Złotego Drzewa 
+0.031% Ochrona Złotego Drzewa 
+0.031% Łuk Złotego Drzewa 
+0.031% Leczenie Złotego Drzewa 
+0.031% Błogosławieństwo Złotego Drzewa 
+0.031% Modlitewnik Złotego Drzewa 
+0.031% Złote nasiono 
+0.031% Złota igła do szycia 
+0.031% Złote przybory krawieckie 
+0.031% Ślad czarnego noża 
+0.031% Nagolenniki Czarnego Noża 
+0.031% Rękawice Czarnego Noża 
+0.031% Zbroja Czarnego Noża 
+0.031% Zbroja Czarnego Noża (przerobiona) 
+0.031% Kaptur Czarnego Noża 
+0.031% Lalki nocnej służki i szermierczyni 
+0.031% Czarny pieróg 
+0.031% Czarny łuk 
+0.031% Mnich czarnego płomienia Amon 
+0.031% Rytuał czarnego płomienia 
+0.031% Maska czarnego wilka 
+0.031% Wielki miecz onyksowego władcy 
+0.031% Modlitewnik kultu smoków 
+0.031% Serce smoka 
+0.031% Smocza halabarda 
+0.031% Tarcza smoczego szponu 
+0.031% Pieczęć smoczej komunii 
+0.031% Hełm smoczego rycerza 
+0.031% Hełm smoczego rycerza (przerobiony) 
+0.031% Nagolenniki smoczego rycerza 
+0.031% Rękawice smoczego rycerza 
+0.031% Zbroja smoczego rycerza 
+0.031% Zbroja smoczego rycerza (przerobiona) 
+0.031% Ostrze ze smoczych łusek 
+0.031% Pęknięty garnek 
+0.031% Dzwonek kulisty D 
+0.037% [ERROR]Splątana pępowina 
+0.037% Wyjątkowa skrucha 
+0.037% Desperacka modlitwa 
+0.037% Figlarne lustro gospodarza 
+0.037% Triumfalna ulga 
+0.037% Dziedzictwo Nosiciela Protezy 
+0.037% Odłamek Alexandra 
+0.037% Na mój miecz 
+0.037% Amulet arsenału 
+0.037% Płócienny talizman wiernych 
+0.037% Amulet niezłomnego rogu 
+0.037% Fiolka Crepusa 
+0.037% Amulet uodparniającego rogu 
+0.037% Pokrzepiający okrzyk 
+0.037% Wewnętrzny porządek 
+0.037% Uspokój się! 
+0.037% Figlarne lustro zgiętego palca 
+0.037% Karyjski herb z aplikacją 
+0.037% Towarzyszące naczynie 
+0.037% Talizman podwójnego ostrza 
+0.037% Dziedzictwo Dwóch Palców 
+0.037% Wskaż w górę 
+0.037% Wskaż w dół 
+0.037% Wskaż w przód 
+0.037% Mój panie 
+0.037% Medalion ryku 
+0.037% Amulet świętego skorpiona 
+0.037% Talizman świętego smoka 
+0.037% Niedola Shabririego 
+0.037% Zewnętrzny porządek 
+0.037% Arsenał wielkiego naczynia 
+0.037% Wyciągnięcie 
+0.037% Talizman kozobyka 
+0.037% Talizman młota 
+0.037% Talizman wielkiej tarczy 
+0.037% Głowa 
+0.037% Jak sobie życzysz 
+0.037% Ukłon 
+0.037% Kucanie Łaty 
+0.037% Insygnia uskrzydlonego miecza 
+0.037% Podskok z radości 
+0.037% Pstryknięcie palcami 
+0.037% Bez broni 
+0.037% Zachwyt 
+0.037% Talizman błogosławionej rosy 
+0.037% Grzeczny ukłon 
+0.037% Odłamek słojownika 
+0.037% Zwykłe powitanie 
+0.037% Naznaczająca pieczęć Radagona 
+0.037% Brawo! 
+0.037% Pomachanie ręką 
+0.037% Kamea szabrownika 
+0.037% Siedzenie bokiem 
+0.037% Ukłon 
+0.037% Nakrapiany naszyjnik 
+0.037% Talizman topora 
+0.037% Talizman zakrzywionego miecza 
+0.037% Czego chcesz? 
+0.037% Szkarłatny sztylet skrytobójcy 
+0.037% Modry sztylet skrytobójcy 
+0.037% Zew bojowy 
+0.037% Ciepłe powitanie 
+0.037% Torbiel Księcia Śmierci 
+0.037% Pryszcz Księcia Śmierci 
+0.037% Błagaj o litość 
+0.037% Przygnębienie 
+0.037% Erudycja 
+0.037% Ostrze pierwotnego błyskamienia 
+0.037% Amulet ognistego skorpiona 
+0.037% Talizman czerwonego smoka 
+0.037% Pokiwaj głową w zamyśleniu 
+0.037% Sękaty talizman Tygla 
+0.037% Pierzasty talizman Tygla 
+0.037% Łuskowaty talizman Tygla 
+0.037% Niedola Daedicar 
+0.037% Talizman rytualnego miecza 
+0.037% Talizman rytualnej tarczy 
+0.037% Naznaczająca pieczęć Mariki 
+0.037% Talizman perłowego smoka 
+0.037% Amulet rozjaśniającego umysł rogu 
+0.037% Siła! 
+0.037% Skrzyżowane nogi 
+0.037% Drzemka w siadzie skrzyżnym 
+0.037% Talizman włóczni 
+0.037% Talizman sztyletu 
+0.037% Talizman żądlącej strzały 
+0.037% Dziedzictwo Gwiezdnej Plagi 
+0.037% Modlitwa 
+0.037% Powijak boskiej skóry 
+0.037% Odpoczynek 
+0.037% Czekaj! 
+0.037% Proteza Millicenty 
+0.037% Talizman szkarłatnego nasiona 
+0.037% Drzewny miecz z czerwonymi piórami 
+0.037% Medalion z bursztynem malachitowym 
+0.037% Talizman zielonego żółwia 
+0.037% Zwinięcie 
+0.037% Płócienny talizman trzody 
+0.037% Radość klanu zgnilizny 
+0.037% Przegniłe insygnia uskrzydlonego miecza 
+0.037% Ręce 
+0.037% Nogi 
+0.037% Dziękuję 
+0.037% Medalion z bursztynem modrym 
+0.037% Talizman modrego nasiona 
+0.037% Drzewny miecz z niebieskimi piórami 
+0.037% Niebieski amulet tancerki 
+0.037% Dziedzictwo astrolożki 
+0.037% Talizman perfumiarza 
+0.037% Ciało 
+0.037% Fantazyjny obrót 
+0.037% Skiń 
+0.037% Talizman dalekosiężnej strzały 
+0.037% Uprzejmy ukłon 
+0.037% Złoty skarabeusz 
+0.037% Talizman pazura 
+0.037% Srebrny skarabeusz 
+0.037% Brosza kota z długim ogonem 
+0.037% Kryjący welon 
+0.037% Amulet skorpiona błyskawic 
+0.037% Talizman żółtego smoka 
+0.037% Przysięga rodu Hoslow 
+0.037% Talizman kopii 
+0.037% Talizman kamiennej masy 
+0.037% Talizman kamiennej szkoły 
+0.037% Całokształt Złotego Porządku 
+0.037% Łaska Złotego Drzewa 
+0.037% Talizman starożytnego smoka 
+0.043% [ERROR] 
+0.043% Strój giermka o wysokiej pozycji 
+0.043% Strój giermka o wysokiej pozycji (przerobiony) 
+0.043% Kaptur giermka o wysokiej pozycji 
+0.043% Kostur straty 
+0.043% Płomienne ostrze mnicha 
+0.043% Płomienna buława mnicha 
+0.043% Kostur półludzkiej królowej 
+0.043% Tarcza z motywem krzyżodrzewa 
+0.043% Oszpecona drewniana tarcza 
+0.043% Oszpecona skórzana tarcza 
+0.043% Słojowa tarcza człowieka-bestii 
+0.043% Tasak człowieka-bestii 
+0.043% Miecz człowieka-bestii 
+0.043% Kolczasta pałka 
+0.043% Tarcza żelazkowa z herbem bestii 
+0.043% Złota tarcza z herbem bestii 
+0.043% Tarcza lodowego herbu 
+0.043% Rozwidlony wielki miecz 
+0.043% Rozwidlony topór 
+0.043% Estok 
+0.043% Glewia 
+0.043% Zakrzywiony miecz grabieżcy 
+0.043% Sztylet 
+0.043% Krzyżowa naginata 
+0.043% Kilof 
+0.043% Koślawa tarcza 
+0.043% Wielki nóż 
+0.043% Karyjski kostur błyskostrza 
+0.043% Karyjski błyskamienny kostur 
+0.043% Podwójne ostrze 
+0.043% Miecz dwuręczny 
+0.043% Wielka dystyngowana tarcza 
+0.043% Wielki miecz zaprzysiężonego 
+0.043% Tarcza zaprzysiężonego 
+0.043% Prosty miecz zaprzysiężonego 
+0.043% Okrągła tarcza 
+0.043% Zapisana drewniana tarcza 
+0.043% Tarcza z herbem Świętego Drzewa 
+0.043% Długa tarcza z motywem dworu 
+0.043% Grobowa kosa 
+0.043% Żołnierska kusza 
+0.043% Łuk kompozytowy 
+0.043% Claymore 
+0.043% Wielki łuk 
+0.043% Duży kij 
+0.043% Duża skórzana tarcza 
+0.043% Wielka szpada 
+0.043% Kosa 
+0.043% Tarcza Krainy Słońca 
+0.043% Wielki miecz wypędzonego rycerza 
+0.043% Halabarda wypędzonego rycerza 
+0.043% Tarcza wypędzonego rycerza 
+0.043% Błyskamienny kostur Akademii 
+0.043% Miecznia strażnika 
+0.043% Miecz rycerza czystej zgnilizny 
+0.043% Hełm piechura 
+0.043% Puklerz 
+0.043% Złoty miecz trolla 
+0.043% Zakrzywiony miecz bandyty 
+0.043% Wielki miecz 
+0.043% Grossmesser 
+0.043% Wielka buława 
+0.043% Wielki topór 
+0.043% Sierp celebranta 
+0.043% Tasak celebranta 
+0.043% Kościane grabie celebranta 
+0.043% Topór w kształcie półksiężyca 
+0.043% Tasak 
+0.043% Zakrzywiony wielki kij 
+0.043% Zakrzywiona pałka 
+0.043% Rękawice rabusia 
+0.043% Wyściełana zbroja rabusia 
+0.043% Kaptur rabusia 
+0.043% Tasak Omenów 
+0.043% Wielki tasak Zabójcy Omenów 
+0.043% Długie rękawice Zabójcy Omenów 
+0.043% Szata Zabójcy Omenów 
+0.043% Buty Zabójcy Omenów 
+0.043% Szotel prostackiej gwardii 
+0.043% Piła pospolitaka 
+0.043% Mizerykordia 
+0.043% Topór wojenny 
+0.043% Popiół wojny: Podwójne cięcie 
+0.043% Popiół wojny: Lodowa włócznia 
+0.043% Popiół wojny: Gorliwość 
+0.043% Popiół wojny: Szronowe stąpnięcie 
+0.043% Popiół wojny: Konfrontacja 
+0.043% Popiół wojny: Seppuku 
+0.043% Popiół wojny: Taniec miecza 
+0.043% Popiół wojny: Karyjski wielki miecz 
+0.043% Popiół wojny: Karyjski odwet 
+0.043% Popiół wojny: Władca Burz 
+0.043% Popiół wojny: Uderzenia z obrotu 
+0.043% Popiół wojny: Cięcie z obrotu 
+0.043% Popiół wojny: Święty Porządek 
+0.043% Popiół wojny: Rzucenie na ziemię 
+0.043% Popiół wojny: Ryk samochwały 
+0.043% Popiół wojny: Zaklęty strzał 
+0.043% Popiół wojny: Chłodna mgła 
+0.043% Popiół wojny: Strzał w niebo 
+0.043% Popiół wojny: Dobycie 
+0.043% Popiół wojny: Widmowa lanca 
+0.043% Popiół wojny: Wytrwałość 
+0.043% Popiół wojny: Okrzyk bojowy 
+0.043% Popiół wojny: Potężny strzał 
+0.043% Popiół wojny: Trzęsienie ziemi 
+0.043% Popiół wojny: Brak umiejętności 
+0.043% Popiół wojny: Przysięga niezłomnych 
+0.043% Popiół wojny: Gambit zabójcy 
+0.043% Popiół wojny: Odbicie 
+0.043% Popiół wojny: Płonące uderzenie 
+0.043% Popiół wojny: Erupcja 
+0.043% Popiół wojny: Lwi pazur 
+0.043% Popiół wojny: Szał 
+0.043% Popiół wojny: Cios tarczą 
+0.043% Popiół wojny: Szybki odskok 
+0.043% Popiół wojny: Modlitewne uderzenie 
+0.043% Popiół wojny: Szarża naprzód 
+0.043% Popiół wojny: Szarża z tarczą 
+0.043% Popiół wojny: Tupnięcie (cięcie w górę) 
+0.043% Popiół wojny: Tupnięcie (zamaszyste) 
+0.043% Popiół wojny: Grom 
+0.043% Popiół wojny: Nadziewające pchnięcie 
+0.043% Popiół wojny: Na wylot 
+0.043% Popiół wojny: Kopnięcie 
+0.043% Popiół wojny: Wirujący oręż 
+0.043% Popiół wojny: Falanga błyskostrza 
+0.043% Popiół wojny: Błyskamienny pocisk 
+0.043% Popiół wojny: Napierające pchnięcie 
+0.043% Popiół wojny: Grad 
+0.043% Popiół wojny: Barbarzyński ryk 
+0.043% Popiół wojny: Barykada z tarczy 
+0.043% Popiół wojny: Cięcie błyskawicy 
+0.043% Popiół wojny: Burzowe ostrze 
+0.043% Popiół wojny: Burzowe natarcie 
+0.043% Popiół wojny: Burzowe stąpnięcie 
+0.043% Popiół wojny: Burzowa ściana 
+0.043% Pika wojenna 
+0.043% Szpon jastrzębia bojowego 
+0.043% Halabarda 
+0.043% Topór ręczny 
+0.043% Mieczolaska 
+0.043% Uchigatana 
+0.043% Błyskamienny miecz Lazuli 
+0.043% Szata Lazuli 
+0.043% Katar 
+0.043% Pieczęć palców 
+0.043% Kostur górnika 
+0.043% Cestus 
+0.043% Ręczna balista 
+0.043% Wielki topór pojedynkowicza 
+0.043% Młot wojenny 
+0.043% Wielki topór kata 
+0.043% Tarcza żelazkowa z herbem zaćmienia 
+0.043% Gwiezdna pięść 
+0.043% Gwiazda zaranna 
+0.043% Wielka tarcza z drewna 
+0.043% Estok szlachcica 
+0.043% Smukły miecz szlachecki 
+0.043% Wielka kukułcza tarcza 
+0.043% Tarcza pręgierza 
+0.043% Błyskamienny kostur z Gelmir 
+0.043% Sztylet do parowania 
+0.043% Pałka 
+0.043% Kolczaste cestus 
+0.043% Włócznia najeżona kolcami 
+0.043% Wypaczony topór 
+0.043% Kostur Księcia Śmierci 
+0.043% Harpun glinianego człowieka 
+0.043% Miecz półtoraręczny 
+0.043% Krótki łuk aberracji 
+0.043% Pochodnia 
+0.043% Drewniana tarcza ognistego herbu 
+0.043% Stojąca pochodnia 
+0.043% Drewniana tarcza z drzewa świecowego 
+0.043% Flamberg 
+0.043% Tarcza żelazkowa 
+0.043% Pazury wasalnego rycerza 
+0.043% Szkarłatny tabard 
+0.043% Młot lucereński 
+0.043% Łuk albinauryków 
+0.043% Kostur albinauryków 
+0.043% Tarcza albinauryków 
+0.043% Tabard opięty skórą 
+0.043% Wielki miecz ogara 
+0.043% Włócznia 
+0.043% Krótki miecz 
+0.043% Krótki łuk 
+0.043% Bułat 
+0.043% Krótka włócznia 
+0.043% Podwójne ostrze gargulca 
+0.043% Wielki miecz gargulca 
+0.043% Wielki topór gargulca 
+0.043% Halabarda gargulca 
+0.043% Czarne ostrza gargulca 
+0.043% Czarna halabarda gargulca 
+0.043% Czarny topór gargulca 
+0.043% Kamienna pałka 
+0.043% Młot 
+0.043% Młot murarski 
+0.043% Obieracz boskiej skóry 
+0.043% Zszywacz boskiej skóry 
+0.043% Niszczyciel olbrzymów 
+0.043% Krótki łuk z czerwonej gałęzi 
+0.043% Ciernista okrągła tarcza 
+0.043% Wielka tarcza Lwiej Grzywy 
+0.043% Tarcza żelazkowa z czerwonym herbem 
+0.043% Rapier 
+0.043% Kryształowy nóż 
+0.043% Rapier Rogiera 
+0.043% Kostur winowajców 
+0.043% Podniszczony prosty miecz 
+0.043% Wakizashi 
+0.043% Zgniły wielki topór 
+0.043% Zgniły młot wojenny 
+0.043% Cierniowy bicz 
+0.043% Szata Fii 
+0.043% Szata Fii (przerobiona) 
+0.043% Kaptur Fii 
+0.043% Niebiesko-biała tarcza z drewna 
+0.043% Tarcza żelazkowa z niebieskim herbem 
+0.043% Niebiesko-złota trójkątna tarcza 
+0.043% Tarcza człowieka-węża 
+0.043% Trójkątna tarcza skorpiona 
+0.043% Ostrze modliszki 
+0.043% Tarcza szczelinowa 
+0.043% Kostur astrologa 
+0.043% Tarcza perfumiarza 
+0.043% Sierp z kości słoniowej 
+0.043% Tabard opięty kremową tkaniną 
+0.043% Szamszir 
+0.043% Bicz 
+0.043% Lekka kusza 
+0.043% Błyskamienny kostur 
+0.043% Korbacz 
+0.043% Tarcza z odwróconym jastrzębiem 
+0.043% Tarcza z odwróconym jastrzębiem 
+0.043% Ciężka kusza 
+0.043% Pozłacana wielka tarcza 
+0.043% Pozłacana żelazna tarcza 
+0.043% Tarcza kolczastej palisady 
+0.043% Arbalest 
+0.043% Szotel 
+0.043% Hakoszpony 
+0.043% Żelazny wielki miecz 
+0.043% Żelazna włócznia 
+0.043% Żelazna okrągła tarcza 
+0.043% Cep bojowy 
+0.043% Żelazny tasak 
+0.043% Wielka tarcza głogu 
+0.043% Żelazna kula 
+0.043% Ćwiekowana drewniana tarcza 
+0.043% Zardzewiała kotwica 
+0.043% Buława 
+0.043% Długi miecz 
+0.043% Długi łuk 
+0.043% Topór z długą rękojeścią 
+0.043% Nagakiba 
+0.043% Pika 
+0.043% Szeroki miecz 
+0.043% Partyzana 
+0.043% Kostur z meteorytu 
+0.043% Topór z kości żuchwy 
+0.043% Drewniana tarcza z motywem konia 
+0.043% Lanca 
+0.043% Zrzucacz 
+0.043% Bliźniacze miecze rycerza 
+0.043% Wielki miecz rycerski 
+0.043% Topór wyżynny 
+0.043% Wielki łuk golema 
+0.043% Halabarda golema 
+0.043% Trójkątna tarcza 
+0.043% Drewniana tarcza z motywem jastrzębia 
+0.043% Wielka złota tarcza 
+0.043% Mosiężna tarcza 
+0.043% Sztylet ze złotej stali 
+0.043% Glewia nocnego jeźdźca 
+0.043% Korbacz Nocnego Jeźdźca  
+0.043% Czarna skórzana tarcza 
+0.043% Długa tarcza z motywem smoka 
+0.049% [ERROR] 
+0.049% [ERROR] 
+0.049% [ERROR]Wyznanie Ijiego 
+0.049% [ERROR]Strój bojowy nieustraszonego 
+0.049% [ERROR]Strój bojowy nieustraszonego (przerobiony) 
+0.049% [ERROR]Skórzany hełm nieustraszonego 
+0.049% [ERROR]Owijacze nieustraszonego 
+0.049% [ERROR]Naramiennik nieustraszonego 
+0.049% [ERROR]Diadem nieustraszonego 
+0.049% [ERROR]Naszyjnik Rayi 
+0.049% [ERROR]Pieczęć świetlika kapliczki 
+0.049% [ERROR] 
+0.049% Szata wyższych sfer 
+0.049% Klucz do więziennego rynsztoku 
+0.049% Niezmienna tarcza 
+0.049% Prochy półczłowieka 
+0.049% Prochy człowieka-bestii z Azuli 
+0.049% Hełm marionetkowego żołnierza 
+0.049% Zbroja marionetkowego żołnierza 
+0.049% Ptasi hełm marionetkowego żołnierza 
+0.049% Prochy marionetkowego żołnierza 
+0.049% List Iriny 
+0.049% Szata małżonki 
+0.049% Spodnie małżonki 
+0.049% Dysk światła 
+0.049% Szpon bestii 
+0.049% Proca bestii 
+0.049% Zamarznięta włócznia błyskawic 
+0.049% Mroźna mgła 
+0.049% Prochy kaideńskiego najemnika 
+0.049% Kaideński hełm 
+0.049% Kaideńskie rękawice 
+0.049% Kaideńska zbroja 
+0.049% Kaideńskie spodnie 
+0.049% Wybuch szału 
+0.049% Nadejście zabójcy 
+0.049% Nagolenniki wojownika 
+0.049% Rękawice wojownika 
+0.049% Obręcz czempiona 
+0.049% Stuptuty czempiona 
+0.049% Naramiennik czempiona 
+0.049% Karwasze czempiona 
+0.049% Potrójne kręgi światła 
+0.049% Niewidoczna forma 
+0.049% Karyjski wielki miecz 
+0.049% Karyjski odwet 
+0.049% Karyjski przebijak 
+0.049% Karyjski siekacz 
+0.049% Hełm karyjskiego rycerza 
+0.049% Nagolenniki karyjskiego rycerza 
+0.049% Rękawice karyjskiego rycerza 
+0.049% Zbroja karyjskiego rycerza 
+0.049% Zbroja karyjskiego rycerza (przerobiona) 
+0.049% Prochy bliźnioksiężnika 
+0.049% Prochy szalonego dyniogłowego 
+0.049% Zew animozji 
+0.049% Gadająca głowa „Witaj” 
+0.049% Gadająca głowa „Cudownie” 
+0.049% Gadająca głowa „Wybacz” 
+0.049% Gadająca głowa „Bierzmy się do tego” 
+0.049% Gadająca głowa „Kochanie moje” 
+0.049% Gadająca głowa „Proszę, pomóż” 
+0.049% Gadająca głowa „Dziękuję” 
+0.049% Strój więźnia 
+0.049% Żelazna maska więźnia 
+0.049% Spodnie więźnia 
+0.049% Klinga Porządku 
+0.049% Leczenie Porządku 
+0.049% Kasak z herbem Świętego Drzewa 
+0.049% Prochy żołnierza Świętego Drzewa 
+0.049% Nagolenniki Świętego Drzewa 
+0.049% Rękawice Świętego Drzewa 
+0.049% Nagolenniki rycerza Świętego Drzewa 
+0.049% Rękawice rycerza Świętego Drzewa 
+0.049% Zbroja rycerza Świętego Drzewa 
+0.049% Zbroja rycerza Świętego Drzewa (przerobiona) 
+0.049% Boskie fortyfikacje 
+0.049% Kaptur zdeprawowanego perfumiarza 
+0.049% Rękawice zdeprawowanego perfumiarza 
+0.049% Szata zdeprawowanego perfumiarza 
+0.049% Szata zdeprawowanego perfumiarza (przerobiona) 
+0.049% Spodnie zdeprawowanego perfumiarza 
+0.049% Wielkie leczenie 
+0.049% Kasak z motywem drzewa i bestii 
+0.049% Kasak z motywem drzewa 
+0.049% Prochy tarczownika 
+0.049% Prochy wielkiego szczura 
+0.049% Obręcz z wielkimi rogami 
+0.049% Hełm wypędzonego rycerza 
+0.049% Hełm wypędzonego rycerza (przerobiony) 
+0.049% Nagolenniki wypędzonego rycerza 
+0.049% Rękawice wypędzonego rycerza 
+0.049% Zbroja wypędzonego rycerza 
+0.049% Zbroja wypędzonego rycerza (przerobiona) 
+0.049% Odłamek zasadzki 
+0.049% Szata strażnika 
+0.049% Nagolenniki strażnika 
+0.049% Karwasze strażnika 
+0.049% Maska strażnika 
+0.049% Strój oficjalny 
+0.049% Rękawice konfesora 
+0.049% Strój konfesora 
+0.049% Strój konfesora (przerobiony) 
+0.049% Buty konfesora 
+0.049% Kaptur konfesora 
+0.049% Kaptur konfesora (przerobiony) 
+0.049% Nagolenniki piechura 
+0.049% Rękawice piechura 
+0.049% Tabard piechura 
+0.049% Pozłacany morion piechura 
+0.049% Łebka piechura 
+0.049% Kapalin piechura 
+0.049% Prochy pędu Mirandy 
+0.049% Prochy zębatego chochlika 
+0.049% Plebejskie odzienie 
+0.049% Plebejskie odzienie (przerobione) 
+0.049% Zwykłe plebejskie odzienie 
+0.049% Zwykłe plebejskie odzienie (przerobione) 
+0.049% Plebejska obręcz 
+0.049% Plebejska obręcz (przerobiona) 
+0.049% Plebejskie buty 
+0.049% Proca 
+0.049% Wielki hełm 
+0.049% Płócienny strój 
+0.049% Płócienne spodnie 
+0.049% Prochy skrzydlatej aberracji 
+0.049% Czapka młodego uczonego 
+0.049% Szata młodego uczonego 
+0.049% Stary chaperon arystokraty 
+0.049% Stare buty arystokraty 
+0.049% Stara szata arystokraty 
+0.049% Odświętna szata 
+0.049% Odświętna szata (przerobiona) 
+0.049% Odświętna szata z niebieską peleryną 
+0.049% Niebieski odświętny kaptur 
+0.049% Odświętny kaptur 
+0.049% Odświętny kaptur (przerobiony) 
+0.049% Prochy wędrownego szlachcica 
+0.049% Leczenie 
+0.049% Nagroda błogosławieństwa 
+0.049% Hełm pospolitaka 
+0.049% Prochy pospolitego ruszenia 
+0.049% Nagolenniki pospolitaka 
+0.049% Rękawice pospolitaka 
+0.049% Zbroja pospolitaka 
+0.049% Rękawice chirurga polowego 
+0.049% Szata chirurga polowego 
+0.049% Szata chirurga polowego (przerobiona) 
+0.049% Spodnie chirurga polowego 
+0.049% Owijacze maga bitewnego 
+0.049% Owijki maga bitewnego 
+0.049% Szata maga bitewnego 
+0.049% Prochy jastrzębia bojowego 
+0.049% Proca płomienia 
+0.049% Rękawice 
+0.049% Wielki run Rykarda 
+0.049% Hełm żołnierza Radahna 
+0.049% Prochy żołnierza Radahna 
+0.049% Nagolenniki żołnierza Radahna 
+0.049% Rękawice żołnierza Radahna 
+0.049% Wielki run Radahna 
+0.049% Kręgi światła Radagona 
+0.049% Odmowa 
+0.049% Zniszczony kapelusz 
+0.049% Zniszczony kapelusz (przerobiony) 
+0.049% Zniszczone rękawice 
+0.049% Zniszczona przepaska 
+0.049% Zniszczona zbroja 
+0.049% Zniszczona zbroja (przerobiona) 
+0.049% Opaska na włosy służki palców 
+0.049% Szata służki palców 
+0.049% Szata służki palców (przerobiona) 
+0.049% Buty służki palców 
+0.049% Prochy łucznika 
+0.049% Ubranie podróżnika 
+0.049% Rękawice podróżującej służki 
+0.049% Szata podróżującej służki 
+0.049% Szata podróżującej służki (przerobiona) 
+0.049% Buty podróżującej służki 
+0.049% Kaptur podróżującej służki 
+0.049% Kapelusz podróżnika 
+0.049% Rękawice podróżnika 
+0.049% Karwasze podróżnika 
+0.049% Spodnie podróżnika 
+0.049% Buty podróżnika 
+0.049% Spirala odłamków 
+0.049% Niewidoczne ostrze 
+0.049% Światło gwiazd 
+0.049% Strój arystokraty 
+0.049% Strój arystokraty (przerobiony) 
+0.049% Płaszcz arystokraty 
+0.049% Obręcz arystokraty 
+0.049% Kapelusz arystokraty 
+0.049% Trzewiki arystokraty 
+0.049% Prochy szlacheckiego czarodzieja 
+0.049% Kasak z motywem kukułki 
+0.049% Hełm rycerza Kukułki 
+0.049% Nagolenniki rycerza Kukułki 
+0.049% Rękawice rycerza Kukułki 
+0.049% Zbroja rycerza Kukułki 
+0.049% Zbroja rycerza Kukułki (przerobiona) 
+0.049% Szata Corhyna 
+0.049% Hełm rycerza z Gelmir 
+0.049% Nagolenniki rycerza z Gelmir 
+0.049% Rękawice rycerza z Gelmir 
+0.049% Zbroja rycerza z Gelmir 
+0.049% Zbroja rycerza z Gelmir (przerobiona) 
+0.049% Oczyszczający czarny płomień 
+0.049% Futrzany strój 
+0.049% Futrzane nogawice 
+0.049% Prochy glinianego człowieka 
+0.049% Nagolenniki wygnańca 
+0.049% Rękawice wygnańca 
+0.049% Zbroja wygnańca 
+0.049% Kaptur wygnańca 
+0.049% Żelazna maska szubrawca 
+0.049% Zdobna szata koczowniczego kupca 
+0.049% Zdobiona szata koczowniczego kupca (przerobiona) 
+0.049% Kapelusz koczowniczego kupca 
+0.049% Spodnie koczowniczego kupca 
+0.049% Prochy nomady 
+0.049% Hełm rycerza włóczęgi 
+0.049% Nagolenniki rycerza włóczęgi 
+0.049% Rękawice rycerza włóczęgi 
+0.049% Zbroja rycerza włóczęgi 
+0.049% Zbroja rycerza włóczęgi (przerobiona) 
+0.049% Nagolenniki ronina 
+0.049% Rękawice ronina 
+0.049% Zbroja ronina 
+0.049% Zbroja ronina (przerobiona) 
+0.049% Zmącona magma 
+0.049% Ogniste fortyfikacje 
+0.049% Prochy żołnierza mauzoleum 
+0.049% Nagolenniki mauzoleum 
+0.049% Rękawice mauzoleum 
+0.049% Kasak mauzoleum 
+0.049% Nagolenniki rycerza mauzoleum 
+0.049% Rękawice rycerza mauzoleum 
+0.049% Zbroja rycerza mauzoleum 
+0.049% Zbroja rycerza mauzoleum (przerobiona) 
+0.049% Butelka niesamowitego eliksiru 
+0.049% Prochy duchowej meduzy 
+0.049% Magmowe zionięcie 
+0.049% Magmowy strzał 
+0.049% Aspekty Tygla: Zionięcie 
+0.049% Aspekty Tygla: Ogon 
+0.049% Aspekty Tygla: Rogi 
+0.049% Zapalenie 
+0.049% Niszczyciel skał 
+0.049% Rozbicie ziemi 
+0.049% Prochy najemnego słojownika 
+0.049% Gałązka ofiarna 
+0.049% Maska Diallosa 
+0.049% Hełm wasalnego rycerza 
+0.049% Nagolenniki wasalnego rycerza 
+0.049% Rękawice wasalnego rycerza 
+0.049% Zbroja wasalnego rycerza 
+0.049% Zbroja wasalnego rycerza (przerobiona) 
+0.049% Wielki run Malenii 
+0.049% Szata Maraisa 
+0.049% Zardzewiały klucz 
+0.049% Płomień szału 
+0.049% Prochy albinauryka 
+0.049% Skórzane rękawice 
+0.049% Skórzana zbroja 
+0.049% Skórzane spodnie 
+0.049% Skórzane buty 
+0.049% Odzienie bandyty 
+0.049% Owijki bandyty 
+0.049% Maska bandyty 
+0.049% Buty bandyty 
+0.049% Kasak z motywem oka 
+0.049% Prochy pradawnego wyznawcy 
+0.049% Prochy posłańca wyroczni 
+0.049% Duża bańka proroctwa 
+0.049% Bańki wyroczni 
+0.049% Futro szamana 
+0.049% Nogawice szamana 
+0.049% Prochy samotnego wilka 
+0.049% Karwasze Błędnego Czarodzieja 
+0.049% Szata Błędnego Czarodzieja 
+0.049% Szata Błędnego Czarodzieja (przerobiona) 
+0.049% Buty Błędnego Czarodzieja 
+0.049% Głowa ośmiornicy 
+0.049% Udoskonalony piorun 
+0.049% Szybkie leczenie 
+0.049% Litania prawdziwej śmierci 
+0.049% Kasak z motywem Lwiej Grzywy 
+0.049% Hełm rycerza Lwiej Grzywy 
+0.049% Nagolenniki rycerza Lwiej Grzywy 
+0.049% Rękawice rycerza Lwiej Grzywy 
+0.049% Zbroja rycerza Lwiej Grzywy 
+0.049% Zbroja rycerza Lwiej Grzywy (przerobiona) 
+0.049% Butelka szkarłatnych łez 
+0.049% Mroźny oręż 
+0.049% Prochy krysztalnika 
+0.049% Kryształowy wybuch 
+0.049% Nawałnica kryształów 
+0.049% Igła do szycia 
+0.049% Hełm żołnierza z Leyndell 
+0.049% Prochy żołnierza z Leyndell 
+0.049% Nagolenniki żołnierza z Leyndell 
+0.049% Rękawice żołnierza z Leyndell 
+0.049% Hełm rycerza z Leyndell 
+0.049% Nagolenniki rycerza z Leyndell 
+0.049% Rękawice rycerza z Leyndell 
+0.049% Zbroja rycerza z Leyndell 
+0.049% Zbroja rycerza z Leyndell (przerobiona) 
+0.049% Kaptur grzesznika 
+0.049% Kolce grzechu 
+0.049% Prochy gnijącego upiora 
+0.049% Zionięcie zgnilizną 
+0.049% Prochy członka klanu zgnilizny 
+0.049% Prochy parszywego przybłędy 
+0.049% Kastaniety tancerki 
+0.049% Hełm z Krainy Trzcin 
+0.049% Nagolenniki z Krainy Trzcin 
+0.049% Rękawice z Krainy Trzcin 
+0.049% Zbroja z Krainy Trzcin 
+0.049% Zbroja z Krainy Trzcin (przerobiona) 
+0.049% Karwasze z błękitnego srebra 
+0.049% Kolczuga z błękitnego srebra 
+0.049% Kolczuga z błękitnego srebra (przerobiona) 
+0.049% Spódnica kolcza z błękitnego srebra 
+0.049% Kaptur kolczy z błękitnego srebra 
+0.049% Naszyjnik Ryi 
+0.049% Hełm żołnierza Godricka 
+0.049% Prochy żołnierza Godricka 
+0.049% Nagolenniki żołnierza Godricka 
+0.049% Rękawice żołnierza Godricka 
+0.049% Wielki run Godricka 
+0.049% Hełm rycerza Godricka 
+0.049% Nagolenniki rycerza Godricka 
+0.049% Rękawice rycerza Godricka 
+0.049% Zbroja rycerza Godricka 
+0.049% Zbroja rycerza Godricka (przerobiona) 
+0.049% Wielki run Mohga 
+0.049% Wielki run Morgotta 
+0.049% Niebieska szata z kamizelą 
+0.049% Niebieska chusta 
+0.049% Butelka modrych łez 
+0.049% Grzybowa głowa 
+0.049% Grzybowe ręce 
+0.049% Grzybowe nogi 
+0.049% Grzybowe ciało 
+0.049% Nici szkodników 
+0.049% Prochy człowieka-węża 
+0.049% Rój much 
+0.049% Rękawice astrologa 
+0.049% Szata astrologa 
+0.049% Szata astrologa (przerobiona) 
+0.049% Spodnie astrologa 
+0.049% Kaptur astrologa 
+0.049% Przynęta cieni 
+0.049% Rękawice Noxów 
+0.049% Nagolenniki Noxów 
+0.049% Zbroja kapłana Noxów 
+0.049% Zbroja kapłana Noxów (przerobiona) 
+0.049% Kaptur kapłana Noxów 
+0.049% Kaptur kapłana Noxów (przerobiony) 
+0.049% Korona Noxyjskiej szermierczyni 
+0.049% Korona Noxyjskiej szermierczyni (przerobiona) 
+0.049% Zbroja Noxyjskiej szermierczyni 
+0.049% Zbroja Noxyjskiej szermierczyni (przerobiona) 
+0.049% Rękawice perfumiarza 
+0.049% Strój podróżny perfumiarza 
+0.049% Strój podróżny perfumiarza (przerobiony) 
+0.049% Sarong perfumiarza 
+0.049% Szata perfumiarza 
+0.049% Szata perfumiarza (przerobiona) 
+0.049% Kaptur perfumiarza 
+0.049% Szata mędrca 
+0.049% Spodnie mędrca 
+0.049% Kaptur mędrca 
+0.049% Szlacheckie rękawice 
+0.049% Szlachecki strój podróżny 
+0.049% Szlachetna obecność 
+0.049% Falanga błyskostrza 
+0.049% Błyskamienna lodowa skała 
+0.049% Błyskamienne zionięcie 
+0.049% Wielki odłamek błyskamienia 
+0.049% Błyskamienny łuk 
+0.049% Błyskamienne gwiazdy 
+0.049% Szybki odłamek błyskamienia 
+0.049% Prochy błyskamiennego czarodzieja 
+0.049% Błyskamienny pocisk 
+0.049% Mgiełka z kwasem 
+0.049% Studnia grawitacyjna 
+0.049% Wytrzymałość bestii 
+0.049% Żywotność bestii 
+0.049% Żelazny hełm 
+0.049% Żelazne rękawice 
+0.049% Czepiec kolczy 
+0.049% Tabard opięty kolczugą 
+0.049% Nogawice kolcze 
+0.049% Zbroja kolcza 
+0.049% Klarowność 
+0.049% Prochy lądowej osłonicy 
+0.049% Meteoryt 
+0.049% Strój giermka 
+0.049% Strój giermka (przerobiony) 
+0.049% Prochy pazia 
+0.049% Spodnie giermka 
+0.049% Kaptur giermka 
+0.049% Hełm z Rai Lucarii 
+0.049% Prochy żołnierza z Rai Lucarii 
+0.049% Nagolenniki z Rai Lucarii 
+0.049% Rękawice z Rai Lucarii 
+0.049% Szata z Rai Lucarii 
+0.049% Uderzenie pioruna 
+0.049% Naelektryzowanie oręża 
+0.049% Fortyfikacje błyskawic 
+0.049% Przepaska na oczy proroka 
+0.049% Szata proroka 
+0.049% Szata proroka (przerobiona) 
+0.049% Spodnie proroka 
+0.049% Szata władcy 
+0.049% Rycerski hełm 
+0.049% Rycerskie nagolenniki 
+0.049% Rycerskie rękawice 
+0.049% Rycerska zbroja 
+0.049% Brudna kolczuga 
+0.049% Prochy szkieletowego bandyty 
+0.049% Prochy szkieletnika 
+0.049% Owijacze czarodzieja 
+0.049% Owijki czarodzieja 
+0.049% Magiczne błyskostrze 
+0.049% Zbroja łuskowa 
+0.049% Prochy latającego marionetkowego żołnierza 
+0.049% Złota przysięga 
+0.049% Kasak z motywem Złotego Drzewa 
+0.049% Fortyfikacja złotej błyskawicy 
+0.049% Bliźniacza korona nocnej służki 
+0.049% Mgła nocnej służki 
+0.049% Zbroja nocnej służki 
+0.049% Nocna kometa 
+0.049% Hełm Nocnej Kawalerii 
+0.049% Hełm Nocnej Kawalerii (przerobiony) 
+0.049% Nagolenniki Nocnej Kawalerii 
+0.049% Rękawice Nocnej Kawalerii 
+0.049% Zbroja Nocnej Kawalerii 
+0.049% Zbroja Nocnej Kawalerii (przerobiona) 
+0.049% Nocny odłamek 
+0.049% Czarny kaptur 
+0.049% Ciemność 
+0.049% Czarny płomień 
+0.049% Kaptur mnicha czarnego płomienia 
+0.049% Nagolenniki mnicha czarnego płomienia 
+0.049% Rękawice mnicha czarnego płomienia 
+0.049% Zbroja mnicha czarnego płomienia 
+0.049% Klinga czarnego płomienia 
+0.049% Ochrona czarnego płomienia 
+0.049% Smoczy lód 
+0.049% Smocza paszcza 
+0.049% Smoczy ogień 
+0.049% Smoczy szpon 
+0.049% Błogosławieństwo smoczego pioruna 
+0.055% Gwizdek widmowego wierzchowca 
+0.061% Palec odszczepieńca 
+0.061% Szyderczy język 
+0.061% Miniatura Ranni 
+0.061% Błyskamienny klucz do Akademii 
+0.061% List: Tajemnica mistrza 
+0.061% List z Wulkanicznego Dworu 
+0.061% Popękana kryształowa łza 
+0.061% Biały pierścień szyfru 
+0.061% Szkarłatna kryształowa łza 
+0.061% Mały czerwony wizerunek 
+0.061% Podniszczona mapa 
+0.061% Niebieski pierścień szyfru 
+0.061% Modra kryształowa łza 
+0.061% Mały złoty wizerunek 
+0.067% [ERROR]List: Wielkie sarkofagi 
+0.067% List: Grupy półludzi 
+0.067% List: Przejście 
+0.067% List: Cienie chochlików 
+0.067% List: Upiory 
+0.067% List: Trolle kamienni kopacze 
+0.067% List: Wędrowne Mauzoleum 
+0.067% List: Butelka niesamowitego eliksiru 
+0.067% List: Pod stolicą 
+0.067% List: Wioska Oszalałego Płomienia 
+0.067% List: Niewidoczni zabójcy 
+0.067% List: Zaleta grawitacji 
+0.067% List: Lądowe osłonice 
+0.067% List: Ukryta jaskinia 
+0.067% List: Ruiny stanicy 
+0.067% Zgięty palec pojedynkowicza 
+0.067% Zgięty palec zmatowieńca 
+0.073% Krąg 
+0.079% Trujący smar 
+0.079% Bełt z krwawej kości 
+0.079% Strzała z krwawej kości 
+0.079% Strzała z krwawej kości (z piórami) 
+0.079% Zatruty bełt z kości 
+0.079% Zatruta strzała z kości 
+0.079% Zatruta strzała z kości (z piórami) 
+0.079% Zatruta strzałka z kości 
+0.079% Bełt z magicznej kości 
+0.079% Strzała z magicznej kości 
+0.079% Strzała z magicznej kości (z piórami) 
+0.079% Krwawy smar 
+0.079% Garnek pradawnego smoczego pioruna 
+0.079% Garnek przeklętej krwi 
+0.079% Sakramentalny pączek 
+0.079% Trująca mgiełka 
+0.079% Zatruty kamień 
+0.079% Garść zatrutych kamieni 
+0.079% Krwawy skrzep albinauryków 
+0.079% Krwawa róża 
+0.079% Szlacheckie spodnie 
+0.079% Trujący smar ze sznureczkiem 
+0.079% Krwawy smar ze sznureczkiem 
+0.079% Magiczny smar ze sznureczkiem 
+0.079% Wielki bełt błyskawic 
+0.079% Bełt błyskawic 
+0.079% Wężowa strzała 
+0.079% Magiczna strzała golema 
+0.079% Magiczny smar 
+0.085% Piguły neutralizujące 
+0.085% Piguły krzepliwości 
+0.085% Zakrwawione odchody 
+0.085% Magiczny garnek Akademii 
+0.085% Garnek ognia olbrzymów 
+0.085% Garnek trucizny 
+0.085% Trujący kwiat 
+0.085% Trujący grzyb 
+0.085% Garnek ognia 
+0.085% Ognisty kwiat 
+0.085% Ognisty garnek Lwiej Grzywy 
+0.085% Krew bestii 
+0.085% Garnek trucizny ze sznurkiem 
+0.085% Garnek ognia ze sznurkiem 
+0.085% Garnek błyskawic ze sznurkiem 
+0.085% Magiczny garnek ze sznurkiem 
+0.085% Garnek błyskawic 
+0.085% Kwiat fulgurytu 
+0.085% Magiczny garnek 
+0.092% Igła z czystego złota 
+0.098% [ERROR] 
+0.098% Remedium wezwania zgiętego palca 
+0.110% Żylasty liść 
+0.110% Łuk runiczny 
+0.110% Lilia Triny 
+0.110% Odłamki światła gwiazd 
+0.110% Łza larwy 
+0.110% Żwir 
+0.110% Lilia Miquelli 
+0.110% Oko Yelough 
+0.110% Aeoński motyl 
+0.110% Młody motyl 
+0.110% Złota stonoga 
+0.116% [ERROR]Smar z wody święconej 
+0.116% [ERROR]Zamrażający smar ze sznureczkiem 
+0.116% Ożywcze peklowane białe mięso 
+0.116% Uodparniające peklowane białe mięso 
+0.116% Bełt ze świętej Kości 
+0.116% Strzała ze świętej Kości 
+0.116% Strzała ze świętej Kości (z piórami) 
+0.116% Kościana wielka strzała 
+0.116% Kościana wielka strzała (z piórami) 
+0.116% Kościany bełt do balisty 
+0.116% Kościany bełt 
+0.116% Ognisty bełt z kości 
+0.116% Ognista strzała z kości 
+0.116% Ognista strzała z kości (z piórami) 
+0.116% Kościana strzała 
+0.116% Kościana strzała (z piórami) 
+0.116% Bełt z zimnej kości 
+0.116% Strzała z zimnej kości 
+0.116% Strzała z zimnej kości (z piórami) 
+0.116% Bełt z kości błyskawic 
+0.116% Strzała z kości błyskawic 
+0.116% Strzała z kości błyskawic (z piórami) 
+0.116% Kościana strzałka 
+0.116% Bełt zaprzysiężonego 
+0.116% Święty smar 
+0.116% Odłamek grawigłazu 
+0.116% Smar do tarczy 
+0.116% Duży odłamek błyskamienia 
+0.116% Wielka strzała 
+0.116% Poszukująca strzała 
+0.116% Odłamek błyskamienia 
+0.116% Kukri 
+0.116% Bełt do balisty 
+0.116% Bełt 
+0.116% Wachlarz sztyletów 
+0.116% Grawigłaz 
+0.116% Sztylet do rzucania 
+0.116% Naśladowca łaski 
+0.116% Kukułczy błyskamień 
+0.116% Miękka bawełna 
+0.116% Smar ogniowy 
+0.116% Ognista strzała 
+0.116% Aromat iskry 
+0.116% Blaskamień 
+0.116% Wybuchowy kamień 
+0.116% Garść wybuchowych kamieni 
+0.116% Płonący bełt 
+0.116% Pieróg z surowym mięsem 
+0.116% Strzała odłamków 
+0.116% Strzała odłamków (z piórami) 
+0.116% Strzała 
+0.116% Zapisany kamień 
+0.116% Zamrażający smar 
+0.116% Kryształowa strzałka 
+0.116% Mydło 
+0.116% Tęczowy kamień 
+0.116% Strzała tęczowego kamienia 
+0.116% Strzała tęczowego kamienia (z piórami) 
+0.116% Fragment ruin 
+0.116% Święty smar ze sznureczkiem 
+0.116% Smar ogniowy ze sznureczkiem 
+0.116% Elektryczny smar ze sznureczkiem 
+0.116% Elektryczny smar 
+0.116% Kościana strzała burzowego skrzydła 
+0.116% Wielka strzała golema 
+0.116% Złoty Run [1] 
+0.116% Złoty Run [2] 
+0.116% Złoty Run [3] 
+0.116% Złoty Run [4] 
+0.116% Złoty Run [5] 
+0.116% Złoty bełt 
+0.122% [ERROR] 
+0.122% Kwiecie z Altus 
+0.122% Odłamek ludzkiej kości 
+0.122% Gratowany bełt 
+0.122% Ożywcze peklowane mięso 
+0.122% Pobudzające piguły 
+0.122% Uodparniające peklowane mięso 
+0.122% Bełt z sennej kości 
+0.122% Strzała z sennej kości 
+0.122% Strzała z sennej kości (z piórami) 
+0.122% Bełt z przegniłej kości 
+0.122% Strzała z przegniłej kości 
+0.122% Strzała z przegniłej kości (z piórami) 
+0.122% Zamrożony rodzynek 
+0.122% Oprawiony kryształowy pączek 
+0.122% Lodowate piguły 
+0.122% Wyblakły kwiat złotolistnicy 
+0.122% Czteropalczasta łapka ptaka 
+0.122% Garnek z wodą święconą 
+0.122% Nagrobny fiołek 
+0.122% Zioło pocałunku rosy 
+0.122% Głowa wielkiej ważki 
+0.122% Pęknięty kryształ 
+0.122% Garnek animozji 
+0.122% Strzała św. Triny 
+0.122% Świętoodporna suszona wątroba 
+0.122% Ognioodporna suszona wątroba 
+0.122% Elektroodporna suszona wątroba 
+0.122% Czaroodporna suszona wątroba 
+0.122% Włócznia Radahna 
+0.122% Lotka 
+0.122% Żywica z korzenia 
+0.122% Garnek oleju 
+0.122% Jaskiniowy mech 
+0.122% Krystaliczny mech jaskiniowy 
+0.122% Pączkujący mech jaskiniowy 
+0.122% Bełt z meteoru 
+0.122% Wulkaniczny garnek 
+0.122% Kamień wulkaniczny 
+0.122% Niegasnący motyl 
+0.122% Strzała duchowego płomienia 
+0.122% Gotowana krewetka 
+0.122% Gotowany krab 
+0.122% Wielki wybuchowy bełt 
+0.122% Wybuchowy bełt 
+0.122% Odłamek szkła 
+0.122% Słodki rodzynek 
+0.122% Pasek białego mięsa 
+0.122% Śpiące jajo 
+0.122% Rozpuszczony grzyb 
+0.122% Jajnik ośmiornicy lądowej 
+0.122% Proszek Mirandy 
+0.122% Duża kość bestii 
+0.122% Garnek zepsucia 
+0.122% Cienkie kości bestii 
+0.122% Zamrażający garnek 
+0.122% Kryształowy pączek 
+0.122% Sznurek 
+0.122% Oszroniona jarzębina 
+0.122% Owoc jarzębiny 
+0.122% Rodzynek z jarzębiny 
+0.122% Plasterek mięsa 
+0.122% Marynowane mięso żółwia 
+0.122% Garnek roju 
+0.122% Kwiat złotolistnicy 
+0.122% Grzyb 
+0.122% Jaja kraba 
+0.122% Zmatowiony złoty słonecznik 
+0.122% Bełt perfumiarza 
+0.122% Zioło 
+0.122% Błyskamienny świetlik 
+0.122% Kawał mięsa 
+0.122% Wątroba bestii 
+0.122% Zabarwione na złoto odchody 
+0.122% Złoty słonecznik 
+0.122% Garnek wody święconej ze sznurkiem 
+0.122% Garnek oleju ze sznurkiem 
+0.122% Wulkaniczny garnek ze sznurkiem 
+0.122% Garnek zepsucia ze sznurkiem 
+0.122% Garnek roju ze sznurkiem 
+0.122% Wielka złota strzała 
+0.122% Złota strzała 
+0.122% Złota jarzębina 
+0.122% Bełt czarnego klucza 
+0.122% Mięso z żółwia 
+0.128% [ERROR] 
+0.128% [ERROR]Szlachetne mięso 
+0.128% Run Ziem Pomiędzy 
+0.128% Smar smoczej rany 
+0.128% Garnek snu 
+0.128% Usypiający smar 
+0.128% Szlachetne mięso 
+0.128% Piguły rozjaśniające umysł 
+0.128% Stary kieł 
+0.128% Garnek Świętego Porządku 
+0.128% Nagrobna konwalia [1] 
+0.128% Nagrobna konwalia [2] 
+0.128% Nagrobna konwalia [3] 
+0.128% Nagrobna konwalia [4] 
+0.128% Nagrobna konwalia [5] 
+0.128% Nagrobna konwalia [6] 
+0.128% Nagrobna konwalia [7] 
+0.128% Nagrobna konwalia [8] 
+0.128% Nagrobna konwalia [9] 
+0.128% Zagubione popioły wojny 
+0.128% Ponury kamień kowalski [1] 
+0.128% Ponury kamień kowalski [2] 
+0.128% Ponury kamień kowalski [3] 
+0.128% Ponury kamień kowalski [4] 
+0.128% Ponury kamień kowalski [5] 
+0.128% Ponury kamień kowalski [6] 
+0.128% Ponury kamień kowalski [7] 
+0.128% Ponury kamień kowalski [8] 
+0.128% Ponury kamień kowalski [9] 
+0.128% Błogosławieństwo baldachimu 
+0.128% Garnek wabiący bestie 
+0.128% Pokrzepiający aromat 
+0.128% Peklowane cętkowane białe mięso 
+0.128% Peklowane cętkowane mięso 
+0.128% Odnawiające piguły 
+0.128% Odłamek żyjącego słoja 
+0.128% Rozgrzewający kamień 
+0.128% Upiorna konwalia [1] 
+0.128% Upiorna konwalia [2] 
+0.128% Upiorna konwalia [3] 
+0.128% Upiorna konwalia [4] 
+0.128% Upiorna konwalia [5] 
+0.128% Upiorna konwalia [6] 
+0.128% Upiorna konwalia [7] 
+0.128% Upiorna konwalia [8] 
+0.128% Upiorna konwalia [9] 
+0.128% Aromat wrzącej krwi 
+0.128% Peklowane białe mięso rozjaśniające umysł 
+0.128% Peklowane mięso rozjaśniające umysł 
+0.128% Kamień oszalałego płomienia 
+0.128% Garnek albinauryków 
+0.128% Kamień sanktuarium 
+0.128% Marynowana srebrzysta łapka ptaka 
+0.128% Marynowana w złocie łapka ptaka 
+0.128% Garnek zgnilizny 
+0.128% Smar zgnilizny 
+0.128% Chroniące piguły 
+0.128% Szczątkowy róg 
+0.128% Skała mrówkowa 
+0.128% Nęcący garnek 
+0.128% Złoty świetlik 
+0.128% Aromat żelaznego naczynia 
+0.128% Łupina srebrnej łzy 
+0.128% Srebrny świetlik 
+0.128% Kamień kowalski [1] 
+0.128% Kamień kowalski [2] 
+0.128% Kamień kowalski [3] 
+0.128% Kamień kowalski [4] 
+0.128% Kamień kowalski [5] 
+0.128% Kamień kowalski [6] 
+0.128% Kamień kowalski [7] 
+0.128% Kamień kowalski [8] 
+0.128% Usypiający smar ze sznureczkiem 
+0.128% Smar zgnilizny ze sznureczkiem 
+0.128% Pióro burzowego jastrzębia 
+0.128% Czarująca gałąź 
+0.128% Żółty węgielek 
+0.128% Złoty Run [10] 
+0.128% Złoty Run [11] 
+0.128% Złoty Run [12] 
+0.128% Złoty Run [13] 
+0.128% Złoty Run [6] 
+0.128% Złoty Run [7] 
+0.128% Złoty Run [8] 
+0.128% Złoty Run [9] 
