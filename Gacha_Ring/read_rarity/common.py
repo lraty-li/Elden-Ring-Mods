@@ -1,3 +1,6 @@
+import os
+import xml.dom.minidom
+
 yabberPath=r"D:/Game/ERModing/Yabber.1.3.1/Yabber.exe"
 
 langs=["deude","frafr","itait","jpnjp","korkr","polpl","porbr","rusru","spaar","spaes","thath","engus","zhocn","zhotw"]
@@ -326,6 +329,7 @@ tempFillerWeapons = {
       "53020000": "爆炸大弩箭"
   }
 
+lotIdCounter = 200010  # random set flag 总是会设置一个
 def genCsvData(iterable, countdownLimit=-1):
   global lotIdCounter
   try:
@@ -358,3 +362,19 @@ def readNames(folderPath):
     allNames[csvParam[index]] = loadNamesXml(os.path.join(folderPath, msgNameFile[index] + '.fmg.xml'))
   return allNames
 
+def loadNamesXml(currXMLPath):
+  document = xml.dom.minidom.parse(currXMLPath)
+  nodes = document.documentElement.getElementsByTagName("entries")[0].childNodes
+  nodesTextNode = []
+  nodesId = []
+  nodesData = []
+  # 收集已有id 与数据
+  for node in nodes:
+    if len(node.childNodes) == 0:
+      # 为 \n 节点
+      continue
+    else:
+      nodesTextNode.append(node)
+      nodesId.append(node.getAttribute('id'))
+      nodesData.append(node.childNodes[0].data)
+  return dict(zip(nodesId, nodesData))

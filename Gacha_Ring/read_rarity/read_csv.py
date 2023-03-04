@@ -1,25 +1,8 @@
 import csv
 import pickle
-import xml.dom.minidom
+
 import os
 from common import *
-
-def loadNamesXml(currXMLPath):
-  document = xml.dom.minidom.parse(currXMLPath)
-  nodes = document.documentElement.getElementsByTagName("entries")[0].childNodes
-  nodesTextNode = []
-  nodesId = []
-  nodesData = []
-  # 收集已有id 与数据
-  for node in nodes:
-    if len(node.childNodes) == 0:
-      # 为 \n 节点
-      continue
-    else:
-      nodesTextNode.append(node)
-      nodesId.append(node.getAttribute('id'))
-      nodesData.append(node.childNodes[0].data)
-  return dict(zip(nodesId, nodesData))
 
 
 def loadParam():

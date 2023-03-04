@@ -1,6 +1,5 @@
 
 from read_xlsx import dumpDataFromXlsx
-from read_csv import loadParam, loadNamesXml
 import os
 from functools import reduce
 import random
@@ -8,9 +7,6 @@ import pickle
 import json
 from common import *
 import shutil
-
-lotIdCounter = 200010  # random set flag 总是会设置一个
-
 
 if __name__ == '__main__':
   awards = []
@@ -46,7 +42,7 @@ if __name__ == '__main__':
   allCsvLines += genCsvData(awards['common'], 538)
 
   # default
-  allCsvLines += genCsvData(awards['default'])
+  allCsvLines += genCsvData(awards['default']) # 206
   allCsvLines += genCsvData(awards['default'])
   allCsvLines += genCsvData(awards['default'])
   allCsvLines += genCsvData(awards['default'])
